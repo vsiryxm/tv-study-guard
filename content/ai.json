@@ -1,0 +1,5702 @@
+[
+ {
+  "id": "ai-24c2771116e58928",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "对着智能音箱说“播放儿歌”，它就开始播放。音箱里的帮手是",
+  "answer": "人工智能（AI）",
+  "choices": [
+   "人工智能（AI）",
+   "普通收音机",
+   "闹钟",
+   "磁带机"
+  ],
+  "explanation": "智能音箱里的语音助手是人工智能，能听懂指令并执行。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "身边的AI"
+ },
+ {
+  "id": "ai-29be5d2129810b38",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "扫地机器人自己知道往哪扫，碰到桌腿还会转弯，因为它装着",
+  "answer": "会判断的程序",
+  "choices": [
+   "会判断的程序",
+   "一个小人",
+   "一根弹簧",
+   "一节电池"
+  ],
+  "explanation": "机器人靠程序和传感器判断方向并避障。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "身边的AI"
+ },
+ {
+  "id": "ai-9eaa3ca931b51313",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "对着不认识的字拍照，手机就能显示读音和意思，这是 AI 在帮你",
+  "answer": "认字",
+  "choices": [
+   "认字",
+   "充电",
+   "打电话",
+   "拍照打印"
+  ],
+  "explanation": "拍照识字是人工智能的常见本领。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "身边的AI"
+ },
+ {
+  "id": "ai-9d8ad616fd35cf2c",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "喊“小爱同学，明天天气怎么样”就能得到回答，这类功能叫",
+  "answer": "语音助手",
+  "choices": [
+   "语音助手",
+   "计算器",
+   "手电筒",
+   "闹钟"
+  ],
+  "explanation": "语音助手能听懂话并回答问题。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "语音助手"
+ },
+ {
+  "id": "ai-22335332d0e67b86",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "爸爸看一眼手机就解锁了，手机用到的技术是",
+  "answer": "人脸识别",
+  "choices": [
+   "人脸识别",
+   "指南针",
+   "蓝牙",
+   "手电筒"
+  ],
+  "explanation": "刷脸解锁靠人脸识别技术。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "身边的AI"
+ },
+ {
+  "id": "ai-875d257a0dfff428",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "视频网站总给你推荐爱看的动画片，这是",
+  "answer": "AI 在猜你喜欢",
+  "choices": [
+   "AI 在猜你喜欢",
+   "妈妈设置的",
+   "完全随机的",
+   "广告牌写的"
+  ],
+  "explanation": "推荐系统根据你的观看记录推荐内容。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "身边的AI"
+ },
+ {
+  "id": "ai-879af86c41012b99",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 的中文全称是",
+  "answer": "人工智能",
+  "choices": [
+   "人工智能",
+   "互联网",
+   "计算机",
+   "机器人"
+  ],
+  "explanation": "AI 是人工智能的英文缩写。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-ae4d6fdfbd5b4fe0",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 是",
+  "answer": "一种让机器变聪明的技术",
+  "choices": [
+   "一种让机器变聪明的技术",
+   "一种动物",
+   "一种食物",
+   "一种运动"
+  ],
+  "explanation": "人工智能让机器能听、能看、能回答。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-82212f82b3f011ea",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "语音助手能听懂我们说话，主要靠",
+  "answer": "人工智能",
+  "choices": [
+   "人工智能",
+   "魔法",
+   "嗓门大",
+   "运气好"
+  ],
+  "explanation": "语音识别是人工智能的重要本领。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "语音助手"
+ },
+ {
+  "id": "ai-2da62b051d4bef6f",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "扫地机器人要正常工作，最需要",
+  "answer": "电",
+  "choices": [
+   "电",
+   "吃饭",
+   "睡觉",
+   "玩具"
+  ],
+  "explanation": "机器人靠电池供电工作。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "身边的AI"
+ },
+ {
+  "id": "ai-c2a5b56c73ea70b9",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "能自动把外语变成中文的软件，是 AI 在",
+  "answer": "翻译",
+  "choices": [
+   "翻译",
+   "画画",
+   "唱歌",
+   "算命"
+  ],
+  "explanation": "机器翻译是人工智能的常见应用。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "身边的AI"
+ },
+ {
+  "id": "ai-5330a25f30748f6f",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "导航软件帮爸爸找去动物园的路，还知道哪里堵车，这是 AI 在",
+  "answer": "指路",
+  "choices": [
+   "指路",
+   "猜谜",
+   "讲故事",
+   "玩游戏"
+  ],
+  "explanation": "导航用 AI 分析路况规划路线。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "身边的AI"
+ },
+ {
+  "id": "ai-8045c635a4c724f6",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "智能手表能数你今天走了多少步，这是 AI 在",
+  "answer": "计步",
+  "choices": [
+   "计步",
+   "画画",
+   "拍照",
+   "唱歌"
+  ],
+  "explanation": "计步靠传感器和算法完成。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "身边的AI"
+ },
+ {
+  "id": "ai-50039fe72ddf3a02",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "会唱歌讲故事的机器人，它的声音是",
+  "answer": "机器合成的",
+  "choices": [
+   "机器合成的",
+   "肚子里有人",
+   "录的老师声音",
+   "天生就有的"
+  ],
+  "explanation": "机器人的声音由程序合成从喇叭播出。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-7472b4955224f003",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 下棋能赢世界冠军，这说明 AI",
+  "answer": "某些方面比人强",
+  "choices": [
+   "某些方面比人强",
+   "什么都比人强",
+   "和人完全一样",
+   "没什么用处"
+  ],
+  "explanation": "AI 算得快，但不是样样都比人强。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-d6c69c92bde0762d",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "讲故事 APP 能用不同的声音演不同的角色，这是 AI 在",
+  "answer": "配音",
+  "choices": [
+   "配音",
+   "吃饭",
+   "跳舞",
+   "睡觉"
+  ],
+  "explanation": "语音合成能变换音色扮演角色。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "身边的AI"
+ },
+ {
+  "id": "ai-74186a9956ff9f67",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "拍照识花软件认出公园里的花，AI 是靠",
+  "answer": "认识很多花的照片",
+  "choices": [
+   "认识很多花的照片",
+   "问路人",
+   "翻书瞎猜",
+   "闻花香"
+  ],
+  "explanation": "AI 学过大量花的照片才能认花。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "身边的AI"
+ },
+ {
+  "id": "ai-347dfac9e08f3773",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 藏在",
+  "answer": "手机、电视等机器里",
+  "choices": [
+   "手机、电视等机器里",
+   "天上",
+   "水里",
+   "树上"
+  ],
+  "explanation": "AI 是软件，藏在带芯片的机器里运行。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-8740ad3d3e20b552",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "语音助手回答“明天天气”前，第一步是",
+  "answer": "听懂你说的话",
+  "choices": [
+   "听懂你说的话",
+   "先唱一首歌",
+   "先睡一觉",
+   "先吃个饭"
+  ],
+  "explanation": "先识别语音，再查答案，最后说出来。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "语音助手"
+ },
+ {
+  "id": "ai-079d16b11e0b13bd",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "扫地机器人碰到桌腿会转弯，因为它",
+  "answer": "感觉到了障碍",
+  "choices": [
+   "感觉到了障碍",
+   "害怕桌腿",
+   "被人遥控",
+   "看见了小人"
+  ],
+  "explanation": "传感器让机器人能察觉障碍。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-4fbf53f112ebe792",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "叫语音助手前先喊唤醒词，是为了",
+  "answer": "告诉它你在跟它说话",
+  "choices": [
+   "告诉它你在跟它说话",
+   "给它充电",
+   "让它变大",
+   "让它走路"
+  ],
+  "explanation": "唤醒词用于判断指令什么时候开始。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "语音助手"
+ },
+ {
+  "id": "ai-85d4480937ca5797",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 能把报纸念给看不清字的爷爷奶奶听，用的是",
+  "answer": "文字转语音",
+  "choices": [
+   "文字转语音",
+   "画画",
+   "拼图",
+   "算术"
+  ],
+  "explanation": "文字转语音帮助视障人士阅读。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-3a0a94c07b90e448",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 是靠什么变聪明的",
+  "answer": "学习很多例子",
+  "choices": [
+   "学习很多例子",
+   "喝牛奶",
+   "睡觉",
+   "晒太阳"
+  ],
+  "explanation": "AI 看的例子越多，本领越强。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-65f050a71d023975",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 说错了答案时，应该",
+  "answer": "指出错误让它改正",
+  "choices": [
+   "指出错误让它改正",
+   "全都相信",
+   "再也不用AI",
+   "砸了机器"
+  ],
+  "explanation": "AI 会错，人要把关并反馈。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-0a4d85715d55b696",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 没有真正的眼睛，它“看”东西靠",
+  "answer": "摄像头",
+  "choices": [
+   "摄像头",
+   "做眼保健操",
+   "望远镜",
+   "手电筒"
+  ],
+  "explanation": "摄像头是 AI 的“眼睛”。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "身边的AI"
+ },
+ {
+  "id": "ai-7c27e2dc15c33ad4",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "机器人做动作是按照",
+  "answer": "人写给它的指令",
+  "choices": [
+   "人写给它的指令",
+   "自己的心情",
+   "天气变化",
+   "月亮圆缺"
+  ],
+  "explanation": "程序指令指挥机器人行动。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-d5d212ca211d7f5a",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "语音助手突然大声说话吓你一跳，最可能因为",
+  "answer": "它听错了话",
+  "choices": [
+   "它听错了话",
+   "它生气了",
+   "它饿了",
+   "它困了"
+  ],
+  "explanation": "AI 会识别错误，可以按静音。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "语音助手"
+ },
+ {
+  "id": "ai-321cdf2dc8b697c9",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "说话变成屏幕上的字，这是 AI 在",
+  "answer": "把声音变成字",
+  "choices": [
+   "把声音变成字",
+   "把字变成声音",
+   "拍照存档",
+   "翻译外语"
+  ],
+  "explanation": "语音输入靠语音识别完成。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "语音助手"
+ },
+ {
+  "id": "ai-4887ef8a967c1b07",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 猜你喜欢什么动画片，是看你",
+  "answer": "看过的动画片",
+  "choices": [
+   "看过的动画片",
+   "的书包",
+   "的名字",
+   "的教室"
+  ],
+  "explanation": "推荐依据是你的观看记录。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-4329e3e8fc1085b6",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "扫地机器人没电时自己回充电座，是 AI 在",
+  "answer": "自动回家充电",
+  "choices": [
+   "自动回家充电",
+   "玩游戏",
+   "找妈妈",
+   "睡觉"
+  ],
+  "explanation": "自动回充是机器人常见的智能行为。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-93cd61db0bdf21e6",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "动画片里机器人的表情是",
+  "answer": "机器做出来的",
+  "choices": [
+   "机器做出来的",
+   "真人脸",
+   "纸上画的",
+   "老师演的"
+  ],
+  "explanation": "动画角色的表情由程序生成。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-56d2d4801bd4ae12",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 帮你检查口算对错，你应该",
+  "answer": "自己再算一遍确认",
+  "choices": [
+   "自己再算一遍确认",
+   "直接抄它的",
+   "不看结果",
+   "撕掉作业"
+  ],
+  "explanation": "AI 只当帮手，答案自己核实。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-6f6215a835e1af12",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "智能音箱不叫它就不说话，说明它",
+  "answer": "等着被唤醒",
+  "choices": [
+   "等着被唤醒",
+   "在睡觉",
+   "生病了",
+   "害羞"
+  ],
+  "explanation": "待机状态等待唤醒词。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "语音助手"
+ },
+ {
+  "id": "ai-dce4ccd4c18231e2",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 学认“苹果”，要看",
+  "answer": "很多苹果的照片",
+  "choices": [
+   "很多苹果的照片",
+   "一张照片就够",
+   "苹果树",
+   "果农的照片"
+  ],
+  "explanation": "例子越多学得越准。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-c064cdc43b248e8f",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 会做数学题却感觉不到冷热，因为 AI",
+  "answer": "没有真正的身体感觉",
+  "choices": [
+   "没有真正的身体感觉",
+   "没有电",
+   "个子太小",
+   "怕冷"
+  ],
+  "explanation": "AI 没有人的身体和感官。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-047f7a4a7a853f14",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "教语音助手记住你的声音，以后它就认得你，这叫 AI 的",
+  "answer": "学习能力",
+  "choices": [
+   "学习能力",
+   "飞行能力",
+   "游泳能力",
+   "睡眠能力"
+  ],
+  "explanation": "AI 能通过学习记住特征。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-a5e69bd0f9daa0a4",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 画画",
+  "answer": "能生成漂亮的图案",
+  "choices": [
+   "能生成漂亮的图案",
+   "比谁都画得好",
+   "会累得手疼",
+   "需要买画笔"
+  ],
+  "explanation": "AI 生成图片不用手和笔。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-cde7ab22ef5a22ec",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 和计算器最大的不同是",
+  "answer": "AI 会学习",
+  "choices": [
+   "AI 会学习",
+   "计算器更聪明",
+   "AI 不用电",
+   "两个一样"
+  ],
+  "explanation": "计算器只会按固定规则算，AI 能学习进步。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-97a9d725ee84fc71",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 的“大脑”其实是",
+  "answer": "芯片和程序",
+  "choices": [
+   "芯片和程序",
+   "真的脑子",
+   "一块饼干",
+   "一个小人"
+  ],
+  "explanation": "芯片负责计算，程序负责思考步骤。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-7e8d89dbcff3c578",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 不会像人一样长大，它靠什么变厉害",
+  "answer": "升级和学习",
+  "choices": [
+   "升级和学习",
+   "吃饭",
+   "长个子",
+   "换衣服"
+  ],
+  "explanation": "AI 靠更新数据和程序变强。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-bb912ac52a7c31ca",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "机器人没有嘴巴也能“说话”，声音来自",
+  "answer": "喇叭播放合成声音",
+  "choices": [
+   "喇叭播放合成声音",
+   "肚子里的小人",
+   "嘴唇",
+   "磁带"
+  ],
+  "explanation": "语音合成后由喇叭发声。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-0a275becccb93244",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "语音助手听不懂你的话时，最好",
+  "answer": "说得慢一点清楚一点",
+  "choices": [
+   "说得慢一点清楚一点",
+   "大声喊",
+   "赌气不说",
+   "摔遥控器"
+  ],
+  "explanation": "放慢说清楚能帮助识别。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "语音助手"
+ },
+ {
+  "id": "ai-d1fdc286d625c45c",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 能认出照片里的猫，是因为它",
+  "answer": "学习过很多猫的照片",
+  "choices": [
+   "学习过很多猫的照片",
+   "天生认识猫",
+   "闻到了猫",
+   "猫告诉它的"
+  ],
+  "explanation": "训练照片让 AI 学会认猫。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-dec2be6d2264e758",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "和小朋友比赛，AI 做得更好的是",
+  "answer": "算得快",
+  "choices": [
+   "算得快",
+   "跑步",
+   "交朋友",
+   "说悄悄话"
+  ],
+  "explanation": "AI 计算快，但交朋友不如人。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-1b9eaf058147e570",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "给 AI 看的例子太少，它会",
+  "answer": "容易认错",
+  "choices": [
+   "容易认错",
+   "变得更聪明",
+   "自己长大",
+   "突然停电"
+  ],
+  "explanation": "数据太少学不准。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-678389acb44790e5",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "第一个赢过棋类世界冠军的 AI，赢的原因是",
+  "answer": "算得又快又多",
+  "choices": [
+   "算得又快又多",
+   "对手让它",
+   "它作弊",
+   "运气好"
+  ],
+  "explanation": "AI 靠强大计算力算遍棋路。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-b073b2361bec84c2",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 要一直学习才保持本领，就像小朋友要",
+  "answer": "天天学习",
+  "choices": [
+   "天天学习",
+   "天天看电视",
+   "一直睡觉",
+   "只玩游戏"
+  ],
+  "explanation": "本领要靠练习保持。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-1a9a4759863f52a4",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "玩具机器人说“跟我玩吧”，这句话是",
+  "answer": "提前录好或合成的",
+  "choices": [
+   "提前录好或合成的",
+   "机器人自己想出来的",
+   "机器人生病了",
+   "小人在说话"
+  ],
+  "explanation": "机器语音来自录音或合成。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-59a456109aa7507b",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 能帮人做很多事，但指挥 AI 的是",
+  "answer": "人",
+  "choices": [
+   "人",
+   "AI 自己",
+   "机器人",
+   "电视机"
+  ],
+  "explanation": "AI 是工具，人是主人。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-a5b69138ef1890eb",
+  "subject": "ai",
+  "minGrade": 1,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 推荐的动画片你不喜欢，可以",
+  "answer": "点“不感兴趣”告诉它",
+  "choices": [
+   "点“不感兴趣”告诉它",
+   "把电视砸了",
+   "告诉老师",
+   "大哭一场"
+  ],
+  "explanation": "反馈能帮 AI 调整推荐。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-2d38dcda20248de9",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "拍照就能认出猫还是狗，AI 是在",
+  "answer": "识别动物",
+  "choices": [
+   "识别动物",
+   "画画",
+   "唱歌",
+   "充电"
+  ],
+  "explanation": "图像识别能分辨动物种类。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "身边的AI"
+ },
+ {
+  "id": "ai-54724692a75005f4",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "语音输入把你说的字打到屏幕上，AI 先要",
+  "answer": "听清每个字",
+  "choices": [
+   "听清每个字",
+   "睡一觉",
+   "吃早餐",
+   "拍张照"
+  ],
+  "explanation": "先识别语音再变成文字。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "语音助手"
+ },
+ {
+  "id": "ai-0ebf2bf9e2b2a50d",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "陪你聊天的智能音箱，其实是",
+  "answer": "一个会聊天的程序",
+  "choices": [
+   "一个会聊天的程序",
+   "一个小人",
+   "一台冰箱",
+   "一个喇叭盒子"
+  ],
+  "explanation": "音箱里的语音助手是程序。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "语音助手"
+ },
+ {
+  "id": "ai-0e90b559d2eea4e0",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "扫地机器人能记住家里地图，靠的是",
+  "answer": "边扫边记",
+  "choices": [
+   "边扫边记",
+   "妈妈画的地图",
+   "出厂自带",
+   "瞎猜的"
+  ],
+  "explanation": "机器人边清扫边建立地图。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-2d3d6e433739625e",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "翻译机把中文变成英文，是 AI 在",
+  "answer": "翻译",
+  "choices": [
+   "翻译",
+   "朗读",
+   "抄写",
+   "计算"
+  ],
+  "explanation": "机器翻译是 AI 的拿手活。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "身边的AI"
+ },
+ {
+  "id": "ai-83513e1feea68eb8",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "有的 App 给英语发音打分，这是",
+  "answer": "AI 在听你的发音",
+  "choices": [
+   "AI 在听你的发音",
+   "老师远程听",
+   "同学偷听",
+   "随机打分"
+  ],
+  "explanation": "语音评测给发音打分。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-0d7a0fbb6d335a22",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "下棋 AI 能同时和很多人下棋，说明 AI",
+  "answer": "可以同时做很多事",
+  "choices": [
+   "可以同时做很多事",
+   "会分身术",
+   "里面有很多人",
+   "它作弊"
+  ],
+  "explanation": "计算机能并行处理多个任务。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-5af066a2f8e2fb32",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "无人机能稳稳地飞，是因为",
+  "answer": "飞控程序不停调整",
+  "choices": [
+   "飞控程序不停调整",
+   "有魔法",
+   "风吹得稳",
+   "有人举着"
+  ],
+  "explanation": "飞控算法让无人机保持平衡。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-c845cff8400f2acd",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "医院里 AI 帮医生看片子找问题，AI 当",
+  "answer": "医生的好帮手",
+  "choices": [
+   "医生的好帮手",
+   "病人",
+   "一粒药",
+   "院长"
+  ],
+  "explanation": "AI 辅助医生读片。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-9725e629e08f412f",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "手机地图说“前方堵车”，是 AI 根据",
+  "answer": "很多车的位置算出来的",
+  "choices": [
+   "很多车的位置算出来的",
+   "天气预报员的梦",
+   "月亮位置",
+   "交警的表情"
+  ],
+  "explanation": "路况来自大量车辆的实时数据。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-3969c707e0c729ef",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 帮天文学家在照片里数星星，靠的是",
+  "answer": "自动识别",
+  "choices": [
+   "自动识别",
+   "望远镜自己数",
+   "数学家口算",
+   "好运气"
+  ],
+  "explanation": "图像识别让数星星变快。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-b521868aa1a2ede4",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "餐厅里送菜的机器人认路，靠",
+  "answer": "记路线和传感器",
+  "choices": [
+   "记路线和传感器",
+   "好运气",
+   "服务员遥控",
+   "闻菜香"
+  ],
+  "explanation": "机器人按地图和传感器导航。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-527e83d4bc3ae231",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "停车场摄像头认出车牌，是",
+  "answer": "识别文字",
+  "choices": [
+   "识别文字",
+   "看颜色",
+   "数汽车",
+   "猜的"
+  ],
+  "explanation": "车牌识别是文字识别的应用。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-dc3086c99104ae45",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 天气预报更准了，因为 AI",
+  "answer": "分析了超多天气数据",
+  "choices": [
+   "分析了超多天气数据",
+   "会看云",
+   "有水晶球",
+   "胆子大"
+  ],
+  "explanation": "海量数据让预测更准。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-72710353ea7a7824",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "智能电视问你喜欢看什么，是为了",
+  "answer": "给你推荐节目",
+  "choices": [
+   "给你推荐节目",
+   "收作业",
+   "交朋友",
+   "收电费"
+  ],
+  "explanation": "收集偏好用于推荐。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-7e83d51eb6c102f6",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 帮农民看庄稼生没生病，用的可能是",
+  "answer": "拍照识别",
+  "choices": [
+   "拍照识别",
+   "尝味道",
+   "问庄稼",
+   "摸泥土"
+  ],
+  "explanation": "拍照识别病虫害是农业 AI 的应用。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-5a22960a944f0185",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "工厂里拧螺丝的机械臂是",
+  "answer": "机器不是人",
+  "choices": [
+   "机器不是人",
+   "一个工人",
+   "一个学生",
+   "一个大玩具"
+  ],
+  "explanation": "机械臂由程序控制完成任务。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-cbc8be136a30c0f7",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "语音助手回答前会“想一想”，这个“想”是",
+  "answer": "计算和查找",
+  "choices": [
+   "计算和查找",
+   "闭上眼睛",
+   "原地转圈",
+   "打个哈欠"
+  ],
+  "explanation": "“想”是程序在计算。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "语音助手"
+ },
+ {
+  "id": "ai-7aad0ce73ee53997",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 认得出妈妈的声音，是因为它",
+  "answer": "学习过妈妈的声音",
+  "choices": [
+   "学习过妈妈的声音",
+   "有耳朵",
+   "妈妈托过梦",
+   "个子高"
+  ],
+  "explanation": "声音识别靠学习声音样本。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "语音助手"
+ },
+ {
+  "id": "ai-d5d84f2a11f3bcf9",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 答对要夸、答错要纠，它才能",
+  "answer": "越学越好",
+  "choices": [
+   "越学越好",
+   "长高",
+   "吃得香",
+   "睡得香"
+  ],
+  "explanation": "反馈让 AI 不断进步。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI如何学"
+ },
+ {
+  "id": "ai-a614e0b2ac4d2445",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI“考试”答错了，工程师会",
+  "answer": "改程序和数据让它学会",
+  "choices": [
+   "改程序和数据让它学会",
+   "罚它站墙角",
+   "换个新机器",
+   "给它放假"
+  ],
+  "explanation": "改进训练才能纠正错误。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI如何学"
+ },
+ {
+  "id": "ai-dae2d38b89666d16",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 长什么样",
+  "answer": "没有固定样子，藏在机器里",
+  "choices": [
+   "没有固定样子，藏在机器里",
+   "都长得像人",
+   "都是正方形",
+   "都很好看"
+  ],
+  "explanation": "AI 是程序，外观取决于机器。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-e49609ec1860dfc2",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 认字和小朋友认字一样，都需要",
+  "answer": "多看多练",
+  "choices": [
+   "多看多练",
+   "吃早餐",
+   "穿新衣服",
+   "买文具"
+  ],
+  "explanation": "反复练习才能记得牢。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI如何学"
+ },
+ {
+  "id": "ai-bef1c5e41f38f3d6",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 帮医生看 X 光片，最后说了算的是",
+  "answer": "医生",
+  "choices": [
+   "医生",
+   "AI",
+   "护士",
+   "保安"
+  ],
+  "explanation": "AI 辅助，医生负责判断。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-89248511b9590aea",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "音箱把“关灯”听成“开灯”，说明 AI",
+  "answer": "也会听错",
+  "choices": [
+   "也会听错",
+   "故意的",
+   "坏了",
+   "讨厌你"
+  ],
+  "explanation": "语音识别会出错。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "语音助手"
+ },
+ {
+  "id": "ai-4cf9825297d154c4",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "识花软件判断的依据是",
+  "answer": "花的形状和颜色特征",
+  "choices": [
+   "花的形状和颜色特征",
+   "花上写着名字",
+   "闻花香",
+   "只数花瓣"
+  ],
+  "explanation": "AI 按特征判断花的种类。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-648741cbd356fa02",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 要听懂“大”这个字，要听",
+  "answer": "很多人说“大”的录音",
+  "choices": [
+   "很多人说“大”的录音",
+   "一个字母",
+   "拼音表",
+   "字典纸"
+  ],
+  "explanation": "语音识别要学习大量发音样本。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI如何学"
+ },
+ {
+  "id": "ai-f8e144e2af45047f",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "导航说“前方三公里堵车”，是综合了",
+  "answer": "路上很多车的速度",
+  "choices": [
+   "路上很多车的速度",
+   "太阳的位置",
+   "你的心情",
+   "广播的音乐"
+  ],
+  "explanation": "实时车速数据支撑预测。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-f15c191e0ed9a25b",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "训练 AI 认猫，要给它看",
+  "answer": "各种各样的猫的照片",
+  "choices": [
+   "各种各样的猫的照片",
+   "狗的照片就够",
+   "一只猫",
+   "猫粮包装"
+  ],
+  "explanation": "多样的样本才能学会认猫。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI如何学"
+ },
+ {
+  "id": "ai-fc7a4eae529bda1f",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "送餐机器人避开小朋友，靠的是",
+  "answer": "发现障碍就停下",
+  "choices": [
+   "发现障碍就停下",
+   "认识小朋友",
+   "大喊让开",
+   "一跳而过"
+  ],
+  "explanation": "避障是机器人的基本本领。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-5e116e715cd240e1",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "英语发音打分，AI 主要听",
+  "answer": "发音像不像标准音",
+  "choices": [
+   "发音像不像标准音",
+   "胆子大不大",
+   "声音响不响",
+   "话多不多"
+  ],
+  "explanation": "和标准音对比给出分数。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-91b8e39389fddc34",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "用 AI 查不会的字，正确做法是",
+  "answer": "很方便，但要自己再确认",
+  "choices": [
+   "很方便，但要自己再确认",
+   "全都直接抄",
+   "不能碰 AI",
+   "让 AI 替你写"
+  ],
+  "explanation": "AI 当工具，答案自己把关。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-9f2a8fbf482f402a",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "红绿灯坏了，自动驾驶的 AI 可能",
+  "answer": "判断出错",
+  "choices": [
+   "判断出错",
+   "变得更聪明",
+   "自己动手修",
+   "打电话报警"
+  ],
+  "explanation": "异常情况会让 AI 出错。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-8e09a5ffd19b7992",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "语音助手请你“再说一遍”，说明它",
+  "answer": "识别没把握",
+  "choices": [
+   "识别没把握",
+   "想拖延时间",
+   "耳朵进水",
+   "讨厌你"
+  ],
+  "explanation": "不确定时请求重复更安全。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "语音助手"
+ },
+ {
+  "id": "ai-c090ffa1f4b4db71",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 会不会答错",
+  "answer": "会",
+  "choices": [
+   "会",
+   "不会",
+   "只在电视里会",
+   "只对大人才会"
+  ],
+  "explanation": "AI 会出错，不能全信。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-f730a03e5500472c",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 答案错了，你应该",
+  "answer": "自己查证再定",
+  "choices": [
+   "自己查证再定",
+   "相信它",
+   "删掉 App",
+   "骂它一顿"
+  ],
+  "explanation": "核实是使用 AI 的好习惯。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-1e7cbb447e721514",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 分不清哈士奇和狼，最可能因为",
+  "answer": "两种长得太像",
+  "choices": [
+   "两种长得太像",
+   "AI 偷懒",
+   "照片太清楚",
+   "你看错了"
+  ],
+  "explanation": "相似的特征让 AI 犯难。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI如何学"
+ },
+ {
+  "id": "ai-857c01f8466a621f",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 学说话更像",
+  "answer": "鹦鹉学舌练得多",
+  "choices": [
+   "鹦鹉学舌练得多",
+   "婴儿长大",
+   "电池充电",
+   "树苗长高"
+  ],
+  "explanation": "AI 靠大量模仿和练习学语言。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI如何学"
+ },
+ {
+  "id": "ai-22599d394663c4ae",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 讲故事讲错了，说明",
+  "answer": "AI 不完美，人要把关",
+  "choices": [
+   "AI 不完美，人要把关",
+   "AI 全没用",
+   "故事书错了",
+   "你听错了"
+  ],
+  "explanation": "AI 出错需要人来纠正。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-000160bcf90d3d47",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 帮你定复习计划后，你该",
+  "answer": "按自己情况调整后执行",
+  "choices": [
+   "按自己情况调整后执行",
+   "一字不改",
+   "撕掉计划",
+   "让 AI 替你考试"
+  ],
+  "explanation": "计划要适合自己的节奏。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-b0906a70597ec0c2",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 会不会累",
+  "answer": "不会累，但会出故障",
+  "choices": [
+   "不会累，但会出故障",
+   "会打瞌睡",
+   "会脚酸",
+   "会感冒"
+  ],
+  "explanation": "机器不疲劳，但可能坏。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-59f0de3cc04d97ef",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "两台扫地机器人本领不同，因为",
+  "answer": "学习的程序和数据不同",
+  "choices": [
+   "学习的程序和数据不同",
+   "外壳颜色不同",
+   "一个贵一个便宜",
+   "名字不同"
+  ],
+  "explanation": "不同模型和数据造就不同本领。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI如何学"
+ },
+ {
+  "id": "ai-589da545883286d7",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 能不能替你交朋友",
+  "answer": "不能",
+  "choices": [
+   "不能",
+   "能",
+   "有时候能",
+   "长大了就能"
+  ],
+  "explanation": "交朋友要真心，AI 替不了。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-3d7a4eb3d932de74",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "天天只看 AI 推的恐龙视频，以后它可能",
+  "answer": "只给你推恐龙",
+  "choices": [
+   "只给你推恐龙",
+   "推荐所有东西",
+   "忘记你",
+   "直接坏掉"
+  ],
+  "explanation": "单向偏好会让推荐变窄。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-2bdae4b1ea30f75e",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 有“眼睛耳朵”吗",
+  "answer": "有传感器当眼睛耳朵",
+  "choices": [
+   "有传感器当眼睛耳朵",
+   "有真眼睛",
+   "完全没有",
+   "大人才有"
+  ],
+  "explanation": "传感器就是 AI 的感官。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-ac044973462a2042",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 需要休息吗",
+  "answer": "不用休息但需要维护",
+  "choices": [
+   "不用休息但需要维护",
+   "要睡午觉",
+   "要放暑假",
+   "要旅游"
+  ],
+  "explanation": "机器不用睡觉但要保养。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-a27f621a2c3728f5",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "为什么不能什么都问 AI",
+  "answer": "AI 会出错，要学会自己思考",
+  "choices": [
+   "AI 会出错，要学会自己思考",
+   "AI 要收费",
+   "AI 会生气",
+   "老师不许"
+  ],
+  "explanation": "独立思考比依赖更重要。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-56f9c648d234605a",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 和计算器比赛背古诗，谁赢",
+  "answer": "AI",
+  "choices": [
+   "AI",
+   "计算器",
+   "打平",
+   "都不会"
+  ],
+  "explanation": "计算器只会算数，AI 学过文字。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-730c86286852cc59",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 越用越好用，是因为它",
+  "answer": "从使用中积累经验",
+  "choices": [
+   "从使用中积累经验",
+   "越用越新",
+   "电充得足",
+   "主人换得勤"
+  ],
+  "explanation": "使用数据帮助模型改进。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI如何学"
+ },
+ {
+  "id": "ai-0897373ae3549879",
+  "subject": "ai",
+  "minGrade": 2,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 推的视频一直很难看，最好",
+  "answer": "点“不喜欢”并换类型看",
+  "choices": [
+   "点“不喜欢”并换类型看",
+   "一直看下去",
+   "卸载电视",
+   "对着遥控器发火"
+  ],
+  "explanation": "反馈和主动选择能改善推荐。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-31193dfbae162a91",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 变聪明的主要方法是",
+  "answer": "学习大量例子",
+  "choices": [
+   "学习大量例子",
+   "喝营养品",
+   "睡大觉",
+   "换新电池"
+  ],
+  "explanation": "机器学习靠例子进步。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-68946864007fcacc",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "给 AI 看上百张猫照片学认猫，这个过程叫",
+  "answer": "训练",
+  "choices": [
+   "训练",
+   "考试",
+   "放假",
+   "拼装"
+  ],
+  "explanation": "训练让模型学会本领。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-8056ca00322f5bdc",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 学习用的“例子”在电脑里叫",
+  "answer": "数据",
+  "choices": [
+   "数据",
+   "玩具",
+   "零食",
+   "电池"
+  ],
+  "explanation": "数据是 AI 的学习材料。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-715dcd9ef663775c",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 把垃圾分成厨余和可回收，是学会了",
+  "answer": "按特征分类",
+  "choices": [
+   "按特征分类",
+   "闻味道",
+   "烧一烧",
+   "拍照打印"
+  ],
+  "explanation": "分类是机器学习的基本任务。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-2cea49eef0563ee7",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 认照片又快又准，因为它",
+  "answer": "学过海量照片",
+  "choices": [
+   "学过海量照片",
+   "眼睛特别好",
+   "运气好",
+   "天生就会"
+  ],
+  "explanation": "大量训练造就高准确率。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-5cf326d5c2348e04",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "“算法”的意思是",
+  "answer": "做事情的步骤和方法",
+  "choices": [
+   "做事情的步骤和方法",
+   "一种玩具",
+   "一种电池",
+   "一种零食"
+  ],
+  "explanation": "算法是解决问题的步骤。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-0bc280499d52bfc3",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "语音助手把声音变成文字，这一步叫",
+  "answer": "语音识别",
+  "choices": [
+   "语音识别",
+   "唱歌",
+   "录音",
+   "调大音量"
+  ],
+  "explanation": "语音识别是第一步。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-7ccfc029ca8cece0",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 计算速度",
+  "answer": "比人快得多",
+  "choices": [
+   "比人快得多",
+   "比人慢",
+   "和人一样",
+   "看心情"
+  ],
+  "explanation": "计算机运算速度远超人。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-6e0b18123a8dea14",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 要变聪明，最不需要的是",
+  "answer": "零食",
+  "choices": [
+   "零食",
+   "数据",
+   "算法",
+   "算力"
+  ],
+  "explanation": "数据、算法、算力才是三要素。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-13b02555fe7e848b",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "电脑里的 AI 程序本质是",
+  "answer": "软件",
+  "choices": [
+   "软件",
+   "饮料",
+   "家具",
+   "衣服"
+  ],
+  "explanation": "AI 是运行在机器里的软件。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-913b4255aee1b460",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 一般在哪里运行",
+  "answer": "电脑和服务器里",
+  "choices": [
+   "电脑和服务器里",
+   "云彩里",
+   "冰箱里",
+   "书包里"
+  ],
+  "explanation": "AI 在计算设备中运行。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-fc932fe4679049ac",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "翻译软件越用越好，因为它",
+  "answer": "不断学习和更新",
+  "choices": [
+   "不断学习和更新",
+   "主人换了",
+   "电池新了",
+   "屏幕大了"
+  ],
+  "explanation": "持续学习让模型进步。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-dcd6ceff32353a68",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 玩“找不同”比人快，因为",
+  "answer": "擅长找图案规律",
+  "choices": [
+   "擅长找图案规律",
+   "手比较快",
+   "眼睛比较多",
+   "偷偷作弊"
+  ],
+  "explanation": "模式识别是 AI 的强项。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-c613c895f80c7790",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "机械臂动作又准又稳，是因为",
+  "answer": "程序精确控制",
+  "choices": [
+   "程序精确控制",
+   "里面藏了工人",
+   "有魔法",
+   "磁铁吸着"
+  ],
+  "explanation": "程序控制让动作精准。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-fee46df563cdd94c",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 批改口算题",
+  "answer": "又快又准",
+  "choices": [
+   "又快又准",
+   "经常睡觉",
+   "会撕作业",
+   "只批第一题"
+  ],
+  "explanation": "自动批改是 AI 的强项。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-dd0c56f7cf299a25",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "智能门禁刷脸开门，用的是",
+  "answer": "人脸识别",
+  "choices": [
+   "人脸识别",
+   "语音合成",
+   "地图导航",
+   "机器翻译"
+  ],
+  "explanation": "人脸识别用于身份验证。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-e1013ef3624635c4",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 把新闻读给你听，用的是",
+  "answer": "语音合成",
+  "choices": [
+   "语音合成",
+   "人脸识别",
+   "拍照识图",
+   "图像剪辑"
+  ],
+  "explanation": "语音合成把文字变声音。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-17ff4f629cb20b04",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "“机器学习”的意思是",
+  "answer": "机器从数据里学本领",
+  "choices": [
+   "机器从数据里学本领",
+   "机器上学去",
+   "机器搬东西",
+   "机器做游戏"
+  ],
+  "explanation": "机器学习让机器自己学。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-b5e84b35986cfbee",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "训练 AI 认猫的照片叫",
+  "answer": "训练数据",
+  "choices": [
+   "训练数据",
+   "考试卷",
+   "奖品",
+   "说明书"
+  ],
+  "explanation": "训练数据是学习材料。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-6249b6108bec6f49",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "光线太暗 AI 认不出猫，说明 AI",
+  "answer": "受条件影响会出错",
+  "choices": [
+   "受条件影响会出错",
+   "讨厌黑猫",
+   "怕黑",
+   "眼睛坏了"
+  ],
+  "explanation": "环境变化影响识别效果。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-6fb2c9bca6c93cb4",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 答对加分、答错纠正，这种学习像",
+  "answer": "老师批改作业",
+  "choices": [
+   "老师批改作业",
+   "同学借橡皮",
+   "妈妈做饭",
+   "爸爸开车"
+  ],
+  "explanation": "从对错反馈中学习。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-1c9da7ba2a67f860",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 找出“猫有尖耳朵、长胡须”这样的线索，这叫",
+  "answer": "找特征",
+  "choices": [
+   "找特征",
+   "猜谜语",
+   "抄答案",
+   "走迷宫"
+  ],
+  "explanation": "特征是判断的依据。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-d40c1d6d8f1c327e",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "下棋 AI 会“想”很多步，其实是",
+  "answer": "算出很多种可能性",
+  "choices": [
+   "算出很多种可能性",
+   "做了一场梦",
+   "请教了高手",
+   "碰碰运气"
+  ],
+  "explanation": "搜索加计算推演棋路。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-83f04d8010b7c5a9",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "训练数据里全是橘猫，AI 可能",
+  "answer": "认不出黑猫",
+  "choices": [
+   "认不出黑猫",
+   "更喜欢猫",
+   "学得更好",
+   "变成一只猫"
+  ],
+  "explanation": "数据单一会让本领有盲区。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-e7dcee82b754be0c",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 预测下雨概率，靠的是",
+  "answer": "历史天气数据",
+  "choices": [
+   "历史天气数据",
+   "预报员的梦",
+   "今天的作业",
+   "你的心情"
+  ],
+  "explanation": "历史数据支撑预测模型。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-cf7eafcdf411a297",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "垃圾分类 AI 学会分类，是因为工程师",
+  "answer": "给了大量标好类的垃圾照片",
+  "choices": [
+   "给了大量标好类的垃圾照片",
+   "对它唱歌",
+   "陪它聊天",
+   "给它充电"
+  ],
+  "explanation": "标注数据是学习的基础。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-d30a65effbdff5a8",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 只会做做过的题型、新题就懵，说明它",
+  "answer": "学得还不够活",
+  "choices": [
+   "学得还不够活",
+   "太聪明了",
+   "没有电了",
+   "屏幕坏了"
+  ],
+  "explanation": "举一反三需要更好的训练。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-bb3eb1dce129d4f2",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "教 AI 认字的正确顺序是",
+  "answer": "先给大量例子，再测试，再改正",
+  "choices": [
+   "先给大量例子，再测试，再改正",
+   "先考试再学习",
+   "先充电再删除",
+   "先画画再唱歌"
+  ],
+  "explanation": "学习、测试、纠正循序渐进。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-1ee31bbc7f7be308",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 学习和人学习的相同点是",
+  "answer": "都要大量练习",
+  "choices": [
+   "都要大量练习",
+   "都要吃饭",
+   "都要做梦",
+   "都会长高"
+  ],
+  "explanation": "练习是共同的学习方式。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-861ea3ea4af44ede",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "把“四”听成“十”，最可能因为",
+  "answer": "两个读音太像，AI 分不清",
+  "choices": [
+   "两个读音太像，AI 分不清",
+   "AI 生你气",
+   "话筒坏了",
+   "你声音太好听"
+  ],
+  "explanation": "相似发音容易混淆。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-67858091285a8f42",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 帮快递规划最短路线，是它在",
+  "answer": "计算最优方案",
+  "choices": [
+   "计算最优方案",
+   "逛街散心",
+   "拍照留念",
+   "抄近道被交警抓"
+  ],
+  "explanation": "路径优化是经典应用。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-7ad5332a7c912e7f",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "让 AI 分好苹果坏苹果，要给它看",
+  "answer": "两种苹果的大量照片",
+  "choices": [
+   "两种苹果的大量照片",
+   "只看好苹果",
+   "只看坏苹果",
+   "苹果树照片"
+  ],
+  "explanation": "正反样本都要有。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-0f946def8284cadf",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 犯的错常常来自",
+  "answer": "学过的数据有偏差",
+  "choices": [
+   "学过的数据有偏差",
+   "月亮引力",
+   "电压不稳",
+   "屏幕太亮"
+  ],
+  "explanation": "数据偏差会被学进去。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-4b1814dbcf59287c",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 导诊回答不了的复杂问题应该",
+  "answer": "交给医生",
+  "choices": [
+   "交给医生",
+   "硬着头皮答",
+   "换个话题",
+   "直接关机"
+  ],
+  "explanation": "专业问题交给专业人士。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-e44926bda1aae6e6",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "只见过红苹果的 AI 说青苹果“不是苹果”，提醒我们",
+  "answer": "数据要丰富多样",
+  "choices": [
+   "数据要丰富多样",
+   "AI 很聪明",
+   "苹果变了",
+   "青苹果是假的"
+  ],
+  "explanation": "多样数据避免误判。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-8044ecc7c208a169",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI“死记”训练题、新题不会做，技术上叫",
+  "answer": "缺乏泛化能力",
+  "choices": [
+   "缺乏泛化能力",
+   "超常发挥",
+   "充电过快",
+   "内存进水"
+  ],
+  "explanation": "泛化是从已知推未知的能力。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-93c4be5ad8d179ce",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 三要素通常指",
+  "answer": "数据、算法、算力",
+  "choices": [
+   "数据、算法、算力",
+   "电池、屏幕、喇叭",
+   "桌子、椅子、黑板",
+   "早饭、午饭、晚饭"
+  ],
+  "explanation": "三者缺一不可。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-117cac098ff4064a",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 认图比人快，主要因为",
+  "answer": "机器能并行计算",
+  "choices": [
+   "机器能并行计算",
+   "偷看过答案",
+   "人不认真",
+   "图片太小"
+  ],
+  "explanation": "并行计算快如闪电。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-d66321193ff936b5",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 给人贴“爱运动”的标签，依据是",
+  "answer": "行为数据",
+  "choices": [
+   "行为数据",
+   "长相美丑",
+   "名字笔画",
+   "衣服价格"
+  ],
+  "explanation": "行为记录塑造画像。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-48ae397d71416e7a",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 学认手写数字，需要的样本数量级是",
+  "answer": "成千上万",
+  "choices": [
+   "成千上万",
+   "一两个",
+   "十个左右",
+   "一个都不要"
+  ],
+  "explanation": "海量样本才有准确率。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-6cc534684c3f597d",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 的进步靠",
+  "answer": "升级算法加更多数据",
+  "choices": [
+   "升级算法加更多数据",
+   "晒太阳",
+   "喝机油",
+   "只换电池"
+  ],
+  "explanation": "算法和数据共同推动进步。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-e15ac15cd433b51a",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "你给 AI 的“喜欢/不喜欢”反馈会被用来",
+  "answer": "改进它的推荐",
+  "choices": [
+   "改进它的推荐",
+   "告诉老师",
+   "存进钱包",
+   "打印成试卷"
+  ],
+  "explanation": "反馈优化服务质量。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-0f0d91388a3537a5",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 调红绿灯时长，依据是",
+  "answer": "车流量数据",
+  "choices": [
+   "车流量数据",
+   "颜色喜好",
+   "预报员的梦",
+   "红绿灯的心情"
+  ],
+  "explanation": "数据驱动的智能交通。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-bba5ea61f809e2fc",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "训练数据里男生做饭的照片特别少，AI 可能形成错误印象，这说明",
+  "answer": "数据要公平全面",
+  "choices": [
+   "数据要公平全面",
+   "AI 很聪明",
+   "男生真的不做饭",
+   "照片是假的"
+  ],
+  "explanation": "数据公平才能不学偏。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-f4564e15fa3e8970",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 会自己想学新东西吗",
+  "answer": "一般不会，要人来安排学习",
+  "choices": [
+   "一般不会，要人来安排学习",
+   "天天自学",
+   "梦里自学",
+   "放学自学"
+  ],
+  "explanation": "训练由人设计和安排。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-1ecc3383f2af6f91",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 选了“更远但更快”的高速，说明它会",
+  "answer": "综合权衡多个目标",
+  "choices": [
+   "综合权衡多个目标",
+   "认错了路",
+   "随便选的",
+   "喜欢绕路"
+  ],
+  "explanation": "多目标权衡是智能的体现。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-bebc3829044e488e",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 偶尔把对的字标成错的，你应该",
+  "answer": "自己判断并核实",
+  "choices": [
+   "自己判断并核实",
+   "全部按它改",
+   "不写作文了",
+   "宣传 AI 无敌"
+  ],
+  "explanation": "人永远是最后的把关人。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-88cb6dba0f7e0145",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "用 AI 学习的正确态度是",
+  "answer": "让 AI 当帮手，自己动脑",
+  "choices": [
+   "让 AI 当帮手，自己动脑",
+   "全听 AI",
+   "坚决不碰",
+   "让 AI 替学"
+  ],
+  "explanation": "工具辅助思考，不替代思考。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-903964137645c064",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "训练好的 AI 装进手机后还能变强吗",
+  "answer": "能，通过更新升级",
+  "choices": [
+   "能，通过更新升级",
+   "再也不能",
+   "只会变笨",
+   "必须换手机"
+  ],
+  "explanation": "模型可以持续更新。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-2e1deaf4c5c76b44",
+  "subject": "ai",
+  "minGrade": 3,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "让 AI 更好用，最重要的是",
+  "answer": "更公平的数据和更聪明的算法",
+  "choices": [
+   "更公平的数据和更聪明的算法",
+   "更大的屏幕",
+   "更响的喇叭",
+   "更贵的价格"
+  ],
+  "explanation": "内功比外表重要。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-aadde7e6e3d542bf",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 的“大脑”主要是",
+  "answer": "芯片和程序",
+  "choices": [
+   "芯片和程序",
+   "面粉",
+   "齿轮",
+   "橡皮"
+  ],
+  "explanation": "芯片负责运算，程序负责方法。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI三要素"
+ },
+ {
+  "id": "ai-1da0adb8d28fe2e3",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 的“记忆”放在",
+  "answer": "存储器里",
+  "choices": [
+   "存储器里",
+   "心里",
+   "口袋",
+   "相框"
+  ],
+  "explanation": "数据存在存储设备中。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI三要素"
+ },
+ {
+  "id": "ai-4ee1b5c39ac82679",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 会游泳吗",
+  "answer": "一般不会，它不是人",
+  "choices": [
+   "一般不会，它不是人",
+   "会自由泳",
+   "会潜水",
+   "会跳水"
+  ],
+  "explanation": "AI 是软件，不亲自游泳。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-ec1970bfd84e8f41",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "识花软件认花，AI 主要分析",
+  "answer": "花的图像特征",
+  "choices": [
+   "花的图像特征",
+   "花的价格",
+   "花店名字",
+   "照片像素数"
+  ],
+  "explanation": "按外形特征识别。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "图像与语音"
+ },
+ {
+  "id": "ai-faf2ad3224b9284a",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "听歌识曲几秒认出歌名，AI 靠",
+  "answer": "比对旋律特征",
+  "choices": [
+   "比对旋律特征",
+   "问朋友",
+   "看歌词纸",
+   "闭眼瞎猜"
+  ],
+  "explanation": "旋律指纹快速匹配。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "图像与语音"
+ },
+ {
+  "id": "ai-5955ab465b97e89a",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 能写小诗，是因为它",
+  "answer": "读过海量文字",
+  "choices": [
+   "读过海量文字",
+   "有灵感",
+   "做了一场梦",
+   "抄同学的"
+  ],
+  "explanation": "大量文本训练出写作能力。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "生成式AI"
+ },
+ {
+  "id": "ai-5573b0f2903e2473",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 帮医生看 CT，主要用",
+  "answer": "图像识别",
+  "choices": [
+   "图像识别",
+   "语音合成",
+   "地图导航",
+   "机器翻译"
+  ],
+  "explanation": "医学影像靠图像识别。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-16d60d5c12bb7edd",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 抓拍闯红灯，用",
+  "answer": "图像加车牌识别",
+  "choices": [
+   "图像加车牌识别",
+   "手抄车牌",
+   "望远镜",
+   "听发动机声"
+  ],
+  "explanation": "摄像头加识别算法自动执法。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-15d22efbfdd65e00",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "超市自助收银认得出蔬菜，AI 在",
+  "answer": "识别商品",
+  "choices": [
+   "识别商品",
+   "算命",
+   "打包",
+   "广播吆喝"
+  ],
+  "explanation": "图像识别知道是什么菜。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-6ffba7513d9718f9",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "无人物流车送快递，核心技术包括",
+  "answer": "自动驾驶",
+  "choices": [
+   "自动驾驶",
+   "跳高",
+   "游泳",
+   "唱歌"
+  ],
+  "explanation": "自动驾驶是无人配送的基础。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-d650b51871b0c7ad",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "输入法越用越懂你，是 AI 在",
+  "answer": "学习你的用词习惯",
+  "choices": [
+   "学习你的用词习惯",
+   "偷看日记",
+   "猜生日",
+   "数手指"
+  ],
+  "explanation": "个性化模型贴合习惯。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-84f827cc1bf1e703",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 翻译一句话大约要",
+  "answer": "一瞬间",
+  "choices": [
+   "一瞬间",
+   "一小时",
+   "一整天",
+   "一整年"
+  ],
+  "explanation": "机器翻译几乎实时。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-04ab9c1ca0ade579",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 天气预报比传统方法",
+  "answer": "更善于处理海量数据",
+  "choices": [
+   "更善于处理海量数据",
+   "更会看云",
+   "更会做梦",
+   "更会淋雨"
+  ],
+  "explanation": "大数据是 AI 的优势。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-5938a5f972344066",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "“程序”是什么",
+  "answer": "一步一步的指令",
+  "choices": [
+   "一步一步的指令",
+   "一种食物",
+   "一个玩具",
+   "一件衣服"
+  ],
+  "explanation": "程序是一串指令。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-920cb35a9ff7614f",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "OCR 技术指的是",
+  "answer": "光学字符识别",
+  "choices": [
+   "光学字符识别",
+   "光学角色扮演",
+   "光彩照人识别",
+   "光学录音识别"
+  ],
+  "explanation": "OCR 让机器认文字。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "图像与语音"
+ },
+ {
+  "id": "ai-b308507051632df6",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "机器人不会流汗，因为它",
+  "answer": "没有汗腺",
+  "choices": [
+   "没有汗腺",
+   "怕热",
+   "没喝水",
+   "太胖了"
+  ],
+  "explanation": "机器没有人的身体结构。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-6f22b3abb9bd897d",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "手写输入法认出你的字，先要",
+  "answer": "识别笔画结构",
+  "choices": [
+   "识别笔画结构",
+   "打印出来",
+   "邮寄出去",
+   "大声朗读"
+  ],
+  "explanation": "笔画特征输入识别模型。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "图像与语音"
+ },
+ {
+  "id": "ai-e74aca79d0e9d28f",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "智能音箱听得懂方言，靠",
+  "answer": "学过方言的语音数据",
+  "choices": [
+   "学过方言的语音数据",
+   "会魔法",
+   "瞎猜",
+   "翻译官藏在里面"
+  ],
+  "explanation": "方言数据训练出方言识别。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "图像与语音"
+ },
+ {
+  "id": "ai-5f3ca4ef2ed513e6",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "“数据”对 AI 像什么",
+  "answer": "课本",
+  "choices": [
+   "课本",
+   "玩具",
+   "床",
+   "零食"
+  ],
+  "explanation": "数据是 AI 的学习教材。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI三要素"
+ },
+ {
+  "id": "ai-bffd069bc0a199ee",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "“算法”对 AI 像什么",
+  "answer": "学习的步骤方法",
+  "choices": [
+   "学习的步骤方法",
+   "午饭",
+   "校服",
+   "座位"
+  ],
+  "explanation": "算法决定怎么学怎么做。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI三要素"
+ },
+ {
+  "id": "ai-f5ef961ea6beb953",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 弹琴越来越准，过程像",
+  "answer": "反复练习纠错",
+  "choices": [
+   "反复练习纠错",
+   "睡觉",
+   "长个子",
+   "换钢琴"
+  ],
+  "explanation": "练习加纠错带来进步。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-7cb0ee2c3921aa35",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "工厂 AI 质检挑次品，比工人",
+  "answer": "更快更稳定",
+  "choices": [
+   "更快更稳定",
+   "更会聊天",
+   "更会休息",
+   "更爱下班"
+  ],
+  "explanation": "机器不累不烦看得快。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-f540e1ca97019bff",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 认生僻字，最需要",
+  "answer": "学过这个字的样本",
+  "choices": [
+   "学过这个字的样本",
+   "胆子大",
+   "眼睛大",
+   "电池足"
+  ],
+  "explanation": "没学过的字很难认对。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-8382bafe5a09cba0",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "天文台让 AI 找新天体，因为它能",
+  "answer": "快速比对海量照片",
+  "choices": [
+   "快速比对海量照片",
+   "夜里不困",
+   "会飞",
+   "认识星星的名字"
+  ],
+  "explanation": "大海捞针的活交给 AI。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-1555a454be79958f",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "你在验证码里点红绿灯、选公交车，无形中帮 AI",
+  "answer": "积累了标注数据",
+  "choices": [
+   "积累了标注数据",
+   "充了电",
+   "交了作业",
+   "拍了照"
+  ],
+  "explanation": "验证码是人类标注的一种方式。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-ea4428f47ee7b766",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "训练数据越多，AI 一般会",
+  "answer": "更准确",
+  "choices": [
+   "更准确",
+   "更笨",
+   "更慢",
+   "更懒"
+  ],
+  "explanation": "数据是准确率的燃料。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-29ab830e539c858a",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "下棋 AI 战胜人类冠军，靠",
+  "answer": "海量自我对弈训练",
+  "choices": [
+   "海量自我对弈训练",
+   "偷看棋谱",
+   "对手放水",
+   "纯运气"
+  ],
+  "explanation": "自我对弈练出高棋力。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-ec814639428c8785",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "语音助手听得懂“调暗一点”，是它理解了",
+  "answer": "指令里的程度",
+  "choices": [
+   "指令里的程度",
+   "灯的品牌",
+   "你的心情",
+   "天气情况"
+  ],
+  "explanation": "语义理解包含程度词。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "图像与语音"
+ },
+ {
+  "id": "ai-c43fed15b6cfd7ad",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 自动给新闻分类到“体育”“科技”，用的是",
+  "answer": "文本分类",
+  "choices": [
+   "文本分类",
+   "掷骰子",
+   "按颜色",
+   "按长短"
+  ],
+  "explanation": "按内容特征归类。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-702d036adad6de76",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 预测电影票房，会综合",
+  "answer": "历史票房、档期、口碑等数据",
+  "choices": [
+   "历史票房、档期、口碑等数据",
+   "导演的梦",
+   "票纸颜色",
+   "影院座位数"
+  ],
+  "explanation": "多因素建模预测。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-f474f4dac940495a",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "巡检机器人发现地面水渍会报警，用的是",
+  "answer": "图像识别",
+  "choices": [
+   "图像识别",
+   "味觉",
+   "听觉",
+   "舔一口尝尝"
+  ],
+  "explanation": "摄像头识别隐患。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器人"
+ },
+ {
+  "id": "ai-904b47667cd38809",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "拍照搜题 App 给出解题步骤，正确用法是",
+  "answer": "看懂思路自己重做",
+  "choices": [
+   "看懂思路自己重做",
+   "直接抄上去",
+   "拍着玩",
+   "带去考试"
+  ],
+  "explanation": "学会方法才算真会。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-6d9590203870371a",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 分清“苹果手机”和水果“苹果”，靠",
+  "answer": "上下文",
+  "choices": [
+   "上下文",
+   "重量",
+   "颜色",
+   "价格"
+  ],
+  "explanation": "语境决定词义。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-978bd9ba6db69c75",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 生成新闻摘要，是把长文",
+  "answer": "提取成要点",
+  "choices": [
+   "提取成要点",
+   "全部删除",
+   "倒过来读",
+   "放大打印"
+  ],
+  "explanation": "摘要提炼关键信息。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "生成式AI"
+ },
+ {
+  "id": "ai-adf8035db978f49e",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 遇到没见过的题型也能“举一反三”，这叫",
+  "answer": "泛化能力",
+  "choices": [
+   "泛化能力",
+   "睡眠能力",
+   "飞行能力",
+   "免疫能力"
+  ],
+  "explanation": "从已知推广到未知。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-0355da1d898e277a",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "用 AI 把明星的脸换到别的视频里，这叫",
+  "answer": "AI 换脸（深度伪造）",
+  "choices": [
+   "AI 换脸（深度伪造）",
+   "拍纪录片",
+   "修复老电影",
+   "拍普通广告"
+  ],
+  "explanation": "换脸技术可能被滥用。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI与真假"
+ },
+ {
+  "id": "ai-8bdd7b94c3c9edd6",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 换脸视频可能被坏人用来",
+  "answer": "诈骗",
+  "choices": [
+   "诈骗",
+   "教书",
+   "种树",
+   "救灾"
+  ],
+  "explanation": "眼见不一定为实。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI与真假"
+ },
+ {
+  "id": "ai-443ebcc65b8ac2b0",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "看到网上离奇视频，先要",
+  "answer": "核实来源再相信",
+  "choices": [
+   "核实来源再相信",
+   "立刻转发",
+   "大喊大叫",
+   "全班宣传"
+  ],
+  "explanation": "先求证再表态。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI与真假"
+ },
+ {
+  "id": "ai-3172a87c76970a9a",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 计算常用的专用芯片常被称为",
+  "answer": "AI 加速芯片",
+  "choices": [
+   "AI 加速芯片",
+   "内存条",
+   "机械硬盘",
+   "光盘"
+  ],
+  "explanation": "专用芯片算得更快。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI三要素"
+ },
+ {
+  "id": "ai-b1ccc432e05a8ed6",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 比人强的地方是",
+  "answer": "算得快记得多",
+  "choices": [
+   "算得快记得多",
+   "会感动",
+   "有梦想",
+   "交朋友"
+  ],
+  "explanation": "记忆和计算是机器强项。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-fca09166b8a5a974",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "人比 AI 强的地方是",
+  "answer": "有创造力和真情实感",
+  "choices": [
+   "有创造力和真情实感",
+   "算得快",
+   "记得牢",
+   "不用电"
+  ],
+  "explanation": "人心是机器学不来的。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-2bd5e30cb0a0c907",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 有没有真感情",
+  "answer": "没有，只会表达",
+  "choices": [
+   "没有，只会表达",
+   "有",
+   "比人多",
+   "只对小孩有"
+  ],
+  "explanation": "情感表达是程序生成的。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-cca797e390c80968",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI“写”的作文，其实是在",
+  "answer": "按规律组合文字",
+  "choices": [
+   "按规律组合文字",
+   "偷懒",
+   "做梦",
+   "抄同桌"
+  ],
+  "explanation": "生成来自统计规律。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "生成式AI"
+ },
+ {
+  "id": "ai-c9d391e6848930e4",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 说“我喜欢你”，这是",
+  "answer": "程序生成的句子",
+  "choices": [
+   "程序生成的句子",
+   "真心话",
+   "骗你的",
+   "梦话"
+  ],
+  "explanation": "机器没有真心。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-14557b3ced727565",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "深夜刷 AI 推荐视频停不下来，好办法是",
+  "answer": "定好时间主动休息",
+  "choices": [
+   "定好时间主动休息",
+   "刷到天亮",
+   "摔手机",
+   "不睡觉"
+  ],
+  "explanation": "主动节制保护自己。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-c6490d59a2e87459",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "用 AI 练英语口语，最好把 AI 当",
+  "answer": "陪练",
+  "choices": [
+   "陪练",
+   "监工",
+   "替考的",
+   "替罪的"
+  ],
+  "explanation": "陪练帮你进步。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-b697c4d18ffbb4fd",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 出错时仍“一本正经”，提醒我们",
+  "answer": "自信的答案未必正确",
+  "choices": [
+   "自信的答案未必正确",
+   "声音响就是对",
+   "AI 永远对",
+   "错了怪网速"
+  ],
+  "explanation": "语气不等于对错。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI与真假"
+ },
+ {
+  "id": "ai-86281fe6b08864bd",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "要让 AI 帮上忙，得先",
+  "answer": "把要求说清楚",
+  "choices": [
+   "把要求说清楚",
+   "给它送礼",
+   "唱歌给它听",
+   "闭上眼睛"
+  ],
+  "explanation": "清楚的提示得到好的结果。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-12f59f1ce38b86b4",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 训练很费电，这提醒我们",
+  "answer": "用 AI 也要节约资源",
+  "choices": [
+   "用 AI 也要节约资源",
+   "电不要钱",
+   "AI 不用电",
+   "多开几台"
+  ],
+  "explanation": "技术也有环境代价。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-00243d24547d652f",
+  "subject": "ai",
+  "minGrade": 4,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "未来与 AI 相处，最该保持的是",
+  "answer": "人做主，AI 帮忙",
+  "choices": [
+   "人做主，AI 帮忙",
+   "AI 做主",
+   "坚决不用",
+   "全听广告"
+  ],
+  "explanation": "人始终是决策者。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-0645b6f1b0917190",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 有时会一本正经地胡说八道，这种现象叫",
+  "answer": "AI 幻觉",
+  "choices": [
+   "AI 幻觉",
+   "AI 睡觉",
+   "AI 唱歌",
+   "AI 考试"
+  ],
+  "explanation": "幻觉是生成式 AI 的已知问题。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI幻觉与核实"
+ },
+ {
+  "id": "ai-8eb9062368bcb3f7",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "对 AI 给的答案，正确态度是",
+  "answer": "自己核实",
+  "choices": [
+   "自己核实",
+   "全信",
+   "全不信",
+   "看运气"
+  ],
+  "explanation": "核实再采信。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI幻觉与核实"
+ },
+ {
+  "id": "ai-c83e865cfa8b0230",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "以下哪个不能随便告诉 AI 或陌生网友",
+  "answer": "家庭住址和密码",
+  "choices": [
+   "家庭住址和密码",
+   "今天天气",
+   "一加一等于几",
+   "课文标题"
+  ],
+  "explanation": "敏感信息要保密。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "隐私与安全"
+ },
+ {
+  "id": "ai-926eebc1beba097c",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "用 AI 生成的图片",
+  "answer": "可能以假乱真",
+  "choices": [
+   "可能以假乱真",
+   "一定真话",
+   "一定是手画的",
+   "一定没有水印"
+  ],
+  "explanation": "生成图片可以非常逼真。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI与真假"
+ },
+ {
+  "id": "ai-92d0eaf0d908c1e0",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 能帮你列作文提纲，但直接交 AI 写的作文",
+  "answer": "不对，要自己写",
+  "choices": [
+   "不对，要自己写",
+   "很聪明",
+   "老师看不出来",
+   "无所谓"
+  ],
+  "explanation": "学习不能造假。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-d62795c2410da1ba",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "接到“熟人”语音说借钱，先要",
+  "answer": "打电话当面核实",
+  "choices": [
+   "打电话当面核实",
+   "马上转账",
+   "先发红包",
+   "拉黑全家"
+  ],
+  "explanation": "声音也能伪造，务必核实。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "隐私与安全"
+ },
+ {
+  "id": "ai-88bb3fb34ca8212a",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 语音克隆能模仿声音，所以听到的声音",
+  "answer": "也可能是假的",
+  "choices": [
+   "也可能是假的",
+   "一定是真的",
+   "一定是录音",
+   "一定是明星"
+  ],
+  "explanation": "声音不再是铁证。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "隐私与安全"
+ },
+ {
+  "id": "ai-ec23bb328fa9d553",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "网上看到惊人消息，先看",
+  "answer": "来源是否可靠",
+  "choices": [
+   "来源是否可靠",
+   "字大不大",
+   "颜色亮不亮",
+   "好不好玩"
+  ],
+  "explanation": "信源是判断的第一步。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI幻觉与核实"
+ },
+ {
+  "id": "ai-5d689a4f1aa91168",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "总看 AI 推荐的同类视频，久了可能",
+  "answer": "视野变窄",
+  "choices": [
+   "视野变窄",
+   "眼睛变好",
+   "无所不知",
+   "自动毕业"
+  ],
+  "explanation": "信息茧房会困住人。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-0cc081b76ef1037e",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 广告懂你的喜好，是因为",
+  "answer": "收集了你的行为数据",
+  "choices": [
+   "收集了你的行为数据",
+   "会读心术",
+   "隔墙有耳",
+   "问卷必填"
+  ],
+  "explanation": "数据喂养出精准投放。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "隐私与安全"
+ },
+ {
+  "id": "ai-ebcfdfe9d83e6ac1",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "“生成式 AI”是指能",
+  "answer": "生成新的文字图像声音",
+  "choices": [
+   "生成新的文字图像声音",
+   "只会计算",
+   "只会存储",
+   "只会打印"
+  ],
+  "explanation": "生成新内容是它的标志。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "生成式AI"
+ },
+ {
+  "id": "ai-9500f781a045481d",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "大语言模型（聊天 AI）的本领主要是",
+  "answer": "理解和生成文字",
+  "choices": [
+   "理解和生成文字",
+   "画画投影",
+   "修电脑",
+   "换灯泡"
+  ],
+  "explanation": "语言是它的主场。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "生成式AI"
+ },
+ {
+  "id": "ai-a16a78d185191302",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "和 AI 聊天时说的话",
+  "answer": "可能被记录用于改进",
+  "choices": [
+   "可能被记录用于改进",
+   "一定马上删除",
+   "只有你听见",
+   "存进银行"
+  ],
+  "explanation": "对话数据常用于训练。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "隐私与安全"
+ },
+ {
+  "id": "ai-b84b9cc1ca8a1f1b",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "视频里的“老师”要求转账，正确做法是",
+  "answer": "挂断，走官方渠道核实",
+  "choices": [
+   "挂断，走官方渠道核实",
+   "先转一半",
+   "转完再想",
+   "借钱也要转"
+  ],
+  "explanation": "官方渠道最保险。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "隐私与安全"
+ },
+ {
+  "id": "ai-c49a98e2f38123a2",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "识别 AI 假新闻配图，办法之一是",
+  "answer": "查权威来源交叉验证",
+  "choices": [
+   "查权威来源交叉验证",
+   "看像素高不高",
+   "看标题长不长",
+   "看点赞多不多"
+  ],
+  "explanation": "交叉验证最可靠。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI与真假"
+ },
+ {
+  "id": "ai-e8a238232567fcc8",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 说流利外语，但它“理解”的方式与人",
+  "answer": "并不相同",
+  "choices": [
+   "并不相同",
+   "完全一样",
+   "更深刻",
+   "充满感情"
+  ],
+  "explanation": "机器理解与人类理解不同。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "生成式AI"
+ },
+ {
+  "id": "ai-3807ea18641944db",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "问 AI“1+1”它答“3”还很笃定，说明",
+  "answer": "AI 会自信地犯错",
+  "choices": [
+   "AI 会自信地犯错",
+   "答案就是 3",
+   "你看错了",
+   "AI 生气了"
+  ],
+  "explanation": "笃定不等于正确。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI幻觉与核实"
+ },
+ {
+  "id": "ai-cfd30eb9d62c642c",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "把密码交给 AI 保管",
+  "answer": "不可以",
+  "choices": [
+   "不可以",
+   "可以",
+   "没风险",
+   "很方便"
+  ],
+  "explanation": "密码要自己保管。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "隐私与安全"
+ },
+ {
+  "id": "ai-623a0406e3aecd5a",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "用 AI 查资料写作业，合理方式是",
+  "answer": "AI 给线索，自己查证再写",
+  "choices": [
+   "AI 给线索，自己查证再写",
+   "复制粘贴",
+   "让 AI 署名",
+   "不用查证"
+  ],
+  "explanation": "线索可以要，落笔要自己。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-b699243773c4488a",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "“深度伪造”常被用来",
+  "answer": "合成假音视频",
+  "choices": [
+   "合成假音视频",
+   "修自行车",
+   "打疫苗",
+   "种花种草"
+  ],
+  "explanation": "深度伪造以假乱真。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI与真假"
+ },
+ {
+  "id": "ai-87fb9745cc54f782",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "和家人的“暗号”属于",
+  "answer": "事先约定的验证方式",
+  "choices": [
+   "事先约定的验证方式",
+   "网速测试",
+   "游戏道具",
+   "广告口号"
+  ],
+  "explanation": "暗号能防声音克隆骗局。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "隐私与安全"
+ },
+ {
+  "id": "ai-b21c7006f6adfb1a",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 的知识有“截止时间”，意思是",
+  "answer": "之后的事它不一定知道",
+  "choices": [
+   "之后的事它不一定知道",
+   "它会准时睡觉",
+   "它只看日历",
+   "它讨厌新知识"
+  ],
+  "explanation": "训练数据有边界。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "生成式AI"
+ },
+ {
+  "id": "ai-718cc58cc8179b06",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "大语言模型“读书破万卷”，指的是",
+  "answer": "训练时学了海量文本",
+  "choices": [
+   "训练时学了海量文本",
+   "借了一万本书",
+   "看了一万部电影",
+   "熬夜苦读"
+  ],
+  "explanation": "海量语料练出语言能力。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "生成式AI"
+ },
+ {
+  "id": "ai-54281f3db660e25b",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 建议你“吃糖治感冒”，正确反应是",
+  "answer": "查证医学来源，不轻信",
+  "choices": [
+   "查证医学来源，不轻信",
+   "马上照做",
+   "告诉全班",
+   "收藏转发"
+  ],
+  "explanation": "健康信息必须查证。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI幻觉与核实"
+ },
+ {
+  "id": "ai-b5709f2ff2bf6312",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 推荐越来越懂你，副作用可能是",
+  "answer": "只看到同类信息",
+  "choices": [
+   "只看到同类信息",
+   "看得更全面",
+   "自动开学",
+   "眼睛变大"
+  ],
+  "explanation": "茧房效应要警惕。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-3fd5de222d242ba9",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "用 AI 生成同学的恶搞图发群里",
+  "answer": "侵犯他人权益，不可以",
+  "choices": [
+   "侵犯他人权益，不可以",
+   "很好笑",
+   "没人知道",
+   "老师会表扬"
+  ],
+  "explanation": "肖像尊严要尊重。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "隐私与安全"
+ },
+ {
+  "id": "ai-75b8d6d7b60a0392",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 算命的“预测”，本质多是",
+  "answer": "概率和话术",
+  "choices": [
+   "概率和话术",
+   "科学真理",
+   "天文观测",
+   "祖传秘方"
+  ],
+  "explanation": "算命 AI 是娱乐不是科学。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI幻觉与核实"
+ },
+ {
+  "id": "ai-63bc5e22ac879ebe",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "让 AI 总结文章，最好再",
+  "answer": "对照原文核对",
+  "choices": [
+   "对照原文核对",
+   "直接背诵",
+   "只看标题",
+   "无条件转发"
+  ],
+  "explanation": "摘要可能漏掉关键。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI幻觉与核实"
+ },
+ {
+  "id": "ai-a4aba27dad963f80",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "担心隐私被 AI 收集，可以",
+  "answer": "少提供敏感信息、看隐私政策",
+  "choices": [
+   "少提供敏感信息、看隐私政策",
+   "换个新手机",
+   "不用任何电器",
+   "只在雨天上网"
+  ],
+  "explanation": "主动防护最重要。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "隐私与安全"
+ },
+ {
+  "id": "ai-ee948be22ad6d14a",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 生成的“医生建议”，应该",
+  "answer": "由真医生确认",
+  "choices": [
+   "由真医生确认",
+   "直接抓药",
+   "转发家人",
+   "收藏就好"
+  ],
+  "explanation": "医疗决定听医生的。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-98e786b3490cd2c3",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 修图能“抹掉路人”，也可能被用来",
+  "answer": "抹改证据",
+  "choices": [
+   "抹改证据",
+   "修复文物",
+   "治病救人",
+   "教书育人"
+  ],
+  "explanation": "技术是双刃剑。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI与真假"
+ },
+ {
+  "id": "ai-0b8f9720618a32c0",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 帮写检讨被老师发现文风不对，说明",
+  "answer": "依赖 AI 学不到东西",
+  "choices": [
+   "依赖 AI 学不到东西",
+   "AI 太差了",
+   "老师也用 AI",
+   "检讨不重要"
+  ],
+  "explanation": "偷懒终究露馅。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-7d4e18c5d1578d9d",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "提示词写得清楚，AI 回答更好，因为",
+  "answer": "任务描述更明确",
+  "choices": [
+   "任务描述更明确",
+   "字数多就行",
+   "加了感叹号",
+   "用了繁体字"
+  ],
+  "explanation": "明确的任务得到准确的执行。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-a93c5f9df745604f",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 客服反复答非所问，应该",
+  "answer": "转人工并反馈问题",
+  "choices": [
+   "转人工并反馈问题",
+   "一直重复问",
+   "骂机器人",
+   "放弃维权"
+  ],
+  "explanation": "人工渠道兜底。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-03504fd2d380806a",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "“鹦鹉学舌”的争论指的是",
+  "answer": "AI 会说但不一定真懂",
+  "choices": [
+   "AI 会说但不一定真懂",
+   "AI 会变成鹦鹉",
+   "鹦鹉会造 AI",
+   "AI 爱吃瓜子"
+  ],
+  "explanation": "理解与模仿的区别。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "生成式AI"
+ },
+ {
+  "id": "ai-63597a8800441597",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "让 AI 听人的话、不干坏事，科学家在做",
+  "answer": "AI 对齐研究",
+  "choices": [
+   "AI 对齐研究",
+   "AI 减肥计划",
+   "AI 广告投放",
+   "AI 唱片发行"
+  ],
+  "explanation": "对齐让 AI 更安全。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-edd62b99cb560abd",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 训练耗电巨大，更绿色的做法是",
+  "answer": "优化算法、按需调用",
+  "choices": [
+   "优化算法、按需调用",
+   "全天开机",
+   "多买几台",
+   "边充边玩"
+  ],
+  "explanation": "绿色 AI 从节约开始。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-238df621526320ed",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 时代更重要的能力是",
+  "answer": "独立思考和判断",
+  "choices": [
+   "独立思考和判断",
+   "背更多答案",
+   "打字更快",
+   "嗓门更大"
+  ],
+  "explanation": "判断力是人的护城河。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-7b95aee6f23d1471",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "没有信源的“AI 新闻”，小读者要",
+  "answer": "保持怀疑、查证来源",
+  "choices": [
+   "保持怀疑、查证来源",
+   "立刻相信",
+   "转发长辈",
+   "打印收藏"
+  ],
+  "explanation": "无源不信。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI幻觉与核实"
+ },
+ {
+  "id": "ai-00c7656899b92568",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 批作文只说“很好”，说明",
+  "answer": "反馈可能空洞，要更好的提示",
+  "choices": [
+   "反馈可能空洞，要更好的提示",
+   "作文完美了",
+   "AI 害羞了",
+   "网络断了"
+  ],
+  "explanation": "追问细节才有干货。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-f20fe74212a917ba",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 画的画版权归谁",
+  "answer": "许多国家和地区仍在讨论",
+  "choices": [
+   "许多国家和地区仍在讨论",
+   "永远归 AI",
+   "一定归你",
+   "一定没有版权"
+  ],
+  "explanation": "版权规则还在演进。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-b63bcbeaf18301d3",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 能否代替你思考和判断",
+  "answer": "不能，人是最终责任人",
+  "choices": [
+   "不能，人是最终责任人",
+   "能",
+   "有时能",
+   "长大就能"
+  ],
+  "explanation": "责任无法外包。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-5e8c6f33060f7a10",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "“深度学习”的“深度”指",
+  "answer": "多层网络层层提取特征",
+  "choices": [
+   "多层网络层层提取特征",
+   "学得入迷",
+   "泡得水深",
+   "楼盖得高"
+  ],
+  "explanation": "层层抽象是深度学习之本。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-982c9cf3bcc828e2",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "同一问题问两次答案不同，可能因为",
+  "answer": "模型自带随机性",
+  "choices": [
+   "模型自带随机性",
+   "它在撒谎",
+   "网速变了",
+   "你听错了"
+  ],
+  "explanation": "采样随机性是常态。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "生成式AI"
+ },
+ {
+  "id": "ai-856bd7fcd3c6b283",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 监考标记“作弊”，最终认定靠",
+  "answer": "老师复核证据",
+  "choices": [
+   "老师复核证据",
+   "AI 说了算",
+   "同学投票",
+   "抛硬币"
+  ],
+  "explanation": "机器给线索，人来裁决。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-42f2afb885cd8bde",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "和 AI 模拟“历史人物”对话，内容属于",
+  "answer": "基于资料的推测演绎",
+  "choices": [
+   "基于资料的推测演绎",
+   "人物原话",
+   "官方认证",
+   "必须背诵"
+  ],
+  "explanation": "演绎不是史实。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "生成式AI"
+ },
+ {
+  "id": "ai-69c90862951c9b89",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "给 AI 喂错误数据，它会学出错误结论，这叫",
+  "answer": "垃圾进垃圾出",
+  "choices": [
+   "垃圾进垃圾出",
+   "聪明进聪明出",
+   "运气进运气出",
+   "电进光出"
+  ],
+  "explanation": "输入决定输出。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-b082721a14cc7c12",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "“AI 素养”不包括",
+  "answer": "盲目崇拜 AI",
+  "choices": [
+   "盲目崇拜 AI",
+   "会提问",
+   "会核实",
+   "懂边界"
+  ],
+  "explanation": "素养的核心是清醒。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-f26ef1f32b2a6abb",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "有人用 AI 生成“中奖秘籍”卖钱，这是",
+  "answer": "利用 AI 行骗",
+  "choices": [
+   "利用 AI 行骗",
+   "金融创新",
+   "学习工具",
+   "公益活动"
+  ],
+  "explanation": "骗局换了新马甲。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI与真假"
+ },
+ {
+  "id": "ai-752b052377ebf79d",
+  "subject": "ai",
+  "minGrade": 5,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 越来越强，人最不能丢的是",
+  "answer": "判断力和责任心",
+  "choices": [
+   "判断力和责任心",
+   "打字速度",
+   "手机型号",
+   "游戏等级"
+  ],
+  "explanation": "责任在人在心。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-a54bee7430930a48",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 和人的关系应当是",
+  "answer": "工具与主人",
+  "choices": [
+   "工具与主人",
+   "主人与工具",
+   "平级陌生人",
+   "对手和敌人"
+  ],
+  "explanation": "人支配工具，工具服务人。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理与社会"
+ },
+ {
+  "id": "ai-a1df6fb082817775",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "大语言模型最擅长",
+  "answer": "处理和生成语言",
+  "choices": [
+   "处理和生成语言",
+   "开车",
+   "做饭",
+   "盖楼"
+  ],
+  "explanation": "语言是它的看家本领。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "大模型"
+ },
+ {
+  "id": "ai-8c15327d23990b6d",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 已经改变了很多职业，例如",
+  "answer": "客服、翻译、绘图",
+  "choices": [
+   "客服、翻译、绘图",
+   "只有运动员",
+   "只有厨师",
+   "没有任何职业"
+  ],
+  "explanation": "白领蓝领都在被影响。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "未来与职业"
+ },
+ {
+  "id": "ai-eb93650b69d2e03d",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 在农业上的应用如",
+  "answer": "识别病虫害精准施药",
+  "choices": [
+   "识别病虫害精准施药",
+   "替庄稼讲故事",
+   "给土地算命",
+   "教猪上网"
+  ],
+  "explanation": "智慧农业落地生根。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-12a40fc86ba82d97",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 助手帮你写邮件草稿，你应当",
+  "answer": "审阅修改后再用",
+  "choices": [
+   "审阅修改后再用",
+   "直接发送",
+   "让它署名",
+   "不看内容"
+  ],
+  "explanation": "把关后再发出。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-8b041e239cc85ff0",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "用 AI 查健康信息，要记住",
+  "answer": "不能替代医生诊断",
+  "choices": [
+   "不能替代医生诊断",
+   "比医生还准",
+   "直接照单抓药",
+   "转发同学就行"
+  ],
+  "explanation": "诊断是医生的职责。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-82d7e87b524a332a",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "导航实时避开拥堵，是 AI 在做",
+  "answer": "路径优化",
+  "choices": [
+   "路径优化",
+   "广播体操",
+   "调频收音",
+   "语音表演"
+  ],
+  "explanation": "算法算出好路线。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-b674ec7eeac733b2",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 版权讨论的核心问题之一是",
+  "answer": "AI 生成物的权利归属",
+  "choices": [
+   "AI 生成物的权利归属",
+   "机器的名字",
+   "电费多少",
+   "屏幕大小"
+  ],
+  "explanation": "归属规则尚未定论。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理与社会"
+ },
+ {
+  "id": "ai-79800bc2ae42ce1e",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "人机协作的典型例子是",
+  "answer": "医生加 AI 看片更快更准",
+  "choices": [
+   "医生加 AI 看片更快更准",
+   "AI 自己开医院",
+   "医生全体下岗",
+   "人和 AI 谈恋爱"
+  ],
+  "explanation": "协作放大人的能力。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "未来与职业"
+ },
+ {
+  "id": "ai-52fbbb190bbc448b",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 时代的“终身学习”意味着",
+  "answer": "不断学习新工具新知识",
+  "choices": [
+   "不断学习新工具新知识",
+   "只学一次",
+   "不必学习",
+   "只玩游戏"
+  ],
+  "explanation": "学习是终身习惯。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "未来与职业"
+ },
+ {
+  "id": "ai-4b6592f8b04f509f",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "相册自动按“人物”分组照片，用的是",
+  "answer": "人脸聚类识别",
+  "choices": [
+   "人脸聚类识别",
+   "手动排序",
+   "按颜色分",
+   "随机分组"
+  ],
+  "explanation": "聚类整理海量照片。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-af902a0f929fbd11",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "智能客服听不懂时，应该",
+  "answer": "转人工服务",
+  "choices": [
+   "转人工服务",
+   "换个新手机",
+   "投诉机器人",
+   "学机器话"
+  ],
+  "explanation": "人工是最终兜底。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-0fb107c8a20060b1",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 天气大模型能",
+  "answer": "更快预测天气变化",
+  "choices": [
+   "更快预测天气变化",
+   "呼风唤雨",
+   "叫停下雨",
+   "改变季节"
+  ],
+  "explanation": "预测更快更细。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-a0ea4b25124123ad",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "语音助手把闹钟定错时间，你要",
+  "answer": "检查确认再执行",
+  "choices": [
+   "检查确认再执行",
+   "无所谓",
+   "直接睡",
+   "生一天闷气"
+  ],
+  "explanation": "关键指令要复核。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-059dcb18cc3e371f",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 分析运动员动作，主要用",
+  "answer": "视频动作识别",
+  "choices": [
+   "视频动作识别",
+   "占卜",
+   "心电感应",
+   "掷骰子"
+  ],
+  "explanation": "动作捕捉改进训练。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-7a89cfdeb2e4b81d",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "算法推荐决定你看到什么，你应当",
+  "answer": "主动搜索、多元获取",
+  "choices": [
+   "主动搜索、多元获取",
+   "全盘接受",
+   "关掉大脑",
+   "只看置顶"
+  ],
+  "explanation": "主动权要握在手里。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-499725a790a65c81",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 帮银行识别可疑交易，属于",
+  "answer": "异常检测",
+  "choices": [
+   "异常检测",
+   "广告投放",
+   "游戏外挂",
+   "视频剪辑"
+  ],
+  "explanation": "异常检测保住钱袋子。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-51bef5868332f45d",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 1,
+  "prompt": "AI 筛简历引发争议，因为",
+  "answer": "可能不公平",
+  "choices": [
+   "可能不公平",
+   "速度太快",
+   "价格太贵",
+   "太安静"
+  ],
+  "explanation": "算法偏见伤公平。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理与社会"
+ },
+ {
+  "id": "ai-ee21e69ea499d6a3",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "大语言模型生成句子的方式是",
+  "answer": "逐词预测下一个词",
+  "choices": [
+   "逐词预测下一个词",
+   "一次写完不改",
+   "抄字典",
+   "人念它写"
+  ],
+  "explanation": "概率预测逐词生成。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "大模型"
+ },
+ {
+  "id": "ai-52cc64d51f67a99d",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "训练大模型耗电巨大，提醒我们",
+  "answer": "绿色低碳地用 AI",
+  "choices": [
+   "绿色低碳地用 AI",
+   "电是免费的",
+   "多多益善",
+   "无所谓"
+  ],
+  "explanation": "算力有环境代价。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-1f56979b2e99898c",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "“算法偏见”可能来自",
+  "answer": "训练数据不平衡",
+  "choices": [
+   "训练数据不平衡",
+   "天气太热",
+   "键盘太旧",
+   "电线太长"
+  ],
+  "explanation": "数据偏则模型偏。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-5fd5513f3e74643e",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "“AI 医生”的正确定位是",
+  "answer": "辅助诊断，医生负责",
+  "choices": [
+   "辅助诊断，医生负责",
+   "取代医生",
+   "自己开药",
+   "管理医院"
+  ],
+  "explanation": "辅助工具不是医生。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI应用"
+ },
+ {
+  "id": "ai-ffc29f1d88fdfe46",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "图灵测试的思想是",
+  "answer": "让人分不清对面是人还是机器",
+  "choices": [
+   "让人分不清对面是人还是机器",
+   "比谁跑得快",
+   "比谁算得快",
+   "比谁嗓门大"
+  ],
+  "explanation": "以对话验智能。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI基础"
+ },
+ {
+  "id": "ai-77f5201c59d2a08a",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "“强化学习”的思路接近",
+  "answer": "试错并从奖惩中改进",
+  "choices": [
+   "试错并从奖惩中改进",
+   "背一百遍课文",
+   "抄学霸答案",
+   "靠猜不纠正"
+  ],
+  "explanation": "奖惩塑造行为。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "机器学习"
+ },
+ {
+  "id": "ai-950beed9f1f22d15",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 生成内容（AIGC）包括",
+  "answer": "文生图、文生视频、文本生成",
+  "choices": [
+   "文生图、文生视频、文本生成",
+   "只有一种",
+   "只会写诗",
+   "只会算术"
+  ],
+  "explanation": "生成内容形式多样。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "生成式AI"
+ },
+ {
+  "id": "ai-c394eac7897470e7",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "“模型参数”可以理解为",
+  "answer": "模型里可调节的旋钮数量",
+  "choices": [
+   "模型里可调节的旋钮数量",
+   "模型的学费",
+   "模型的电池",
+   "模型的座位"
+  ],
+  "explanation": "参数越多容量越大。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "大模型"
+ },
+ {
+  "id": "ai-e293730ac086a21d",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "开源模型的意思是",
+  "answer": "代码和权重公开可研究",
+  "choices": [
+   "代码和权重公开可研究",
+   "模型免费送手机",
+   "模型断了电",
+   "模型出口转内销"
+  ],
+  "explanation": "开放推动研究。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "大模型"
+ },
+ {
+  "id": "ai-a4d209e6cfa6f6d4",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 幻觉的常见表现是",
+  "answer": "编造不存在的书名和事件",
+  "choices": [
+   "编造不存在的书名和事件",
+   "网络卡顿",
+   "拒绝回答",
+   "屏幕变黑"
+  ],
+  "explanation": "细节越假越要当心。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI幻觉与核实"
+ },
+ {
+  "id": "ai-c232a22dee410b50",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "“AI 对齐”的目标是",
+  "answer": "让 AI 行为符合人类意图",
+  "choices": [
+   "让 AI 行为符合人类意图",
+   "让 AI 排队做操",
+   "让 AI 长得一样",
+   "让 AI 只会算术"
+  ],
+  "explanation": "听话且向善。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-bc942886bd50773e",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "破解信息茧房的办法是",
+  "answer": "主动拓宽信息源",
+  "choices": [
+   "主动拓宽信息源",
+   "只看推荐",
+   "注销账号",
+   "只刷短视频"
+  ],
+  "explanation": "多元信息破茧。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-bec87498b989401f",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 参与司法辅助时",
+  "answer": "不能替代法官裁决",
+  "choices": [
+   "不能替代法官裁决",
+   "可以当法官",
+   "比法官大",
+   "直接判刑"
+  ],
+  "explanation": "裁决权在人。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-9f83f5cf0a4c4d47",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "职业受 AI 冲击时，理性态度是",
+  "answer": "学新技能、人机协作",
+  "choices": [
+   "学新技能、人机协作",
+   "立刻躺平",
+   "砸了机器",
+   "四处造谣"
+  ],
+  "explanation": "适应比抱怨有用。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "未来与职业"
+ },
+ {
+  "id": "ai-21ae6ad13071f9a5",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "“数据标注员”的工作是",
+  "answer": "给数据打标签供 AI 学习",
+  "choices": [
+   "给数据打标签供 AI 学习",
+   "给书本包书皮",
+   "给汽车打蜡",
+   "给黑板刷漆"
+  ],
+  "explanation": "标注喂饱 AI。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "未来与职业"
+ },
+ {
+  "id": "ai-a76ec86bba708f14",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 2,
+  "prompt": "AI 编程助手写的代码，工程师仍要",
+  "answer": "审查测试再采用",
+  "choices": [
+   "审查测试再采用",
+   "闭眼合并",
+   "全部删除",
+   "让它署名"
+  ],
+  "explanation": "代码质量人来把关。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ },
+ {
+  "id": "ai-f61432e3a3769970",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 淘汰旧职业也创造新职业，历史上类似",
+  "answer": "汽车取代马车又催生司机修理业",
+  "choices": [
+   "汽车取代马车又催生司机修理业",
+   "从未发生过",
+   "只淘汰不创造",
+   "只创造不淘汰"
+  ],
+  "explanation": "技术变革双面性。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "未来与职业"
+ },
+ {
+  "id": "ai-b98410557797248a",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "各国给 AI 立法是为了",
+  "answer": "规范发展、控制风险",
+  "choices": [
+   "规范发展、控制风险",
+   "让 AI 竞选",
+   "让 AI 罢工",
+   "禁止一切 AI"
+  ],
+  "explanation": "立法护航发展。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-ce972babcbbbbad9",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "“通用人工智能（AGI）”指",
+  "answer": "接近人类水平的通用能力",
+  "choices": [
+   "接近人类水平的通用能力",
+   "一种手机型号",
+   "一种充电器",
+   "一种游戏"
+  ],
+  "explanation": "通才是 AGI 的目标。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "大模型"
+ },
+ {
+  "id": "ai-8dfdfca88b664961",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AGI 目前的状态是",
+  "answer": "仍是研究目标，尚未实现",
+  "choices": [
+   "仍是研究目标，尚未实现",
+   "已经普及",
+   "去年上市",
+   "只是没人研究"
+  ],
+  "explanation": "AGI 还在路上。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "大模型"
+ },
+ {
+  "id": "ai-c4ce6077e1189fcc",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 该不该有“权利”，目前主流看法是",
+  "answer": "AI 是工具，谈权利为时尚早",
+  "choices": [
+   "AI 是工具，谈权利为时尚早",
+   "马上发身份证",
+   "AI 已是公民",
+   "不许讨论"
+  ],
+  "explanation": "主体性问题未解。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-b497136b39a46759",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "深度伪造检测技术属于",
+  "answer": "攻防对抗的安全研究",
+  "choices": [
+   "攻防对抗的安全研究",
+   "美容化妆",
+   "影视剪辑",
+   "摄影采风"
+  ],
+  "explanation": "攻防持续升级。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI与真假"
+ },
+ {
+  "id": "ai-807583f0ae360567",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 绘画参赛获奖引发争议，焦点是",
+  "answer": "创作与工具的边界、原创性认定",
+  "choices": [
+   "创作与工具的边界、原创性认定",
+   "画框尺寸",
+   "涂料品牌",
+   "展厅灯光"
+  ],
+  "explanation": "艺术定义受挑战。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-57bd6222dbce5244",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "“AI 向善”倡导",
+  "answer": "用 AI 解决教育医疗气候等问题",
+  "choices": [
+   "用 AI 解决教育医疗气候等问题",
+   "用 AI 骗更多钱",
+   "用 AI 垄断市场",
+   "用 AI 监视全班"
+  ],
+  "explanation": "技术应为善服务。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-0de2a6c8a00d6c65",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "对技术失业的稳妥看法是",
+  "answer": "主动适应，政策与教育跟上",
+  "choices": [
+   "主动适应，政策与教育跟上",
+   "必然大失业",
+   "完全没影响",
+   "与我无关"
+  ],
+  "explanation": "应变胜于恐慌。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "未来与职业"
+ },
+ {
+  "id": "ai-07d5b0c8a137b8ef",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "大模型不知道知识截止后的新事件，要靠",
+  "answer": "联网检索最新资料",
+  "choices": [
+   "联网检索最新资料",
+   "凭空想象",
+   "做一场梦",
+   "掐指一算"
+  ],
+  "explanation": "检索补足时效。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "大模型"
+ },
+ {
+  "id": "ai-80733649e3f7e91d",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "“小而好的数据”胜过“大而脏的数据”，说明",
+  "answer": "数据质量比数量更重要",
+  "choices": [
+   "数据质量比数量更重要",
+   "数据没用",
+   "数据越少越好",
+   "数据随便找"
+  ],
+  "explanation": "质量是数据的生命。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "数据与算法"
+ },
+ {
+  "id": "ai-de2556ddc9b666c8",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "人脸识别进校园引发争议，核心是",
+  "answer": "隐私与未成年人保护",
+  "choices": [
+   "隐私与未成年人保护",
+   "摄像头太贵",
+   "网速太慢",
+   "灯光太暗"
+  ],
+  "explanation": "孩子的脸要护住。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-caaa07268ed9438c",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "AI 军事化应用的最大担忧是",
+  "answer": "自主武器失控风险",
+  "choices": [
+   "自主武器失控风险",
+   "军人失业",
+   "机器减肥",
+   "电池污染"
+  ],
+  "explanation": "失控是最大风险。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-c1d259ae29ba0cc2",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "“可解释 AI”的意思是",
+  "answer": "能说清 AI 为什么这样判断",
+  "choices": [
+   "能说清 AI 为什么这样判断",
+   "AI 透明手机壳",
+   "AI 会隐身",
+   "AI 玻璃屏"
+  ],
+  "explanation": "透明才敢托付。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理"
+ },
+ {
+  "id": "ai-3e52c39afda45822",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "与 AI 长期共处，社会要同时准备",
+  "answer": "技术、伦理与法律",
+  "choices": [
+   "技术、伦理与法律",
+   "只需要口号",
+   "只需要广告",
+   "只需要比赛"
+  ],
+  "explanation": "三驾马车缺一不可。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "AI伦理与社会"
+ },
+ {
+  "id": "ai-d3975e1ba0a11fc0",
+  "subject": "ai",
+  "minGrade": 6,
+  "maxGrade": 6,
+  "semester": 0,
+  "difficulty": 3,
+  "prompt": "面对飞速发展的 AI，个人最好策略是",
+  "answer": "保持学习、善用工具、守住判断",
+  "choices": [
+   "保持学习、善用工具、守住判断",
+   "恐慌拒绝",
+   "盲目吹捧",
+   "全托给 AI"
+  ],
+  "explanation": "清醒地驾驭技术。",
+  "reference": "原创人工智能常识题；概念范围参考义务教育信息科技课程标准（2022年版）与中小学人工智能通识教育要点，通俗表述为原创",
+  "topic": "使用AI的习惯"
+ }
+]

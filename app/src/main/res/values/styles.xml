@@ -1,0 +1,7 @@
+<resources>
+    <!-- API 15-20 fallback: Holo (Material exists only since API 21). Colors are drawn
+         programmatically in code; the theme only supplies background and fullscreen. -->
+    <style name="AppTheme" parent="android:style/Theme.Holo.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">#101C29</item>
+    </style>
+</resources>

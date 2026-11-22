@@ -1,0 +1,5892 @@
+[
+  {
+    "id": "science-7ce80ff7058a59ca",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "人体主要用哪个器官呼吸？",
+    "answer": "肺",
+    "choices": [
+      "肺",
+      "胃",
+      "肝",
+      "肾"
+    ],
+    "explanation": "肺。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-c6ead30f34de7dec",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "心脏最主要的作用是什么？",
+    "answer": "推动血液循环",
+    "choices": [
+      "推动血液循环",
+      "消化食物",
+      "储存尿液",
+      "产生胆汁"
+    ],
+    "explanation": "推动血液循环。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-b0fce4f0b131a7e4",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "胃主要参与哪项活动？",
+    "answer": "消化食物",
+    "choices": [
+      "消化食物",
+      "思考问题",
+      "吸入空气",
+      "过滤尿液"
+    ],
+    "explanation": "消化食物。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-8ecde923673c22ea",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小肠的主要作用之一是什么？",
+    "answer": "吸收营养物质",
+    "choices": [
+      "吸收营养物质",
+      "制造声音",
+      "看清物体",
+      "储存胆汁"
+    ],
+    "explanation": "吸收营养物质。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-f632fcd0d9b89263",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "肾脏的重要作用是什么？",
+    "answer": "过滤血液形成尿液",
+    "choices": [
+      "过滤血液形成尿液",
+      "磨碎食物",
+      "吸收光线",
+      "推动骨骼"
+    ],
+    "explanation": "过滤血液形成尿液。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-8c3d22ab51dbba97",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "大脑主要负责什么？",
+    "answer": "处理信息和协调活动",
+    "choices": [
+      "处理信息和协调活动",
+      "直接消化米饭",
+      "储存尿液",
+      "制造牙齿"
+    ],
+    "explanation": "处理信息和协调活动。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-4de2026bad89e62e",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "眼睛能帮助我们感受什么？",
+    "answer": "光和图像",
+    "choices": [
+      "光和图像",
+      "声音的高低",
+      "气味",
+      "食物的咸淡"
+    ],
+    "explanation": "光和图像。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-3e7595d7a8c81c44",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "耳朵能帮助我们感受什么？",
+    "answer": "声音",
+    "choices": [
+      "声音",
+      "颜色",
+      "甜味",
+      "香味"
+    ],
+    "explanation": "声音。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-643dce9762f816cc",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "鼻子主要感受什么？",
+    "answer": "气味",
+    "choices": [
+      "气味",
+      "颜色",
+      "音调",
+      "文字形状"
+    ],
+    "explanation": "气味。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-ad7b51bde739abf7",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "舌头上的味蕾主要感受什么？",
+    "answer": "味道",
+    "choices": [
+      "味道",
+      "光线",
+      "声音",
+      "方向"
+    ],
+    "explanation": "味道。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-9113b2c899bd904e",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "皮肤能感受到哪种变化？",
+    "answer": "冷热",
+    "choices": [
+      "冷热",
+      "书本内容",
+      "远处颜色",
+      "声音含义"
+    ],
+    "explanation": "冷热。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-2954c982ba032fed",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "牙齿在进食时主要做什么？",
+    "answer": "咀嚼食物",
+    "choices": [
+      "咀嚼食物",
+      "吸收氧气",
+      "过滤血液",
+      "产生尿液"
+    ],
+    "explanation": "咀嚼食物。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-c3e6df3b2b71d8cb",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "骨骼对身体有什么作用？",
+    "answer": "支撑身体和保护器官",
+    "choices": [
+      "支撑身体和保护器官",
+      "消化油脂",
+      "制造声音",
+      "吸入空气"
+    ],
+    "explanation": "支撑身体和保护器官。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-45ce1da25d933a27",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "肌肉收缩能帮助我们做什么？",
+    "answer": "运动",
+    "choices": [
+      "运动",
+      "看见颜色",
+      "感受气味",
+      "产生胆汁"
+    ],
+    "explanation": "运动。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-649adc95342ea1b2",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "血液中的红细胞主要运输什么？",
+    "answer": "氧气",
+    "choices": [
+      "氧气",
+      "整块食物",
+      "牙齿",
+      "骨头"
+    ],
+    "explanation": "氧气。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-63ca9960ece725e9",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "白细胞参与什么活动？",
+    "answer": "抵御病原体",
+    "choices": [
+      "抵御病原体",
+      "磨碎食物",
+      "形成指甲颜色",
+      "发出声音"
+    ],
+    "explanation": "抵御病原体。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-05f6a77e2531aae0",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "血小板与哪项功能关系密切？",
+    "answer": "止血",
+    "choices": [
+      "止血",
+      "闻气味",
+      "看颜色",
+      "消化淀粉"
+    ],
+    "explanation": "止血。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-c6ccc2d8b67eed81",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么运动后呼吸会加快？",
+    "answer": "身体需要更多氧气",
+    "choices": [
+      "身体需要更多氧气",
+      "肺停止工作",
+      "身体不再耗能",
+      "空气变重"
+    ],
+    "explanation": "身体需要更多氧气。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-26f13d11828a1892",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么炎热时人体常出汗？",
+    "answer": "帮助散热",
+    "choices": [
+      "帮助散热",
+      "让骨骼变长",
+      "替代呼吸",
+      "增加体温"
+    ],
+    "explanation": "帮助散热。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-7bdaba94187da7ed",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "汗水蒸发为什么会使皮肤变凉？",
+    "answer": "蒸发会吸收热量",
+    "choices": [
+      "蒸发会吸收热量",
+      "汗水会发光",
+      "蒸发会产生骨头",
+      "空气不再流动"
+    ],
+    "explanation": "蒸发会吸收热量。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-b55749233eb14933",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么要饭前洗手？",
+    "answer": "减少病菌进入口中",
+    "choices": [
+      "减少病菌进入口中",
+      "让食物自动变熟",
+      "使手指变长",
+      "增加食物盐分"
+    ],
+    "explanation": "减少病菌进入口中。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-ac2469e9180f069f",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么刷牙要认真清洁牙面？",
+    "answer": "减少牙菌斑和食物残渣",
+    "choices": [
+      "减少牙菌斑和食物残渣",
+      "让牙齿每天换新",
+      "让舌头变大",
+      "让牙齿不再需要营养"
+    ],
+    "explanation": "减少牙菌斑和食物残渣。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-55734aa9b626fb57",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么吃糖后更要注意口腔清洁？",
+    "answer": "细菌可利用糖产生酸",
+    "choices": [
+      "细菌可利用糖产生酸",
+      "糖会变成石头",
+      "糖会让牙齿呼吸",
+      "糖能代替牙刷"
+    ],
+    "explanation": "细菌可利用糖产生酸。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-1baa9f0960093646",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么不能长时间直视太阳？",
+    "answer": "强光可能伤害眼睛",
+    "choices": [
+      "强光可能伤害眼睛",
+      "太阳会掉下来",
+      "眼睛会停止眨动一生",
+      "太阳会失去颜色"
+    ],
+    "explanation": "强光可能伤害眼睛。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-cda645d07981c051",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么阅读时要有合适光线？",
+    "answer": "减少看清文字的负担",
+    "choices": [
+      "减少看清文字的负担",
+      "让书本变轻",
+      "让纸张变厚",
+      "让眼睛不再需要休息"
+    ],
+    "explanation": "减少看清文字的负担。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-53d3864817b2ef6f",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么应适时眺望远处？",
+    "answer": "放松持续近距离用眼",
+    "choices": [
+      "放松持续近距离用眼",
+      "直接治愈所有眼病",
+      "使眼睛变大",
+      "使文字自动放大"
+    ],
+    "explanation": "放松持续近距离用眼。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-456e44824cd9cb4e",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么睡眠对儿童很重要？",
+    "answer": "帮助恢复精力和生长发育",
+    "choices": [
+      "帮助恢复精力和生长发育",
+      "代替所有饮食",
+      "让骨头停止生长",
+      "让呼吸永久停止"
+    ],
+    "explanation": "帮助恢复精力和生长发育。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-edb6fc89bb7b84aa",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么需要均衡饮食？",
+    "answer": "获得不同种类的营养",
+    "choices": [
+      "获得不同种类的营养",
+      "只获得一种营养",
+      "让身体不用喝水",
+      "使食物不必消化"
+    ],
+    "explanation": "获得不同种类的营养。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-7d363502f41e07f6",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "蛋白质对身体的重要作用是什么？",
+    "answer": "构建和修复组织",
+    "choices": [
+      "构建和修复组织",
+      "代替全部氧气",
+      "使眼睛发光",
+      "让水不再结冰"
+    ],
+    "explanation": "构建和修复组织。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-5398960f18385ed6",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "钙是形成什么的重要成分？",
+    "answer": "骨骼和牙齿",
+    "choices": [
+      "骨骼和牙齿",
+      "头发的颜色",
+      "汗水的气味",
+      "声音的高低"
+    ],
+    "explanation": "骨骼和牙齿。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-3dfac2a23da63274",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "维生素C常见于哪些食物？",
+    "answer": "新鲜蔬菜水果",
+    "choices": [
+      "新鲜蔬菜水果",
+      "纯净水和食盐",
+      "铁钉和玻璃",
+      "塑料和橡胶"
+    ],
+    "explanation": "新鲜蔬菜水果。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-1a46894d3ad3706a",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么应喝清洁的饮用水？",
+    "answer": "减少有害物和病菌风险",
+    "choices": [
+      "减少有害物和病菌风险",
+      "让水永远不蒸发",
+      "让胃变成肺",
+      "使人不需进食"
+    ],
+    "explanation": "减少有害物和病菌风险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-cc21d20d017d2b98",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么不应喝生水？",
+    "answer": "可能含有致病微生物",
+    "choices": [
+      "可能含有致病微生物",
+      "一定没有任何矿物质",
+      "会立刻变成冰",
+      "不能被身体吸收"
+    ],
+    "explanation": "可能含有致病微生物。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-a60fcb479926e47a",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么打喷嚏时要遮掩口鼻？",
+    "answer": "减少飞沫传播",
+    "choices": [
+      "减少飞沫传播",
+      "让声音传得更远",
+      "让空气变成水",
+      "让鼻子不再呼吸"
+    ],
+    "explanation": "减少飞沫传播。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-e3bca0fba1ad1879",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么不宜长时间听很响的耳机？",
+    "answer": "可能损伤听力",
+    "choices": [
+      "可能损伤听力",
+      "会让耳朵长出牙齿",
+      "会让声音结冰",
+      "能永久提高听力"
+    ],
+    "explanation": "可能损伤听力。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-725f5b431df80816",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么受伤后应正确清洁伤口？",
+    "answer": "降低感染风险",
+    "choices": [
+      "降低感染风险",
+      "让伤口变大",
+      "让血液停止循环",
+      "让皮肤不再生长"
+    ],
+    "explanation": "降低感染风险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-887949135e9b440d",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么运动前要热身？",
+    "answer": "让身体逐步适应运动",
+    "choices": [
+      "让身体逐步适应运动",
+      "让骨头消失",
+      "代替所有训练",
+      "让肌肉永不疲劳"
+    ],
+    "explanation": "让身体逐步适应运动。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-ab16a8228d6519fa",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么剧烈运动后应逐步放松？",
+    "answer": "让身体平稳恢复",
+    "choices": [
+      "让身体平稳恢复",
+      "让心脏立刻不跳",
+      "使体温瞬间归零",
+      "让血液不再流动"
+    ],
+    "explanation": "让身体平稳恢复。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-c504eaf2643bd860",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么食物要充分煮熟？",
+    "answer": "可杀灭许多有害微生物",
+    "choices": [
+      "可杀灭许多有害微生物",
+      "让所有营养全部消失",
+      "让食物变成金属",
+      "让水分永不蒸发"
+    ],
+    "explanation": "可杀灭许多有害微生物。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-342e5b09e8d084f9",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么不能随意吃陌生野果？",
+    "answer": "可能有毒或不适合食用",
+    "choices": [
+      "可能有毒或不适合食用",
+      "所有野果都很甜",
+      "所有野果都无毒",
+      "野果不会变质"
+    ],
+    "explanation": "可能有毒或不适合食用。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "人体与健康"
+  },
+  {
+    "id": "science-cdbdacdffbbd430a",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "鲸生活在水里，属于哪类动物？",
+    "answer": "哺乳动物",
+    "choices": [
+      "哺乳动物",
+      "鱼类",
+      "昆虫",
+      "两栖动物"
+    ],
+    "explanation": "哺乳动物。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-ce8403fab612d512",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "蝙蝠会飞，属于哪类动物？",
+    "answer": "哺乳动物",
+    "choices": [
+      "哺乳动物",
+      "鸟类",
+      "鱼类",
+      "爬行动物"
+    ],
+    "explanation": "哺乳动物。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-7dd4f88ac150d6e7",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "企鹅属于哪类动物？",
+    "answer": "鸟类",
+    "choices": [
+      "鸟类",
+      "鱼类",
+      "昆虫",
+      "哺乳动物"
+    ],
+    "explanation": "鸟类。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-51cb169baf3e2255",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "青蛙属于哪类动物？",
+    "answer": "两栖动物",
+    "choices": [
+      "两栖动物",
+      "鱼类",
+      "鸟类",
+      "昆虫"
+    ],
+    "explanation": "两栖动物。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-39fa641888cc379c",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "蛇属于哪类动物？",
+    "answer": "爬行动物",
+    "choices": [
+      "爬行动物",
+      "鸟类",
+      "昆虫",
+      "两栖动物"
+    ],
+    "explanation": "爬行动物。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-a2aef7c43a52b139",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "蝴蝶属于哪类动物？",
+    "answer": "昆虫",
+    "choices": [
+      "昆虫",
+      "鱼类",
+      "哺乳动物",
+      "软体动物"
+    ],
+    "explanation": "昆虫。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-042b9cdcbe00374f",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "蜘蛛与昆虫最明显的足数差别是什么？",
+    "answer": "蜘蛛八条腿，昆虫六条腿",
+    "choices": [
+      "蜘蛛八条腿，昆虫六条腿",
+      "蜘蛛六条腿，昆虫八条腿",
+      "两者都只有两条腿",
+      "两者都没有腿"
+    ],
+    "explanation": "蜘蛛八条腿，昆虫六条腿。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-206033b95279807e",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "鱼主要用什么呼吸？",
+    "answer": "鳃",
+    "choices": [
+      "鳃",
+      "羽毛",
+      "鳞片",
+      "鱼鳍"
+    ],
+    "explanation": "鳃。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-46c6e44c32fda770",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "鸟的羽毛有哪项作用？",
+    "answer": "保温并帮助许多鸟飞行",
+    "choices": [
+      "保温并帮助许多鸟飞行",
+      "代替心脏",
+      "磨碎石头",
+      "制造海水"
+    ],
+    "explanation": "保温并帮助许多鸟飞行。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-9c29ad3524ac779d",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么鸭子脚趾间有蹼？",
+    "answer": "有助于划水",
+    "choices": [
+      "有助于划水",
+      "为了抓树枝",
+      "为了发光",
+      "为了咀嚼食物"
+    ],
+    "explanation": "有助于划水。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-282eb70b2e1839fe",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么骆驼能适应沙漠生活？",
+    "answer": "能节约水分并耐受干旱",
+    "choices": [
+      "能节约水分并耐受干旱",
+      "完全不需要水",
+      "驼峰装满清水",
+      "只靠沙子生存"
+    ],
+    "explanation": "能节约水分并耐受干旱。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-10f929676e62dff7",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "骆驼驼峰主要储存什么？",
+    "answer": "脂肪",
+    "choices": [
+      "脂肪",
+      "清水",
+      "石头",
+      "空气"
+    ],
+    "explanation": "脂肪。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-dc1f38472b16cf4c",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么北极熊的厚毛和脂肪很重要？",
+    "answer": "减少热量散失",
+    "choices": [
+      "减少热量散失",
+      "使海水变甜",
+      "帮助喷火",
+      "让冰永不融化"
+    ],
+    "explanation": "减少热量散失。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-0f8c5dc53ac90239",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么鱼的身体常呈流线形？",
+    "answer": "减少游动阻力",
+    "choices": [
+      "减少游动阻力",
+      "增加水的盐分",
+      "让鱼不需氧气",
+      "把鱼鳞变成翅膀"
+    ],
+    "explanation": "减少游动阻力。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-aa29ec8e8d01aa5d",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么鸟的骨骼比较轻？",
+    "answer": "有利于减轻飞行负担",
+    "choices": [
+      "有利于减轻飞行负担",
+      "因为没有矿物质",
+      "因为骨头都是棉花",
+      "为了沉入海底"
+    ],
+    "explanation": "有利于减轻飞行负担。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-7c59ddf79688b909",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么猫的胡须不宜随意剪掉？",
+    "answer": "帮助感知周围空间",
+    "choices": [
+      "帮助感知周围空间",
+      "胡须是牙齿",
+      "胡须用来呼吸",
+      "剪掉会让猫变鸟"
+    ],
+    "explanation": "帮助感知周围空间。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-56e99e8cfc19822a",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么壁虎能爬光滑墙面？",
+    "answer": "脚趾细微结构帮助附着",
+    "choices": [
+      "脚趾细微结构帮助附着",
+      "墙会产生胶水",
+      "壁虎有吸水泵",
+      "靠尾巴打钉子"
+    ],
+    "explanation": "脚趾细微结构帮助附着。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-afa09c2aa2972b80",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "壁虎遇险断尾常有什么作用？",
+    "answer": "分散敌害注意帮助逃生",
+    "choices": [
+      "分散敌害注意帮助逃生",
+      "帮助潜水呼吸",
+      "变成另一只壁虎",
+      "让食物更甜"
+    ],
+    "explanation": "分散敌害注意帮助逃生。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-13b3c32ed39d4a68",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么章鱼会喷墨？",
+    "answer": "干扰敌害便于逃脱",
+    "choices": [
+      "干扰敌害便于逃脱",
+      "为了给海水加糖",
+      "为了长出羽毛",
+      "为了制造阳光"
+    ],
+    "explanation": "干扰敌害便于逃脱。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-c096d5431ffbd836",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么变色龙会改变体色？",
+    "answer": "参与交流并调节状态",
+    "choices": [
+      "参与交流并调节状态",
+      "为了把身体变成植物",
+      "只因吃了颜料",
+      "为了制造电池"
+    ],
+    "explanation": "参与交流并调节状态。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-a37c82ac4ac1d17f",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么一些动物会冬眠？",
+    "answer": "减少寒冷季节能量消耗",
+    "choices": [
+      "减少寒冷季节能量消耗",
+      "因为冬天没有空气",
+      "为了不再长大",
+      "为了变成石头"
+    ],
+    "explanation": "减少寒冷季节能量消耗。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-372beb684b813c43",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么候鸟会迁徙？",
+    "answer": "寻找适宜气候和食物",
+    "choices": [
+      "寻找适宜气候和食物",
+      "因为不能落地",
+      "为了永久不吃东西",
+      "因为地球停止转动"
+    ],
+    "explanation": "寻找适宜气候和食物。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-148a4d8080bec546",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "蝌蚪长大后通常变成什么？",
+    "answer": "青蛙或蟾蜍",
+    "choices": [
+      "青蛙或蟾蜍",
+      "蝴蝶",
+      "蜻蜓",
+      "麻雀"
+    ],
+    "explanation": "青蛙或蟾蜍。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-1475edc7ad3da6b6",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "毛毛虫通常处于蝴蝶的哪个阶段？",
+    "answer": "幼虫",
+    "choices": [
+      "幼虫",
+      "成虫",
+      "卵",
+      "鸟卵"
+    ],
+    "explanation": "幼虫。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-8cee3bd9438945ab",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "蝴蝶完整变态的顺序是什么？",
+    "answer": "卵、幼虫、蛹、成虫",
+    "choices": [
+      "卵、幼虫、蛹、成虫",
+      "卵、蛹、幼虫、成虫",
+      "蛹、卵、成虫、幼虫",
+      "成虫、幼虫、卵、蛹"
+    ],
+    "explanation": "卵、幼虫、蛹、成虫。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-379016d6e838e398",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "蚕吐丝后通常形成什么？",
+    "answer": "茧",
+    "choices": [
+      "茧",
+      "鸟巢",
+      "鳞片",
+      "羽毛"
+    ],
+    "explanation": "茧。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-49987ad1c9a433b4",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "蜜蜂在花间活动可帮助植物做什么？",
+    "answer": "传粉",
+    "choices": [
+      "传粉",
+      "制造盐",
+      "长出石头",
+      "停止结果"
+    ],
+    "explanation": "传粉。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-21d0deaf337ec874",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "蚯蚓在土壤中活动有何益处？",
+    "answer": "有助于疏松土壤",
+    "choices": [
+      "有助于疏松土壤",
+      "把土变成玻璃",
+      "使土壤没有空气",
+      "让植物不用水"
+    ],
+    "explanation": "有助于疏松土壤。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-a106215fb0c5d75f",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么螳螂的前足有刺？",
+    "answer": "有助于捕捉猎物",
+    "choices": [
+      "有助于捕捉猎物",
+      "为了酿蜂蜜",
+      "为了开花",
+      "为了长羽毛"
+    ],
+    "explanation": "有助于捕捉猎物。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-a0b977eda9644a96",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么猫头鹰夜间捕猎能力较强？",
+    "answer": "听觉和视觉适应弱光环境",
+    "choices": [
+      "听觉和视觉适应弱光环境",
+      "因为眼睛是手电筒",
+      "因为夜里不需要感官",
+      "因为完全不必进食"
+    ],
+    "explanation": "听觉和视觉适应弱光环境。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-a057d3b8c3e15067",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么萤火虫能发光？",
+    "answer": "体内发生生物发光反应",
+    "choices": [
+      "体内发生生物发光反应",
+      "肚子里有灯泡",
+      "吞下了太阳",
+      "羽毛反射月光"
+    ],
+    "explanation": "体内发生生物发光反应。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-2a688452d8104441",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么斑马身上的条纹有用？",
+    "answer": "可影响吸血昆虫的叮咬",
+    "choices": [
+      "可影响吸血昆虫的叮咬",
+      "让斑马完全不用喝水",
+      "让斑马变成树",
+      "使所有天敌看不见它"
+    ],
+    "explanation": "可影响吸血昆虫的叮咬。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-3b2fe8b72ccbb941",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么乌龟有坚硬的壳？",
+    "answer": "保护身体",
+    "choices": [
+      "保护身体",
+      "储存阳光",
+      "代替眼睛",
+      "制造空气"
+    ],
+    "explanation": "保护身体。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-58a701f6b4411fd4",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么蜗牛爬过会留下黏液？",
+    "answer": "黏液有助于运动并减少摩擦",
+    "choices": [
+      "黏液有助于运动并减少摩擦",
+      "身体在流金属",
+      "因为它在画画",
+      "黏液是海水"
+    ],
+    "explanation": "黏液有助于运动并减少摩擦。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-3803b8a3f502c747",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么企鹅有厚脂肪层？",
+    "answer": "有助于保温",
+    "choices": [
+      "有助于保温",
+      "使羽毛变成鳞片",
+      "代替所有食物",
+      "制造冰雪"
+    ],
+    "explanation": "有助于保温。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-08f2c0dc7fc8bbbc",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "海豚主要用什么呼吸？",
+    "answer": "肺",
+    "choices": [
+      "肺",
+      "鳃",
+      "鳍",
+      "尾巴"
+    ],
+    "explanation": "肺。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-6cec8b6faa547bba",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "鲸为什么需要浮到水面？",
+    "answer": "呼吸空气",
+    "choices": [
+      "呼吸空气",
+      "晒干鱼鳞",
+      "寻找树叶",
+      "把肺换成鳃"
+    ],
+    "explanation": "呼吸空气。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-945c3f1a50956169",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么鲨鱼不断换牙有帮助？",
+    "answer": "补充磨损或脱落的牙齿",
+    "choices": [
+      "补充磨损或脱落的牙齿",
+      "因为牙齿是羽毛",
+      "为了长出鱼鳔",
+      "为了变成鲸"
+    ],
+    "explanation": "补充磨损或脱落的牙齿。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-4196358cc0d7d554",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么大熊猫需要吃大量竹子？",
+    "answer": "竹子能量密度较低",
+    "choices": [
+      "竹子能量密度较低",
+      "竹子完全没有水",
+      "竹子是肉类",
+      "吃竹子可以不呼吸"
+    ],
+    "explanation": "竹子能量密度较低。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-08233086233e7d63",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么啄木鸟啄树干？",
+    "answer": "常为寻找树中的昆虫",
+    "choices": [
+      "常为寻找树中的昆虫",
+      "给树刷颜料",
+      "让树变成金属",
+      "制造海水"
+    ],
+    "explanation": "常为寻找树中的昆虫。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "动物"
+  },
+  {
+    "id": "science-8832f59757ebda8d",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "根的主要作用之一是什么？",
+    "answer": "吸收水和矿物质",
+    "choices": [
+      "吸收水和矿物质",
+      "捕捉声音",
+      "制造牙齿",
+      "释放羽毛"
+    ],
+    "explanation": "吸收水和矿物质。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-674a791dcd4078db",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "茎的主要作用之一是什么？",
+    "answer": "支撑并运输物质",
+    "choices": [
+      "支撑并运输物质",
+      "代替土壤",
+      "制造石头",
+      "听见声音"
+    ],
+    "explanation": "支撑并运输物质。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-b650e4d42c8c0ca4",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "叶片主要在哪里进行光合作用？",
+    "answer": "含叶绿体的细胞中",
+    "choices": [
+      "含叶绿体的细胞中",
+      "树皮外的石头中",
+      "空气里的沙粒中",
+      "花盆的塑料中"
+    ],
+    "explanation": "含叶绿体的细胞中。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-8bfd013af35f8a1f",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "光合作用主要利用哪种能量？",
+    "answer": "光能",
+    "choices": [
+      "光能",
+      "声能",
+      "核电站电能",
+      "摩擦火花"
+    ],
+    "explanation": "光能。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-df37c390801e1171",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "植物光合作用常吸收哪种气体？",
+    "answer": "二氧化碳",
+    "choices": [
+      "二氧化碳",
+      "氦气",
+      "氖气",
+      "氩气"
+    ],
+    "explanation": "二氧化碳。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-95882f0cd008ab66",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "植物光合作用通常释放哪种气体？",
+    "answer": "氧气",
+    "choices": [
+      "氧气",
+      "氦气",
+      "氩气",
+      "天然气"
+    ],
+    "explanation": "氧气。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-070a149decfa20f1",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么多数叶片呈绿色？",
+    "answer": "含有叶绿素",
+    "choices": [
+      "含有叶绿素",
+      "叶子涂了油漆",
+      "吸收了绿色土壤",
+      "叶子里有翡翠"
+    ],
+    "explanation": "含有叶绿素。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-351ae6831bc04de3",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么植物需要适量水分？",
+    "answer": "水参与生命活动和物质运输",
+    "choices": [
+      "水参与生命活动和物质运输",
+      "水能代替阳光全部作用",
+      "水会变成羽毛",
+      "植物只靠石头长大"
+    ],
+    "explanation": "水参与生命活动和物质运输。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-320e85c856ea5eda",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么浇水太多可能烂根？",
+    "answer": "根部缺氧易受损",
+    "choices": [
+      "根部缺氧易受损",
+      "水会变成火",
+      "根完全不需要空气",
+      "水让土壤变成铁"
+    ],
+    "explanation": "根部缺氧易受损。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-42bf462a105f1167",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么花盆底部常有孔？",
+    "answer": "便于排出多余水分",
+    "choices": [
+      "便于排出多余水分",
+      "为了让花盆发声",
+      "为了挡住所有空气",
+      "为了储存火焰"
+    ],
+    "explanation": "便于排出多余水分。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-b0bf0fe56952c416",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "种子萌发通常需要什么条件？",
+    "answer": "适宜温度、水分和空气",
+    "choices": [
+      "适宜温度、水分和空气",
+      "只有盐",
+      "没有任何水分",
+      "持续冰冻且无空气"
+    ],
+    "explanation": "适宜温度、水分和空气。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-b7fc0b9226cf6a82",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么种子不能埋得过深？",
+    "answer": "可能缺氧且幼苗难出土",
+    "choices": [
+      "可能缺氧且幼苗难出土",
+      "种子会变成金属",
+      "土越深一定越有光",
+      "所有种子都只在水中生长"
+    ],
+    "explanation": "可能缺氧且幼苗难出土。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-333d6526b3d4625e",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么向日葵幼株会随太阳方向转动？",
+    "answer": "生长对光有反应",
+    "choices": [
+      "生长对光有反应",
+      "花里有指南针电池",
+      "太阳用绳子拉它",
+      "风每天只能向西吹"
+    ],
+    "explanation": "生长对光有反应。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-7c2906f187692a10",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么植物常向有光的一侧生长？",
+    "answer": "有利于获得光照",
+    "choices": [
+      "有利于获得光照",
+      "为了躲开所有水分",
+      "因为土壤没有重量",
+      "因为根变成翅膀"
+    ],
+    "explanation": "有利于获得光照。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-6ac133a0d2a4ff61",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么落叶树秋天会落叶？",
+    "answer": "有助于适应寒冷或水分条件",
+    "choices": [
+      "有助于适应寒冷或水分条件",
+      "所有树都已死去",
+      "叶子变成鸟飞走",
+      "土壤不再存在"
+    ],
+    "explanation": "有助于适应寒冷或水分条件。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-dc7e92a3b27a770d",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "仙人掌的刺有哪项作用？",
+    "answer": "保护并减少叶片蒸腾面积",
+    "choices": [
+      "保护并减少叶片蒸腾面积",
+      "像普通大叶一样大量蒸腾",
+      "帮助在海底呼吸",
+      "制造雨雪"
+    ],
+    "explanation": "保护并减少叶片蒸腾面积。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-591b28389c3859af",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "仙人掌肥厚的茎有何作用？",
+    "answer": "储水并可进行光合作用",
+    "choices": [
+      "储水并可进行光合作用",
+      "只储存沙子",
+      "制造羽毛",
+      "发出超声波"
+    ],
+    "explanation": "储水并可进行光合作用。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-ac3578bed336fe13",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么荷叶上的水常聚成水珠？",
+    "answer": "表面微结构和蜡质使其疏水",
+    "choices": [
+      "表面微结构和蜡质使其疏水",
+      "水里全是油漆",
+      "荷叶温度永远零下",
+      "叶子是金属磁铁"
+    ],
+    "explanation": "表面微结构和蜡质使其疏水。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-761cefb3d6b3f35e",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "莲藕是莲的哪部分？",
+    "answer": "地下茎",
+    "choices": [
+      "地下茎",
+      "花瓣",
+      "种子",
+      "叶片"
+    ],
+    "explanation": "地下茎。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-bd721e64a0de86d0",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "土豆通常是植物的哪部分？",
+    "answer": "块茎",
+    "choices": [
+      "块茎",
+      "果实",
+      "种子",
+      "花瓣"
+    ],
+    "explanation": "块茎。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-5ce7d107def113c5",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "红薯主要食用部分是什么？",
+    "answer": "块根",
+    "choices": [
+      "块根",
+      "花瓣",
+      "叶柄",
+      "种子"
+    ],
+    "explanation": "块根。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-9bbf04bf07171b82",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "胡萝卜主要食用部分是什么？",
+    "answer": "根",
+    "choices": [
+      "根",
+      "果实",
+      "花瓣",
+      "种子"
+    ],
+    "explanation": "根。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-20038eeef8552df4",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "白菜主要食用部分是什么？",
+    "answer": "叶",
+    "choices": [
+      "叶",
+      "种子",
+      "花粉",
+      "木质茎"
+    ],
+    "explanation": "叶。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-60550758871bf887",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "花生的果实通常在哪里发育？",
+    "answer": "土壤中",
+    "choices": [
+      "土壤中",
+      "树冠顶端",
+      "水面上",
+      "叶片内部"
+    ],
+    "explanation": "土壤中。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-d66550e44618dba1",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "苹果里面通常能找到什么？",
+    "answer": "种子",
+    "choices": [
+      "种子",
+      "羽毛",
+      "鳃",
+      "电池"
+    ],
+    "explanation": "种子。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-a73fc7b6e88a6075",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么蒲公英种子能随风传播？",
+    "answer": "带有轻巧的冠毛",
+    "choices": [
+      "带有轻巧的冠毛",
+      "种子内有发动机",
+      "种子比空气轻得多且无重量",
+      "靠脚行走"
+    ],
+    "explanation": "带有轻巧的冠毛。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-f0502763c21207c8",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "苍耳的果实为什么有小钩？",
+    "answer": "便于附着动物传播",
+    "choices": [
+      "便于附着动物传播",
+      "为了游泳",
+      "为了发光",
+      "为了变成花瓣"
+    ],
+    "explanation": "便于附着动物传播。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-e2461892c0eaf145",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么椰子可随海水漂流传播？",
+    "answer": "果实结构有利于漂浮",
+    "choices": [
+      "果实结构有利于漂浮",
+      "椰子会开船",
+      "果实必须溶于海水",
+      "椰子只长在海底"
+    ],
+    "explanation": "果实结构有利于漂浮。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-a9c5d83041d92669",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么一些花有香味和鲜艳颜色？",
+    "answer": "可吸引传粉动物",
+    "choices": [
+      "可吸引传粉动物",
+      "花要变成昆虫",
+      "为了制造玻璃",
+      "为了排出全部水分"
+    ],
+    "explanation": "可吸引传粉动物。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-bc030adb8c5cab38",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么树林有助于涵养水源？",
+    "answer": "植被和土壤减缓径流",
+    "choices": [
+      "植被和土壤减缓径流",
+      "树木能制造无限的水",
+      "树根会把河流完全吸干",
+      "树林让水不能蒸发"
+    ],
+    "explanation": "植被和土壤减缓径流。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-7a8c36d168d0e923",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "食物链通常从哪类生物开始？",
+    "answer": "绿色植物等生产者",
+    "choices": [
+      "绿色植物等生产者",
+      "只从老虎开始",
+      "只从鲸开始",
+      "只从人开始"
+    ],
+    "explanation": "绿色植物等生产者。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-52b5f9383a6f6fc5",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "蘑菇属于哪类生物？",
+    "answer": "真菌",
+    "choices": [
+      "真菌",
+      "绿色植物",
+      "鸟类",
+      "昆虫"
+    ],
+    "explanation": "真菌。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-746f2f741c918360",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么不能随意食用野生蘑菇？",
+    "answer": "有些有毒且难以辨认",
+    "choices": [
+      "有些有毒且难以辨认",
+      "所有蘑菇都无毒",
+      "颜色浅的一定无毒",
+      "虫吃过的一定无毒"
+    ],
+    "explanation": "有些有毒且难以辨认。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-d23820d98b290729",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "细菌通常有多大？",
+    "answer": "多数需借助显微镜观察",
+    "choices": [
+      "多数需借助显微镜观察",
+      "都比大象大",
+      "都和篮球一样大",
+      "肉眼总能看清其结构"
+    ],
+    "explanation": "多数需借助显微镜观察。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-7e56550c13c27974",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么食物久放会变质？",
+    "answer": "微生物等会使其成分改变",
+    "choices": [
+      "微生物等会使其成分改变",
+      "食物变成黄金",
+      "空气完全消失",
+      "食物没有任何变化"
+    ],
+    "explanation": "微生物等会使其成分改变。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-5d3f98fa72ba3183",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么冰箱冷藏能减慢食物变质？",
+    "answer": "低温抑制许多微生物活动",
+    "choices": [
+      "低温抑制许多微生物活动",
+      "低温能让一切病菌立即消失",
+      "冰箱制造无限盐",
+      "冰箱让时间停止"
+    ],
+    "explanation": "低温抑制许多微生物活动。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-68b51be771a88b83",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么堆肥能改善土壤？",
+    "answer": "有机物分解后提供养分",
+    "choices": [
+      "有机物分解后提供养分",
+      "塑料永远不分解",
+      "土壤不再需要水",
+      "使所有虫都灭绝"
+    ],
+    "explanation": "有机物分解后提供养分。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-fb23292243605875",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么保护生物多样性很重要？",
+    "answer": "有助于维持生态系统稳定",
+    "choices": [
+      "有助于维持生态系统稳定",
+      "让所有物种吃同一种食物",
+      "让森林只剩一种树",
+      "让所有动物不繁殖"
+    ],
+    "explanation": "有助于维持生态系统稳定。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-ee518d974b4b3db8",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么外来物种可能带来风险？",
+    "answer": "可能缺少天敌并影响本地生态",
+    "choices": [
+      "可能缺少天敌并影响本地生态",
+      "所有外来种都一定有毒",
+      "外来种一定不能生存",
+      "外来种都不会繁殖"
+    ],
+    "explanation": "可能缺少天敌并影响本地生态。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-5acecb2e7500fd05",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么湿地被称为重要生态系统？",
+    "answer": "能蓄水净化并提供栖息地",
+    "choices": [
+      "能蓄水净化并提供栖息地",
+      "因为永远没有生物",
+      "因为只能长塑料",
+      "因为不参与水循环"
+    ],
+    "explanation": "能蓄水净化并提供栖息地。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "植物与生态"
+  },
+  {
+    "id": "science-7f623be03c005294",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么水面上会出现倒影？",
+    "answer": "光发生反射",
+    "choices": [
+      "光发生反射",
+      "水制造新物体",
+      "声音变成图像",
+      "物体掉进水底"
+    ],
+    "explanation": "光发生反射。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-6407e37f615e3804",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么筷子插入水中看起来弯了？",
+    "answer": "光发生折射",
+    "choices": [
+      "光发生折射",
+      "筷子一定折断",
+      "水把筷子变短",
+      "空气变成木头"
+    ],
+    "explanation": "光发生折射。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-c15e90eddcd83c6b",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么平面镜能照出人像？",
+    "answer": "镜面反射光",
+    "choices": [
+      "镜面反射光",
+      "镜里住着同一个人",
+      "镜子制造皮肤",
+      "镜子会记住所有声音"
+    ],
+    "explanation": "镜面反射光。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-fa16f825c582d9c3",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么影子总出现在光照背面？",
+    "answer": "不透明物体遮挡光",
+    "choices": [
+      "不透明物体遮挡光",
+      "物体释放黑色烟",
+      "影子被风吹走",
+      "地面吸收了物体"
+    ],
+    "explanation": "不透明物体遮挡光。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-712048f64c24367c",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么日光下影子长度会变化？",
+    "answer": "太阳在天空中的高度变化",
+    "choices": [
+      "太阳在天空中的高度变化",
+      "人的身高每小时翻倍",
+      "地面在伸缩",
+      "影子是液体"
+    ],
+    "explanation": "太阳在天空中的高度变化。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-e031d17092c260d1",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么彩虹有多种颜色？",
+    "answer": "水滴使阳光分散成不同颜色",
+    "choices": [
+      "水滴使阳光分散成不同颜色",
+      "云朵涂了颜料",
+      "空气里有彩色绳子",
+      "太阳掉下七个球"
+    ],
+    "explanation": "水滴使阳光分散成不同颜色。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-35488cd8fe787231",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "白光通常包含什么？",
+    "answer": "多种颜色的光",
+    "choices": [
+      "多种颜色的光",
+      "只有红光",
+      "只有绿光",
+      "完全没有颜色成分"
+    ],
+    "explanation": "多种颜色的光。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-1123f298c5a007fc",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "放大镜通常用哪种透镜？",
+    "answer": "凸透镜",
+    "choices": [
+      "凸透镜",
+      "平面镜",
+      "凹面不透明板",
+      "木板"
+    ],
+    "explanation": "凸透镜。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-70b6027f690e49a3",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "声音通常由什么产生？",
+    "answer": "物体振动",
+    "choices": [
+      "物体振动",
+      "颜色变化",
+      "重量消失",
+      "光线停止"
+    ],
+    "explanation": "物体振动。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-98edf7be9f082f12",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么真空中不能传播普通声音？",
+    "answer": "缺少传播声音的介质",
+    "choices": [
+      "缺少传播声音的介质",
+      "真空里声音更懒",
+      "真空使耳朵变大",
+      "真空没有颜色"
+    ],
+    "explanation": "缺少传播声音的介质。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-367333b9093a7e5a",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么回声会出现？",
+    "answer": "声音被反射回来",
+    "choices": [
+      "声音被反射回来",
+      "耳朵制造另一个人",
+      "声音变成光",
+      "空气停止流动"
+    ],
+    "explanation": "声音被反射回来。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-23dcbce1b37fc0c5",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "音调高低主要与什么有关？",
+    "answer": "振动频率",
+    "choices": [
+      "振动频率",
+      "物体颜色",
+      "物体名字",
+      "影子方向"
+    ],
+    "explanation": "振动频率。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-8acfd78bafe9c141",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "声音响度与什么关系密切？",
+    "answer": "振动幅度",
+    "choices": [
+      "振动幅度",
+      "文字长度",
+      "光线颜色",
+      "季节名称"
+    ],
+    "explanation": "振动幅度。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-bf69831547941f31",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么电话可以传递说话声？",
+    "answer": "声音信号被转换并传输",
+    "choices": [
+      "声音信号被转换并传输",
+      "声音一直沿空心绳飞行",
+      "电话里藏着说话的人",
+      "电话把空气装瓶寄出"
+    ],
+    "explanation": "声音信号被转换并传输。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-f04894a8bd3b70b2",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么先看到闪电后听到雷声？",
+    "answer": "光传播比声音快",
+    "choices": [
+      "光传播比声音快",
+      "雷声从不传播",
+      "闪电只发生在耳边",
+      "声音传播比光快"
+    ],
+    "explanation": "光传播比声音快。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-36fda233c5470c8d",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么物体会落向地面？",
+    "answer": "受到地球引力",
+    "choices": [
+      "受到地球引力",
+      "地面有胶水",
+      "空气只会向下",
+      "物体想睡觉"
+    ],
+    "explanation": "受到地球引力。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-f20bd43c30cba365",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "摩擦力常有什么作用？",
+    "answer": "阻碍接触面的相对滑动",
+    "choices": [
+      "阻碍接触面的相对滑动",
+      "让所有物体失重",
+      "把光变成水",
+      "使时间倒流"
+    ],
+    "explanation": "阻碍接触面的相对滑动。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-3c00d5999856e350",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "鞋底凹凸花纹通常为了什么？",
+    "answer": "增加防滑能力",
+    "choices": [
+      "增加防滑能力",
+      "让鞋完全无重量",
+      "让鞋底发光",
+      "减少所有接触"
+    ],
+    "explanation": "增加防滑能力。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-0cd60d25b18effb6",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么冰面通常比较滑？",
+    "answer": "表面条件使摩擦较小",
+    "choices": [
+      "表面条件使摩擦较小",
+      "冰没有任何质量",
+      "冰能取消引力",
+      "冰里全是油"
+    ],
+    "explanation": "表面条件使摩擦较小。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-ecb5271b766c7a40",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么轴承中常加入润滑油？",
+    "answer": "减少摩擦和磨损",
+    "choices": [
+      "减少摩擦和磨损",
+      "增加所有阻力",
+      "让金属变成木材",
+      "让机器不需能源"
+    ],
+    "explanation": "减少摩擦和磨损。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-8fe1397aad70631d",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "杠杆的作用与什么位置有关？",
+    "answer": "支点和力的作用位置",
+    "choices": [
+      "支点和力的作用位置",
+      "杠杆名字长短",
+      "使用者衣服颜色",
+      "当天星期几"
+    ],
+    "explanation": "支点和力的作用位置。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-dede2095dc0ff579",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "定滑轮主要能改变什么？",
+    "answer": "用力方向",
+    "choices": [
+      "用力方向",
+      "物体质量",
+      "重力常数",
+      "时间长度"
+    ],
+    "explanation": "用力方向。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-364a7540a7806e40",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "斜面有什么常见作用？",
+    "answer": "用较长距离换取较小推力",
+    "choices": [
+      "用较长距离换取较小推力",
+      "消除物体质量",
+      "永远不需要力",
+      "使物体变成气体"
+    ],
+    "explanation": "用较长距离换取较小推力。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-d08b9685c74dcc78",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么船能浮在水上？",
+    "answer": "浮力可平衡船的重力",
+    "choices": [
+      "浮力可平衡船的重力",
+      "船一定比空气轻",
+      "水没有重力",
+      "船底有磁铁吸住天空"
+    ],
+    "explanation": "浮力可平衡船的重力。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-55e44dfdb505adee",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么救生衣能帮助漂浮？",
+    "answer": "增大排水体积提供浮力",
+    "choices": [
+      "增大排水体积提供浮力",
+      "让人不必呼吸",
+      "让海水变成沙子",
+      "消除地球引力"
+    ],
+    "explanation": "增大排水体积提供浮力。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-f54cbb83736a6636",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么钢铁做的大船也能漂浮？",
+    "answer": "空心结构使整体平均密度较小",
+    "choices": [
+      "空心结构使整体平均密度较小",
+      "钢铁完全没有重量",
+      "钢铁都比水轻",
+      "海水没有质量"
+    ],
+    "explanation": "空心结构使整体平均密度较小。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-ba2a2fab7a35287b",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么吸管能帮助喝水？",
+    "answer": "口内压强降低后外部气压推动液体",
+    "choices": [
+      "口内压强降低后外部气压推动液体",
+      "吸管把水变成气体",
+      "吸管里有小电机",
+      "水自己产生火焰"
+    ],
+    "explanation": "口内压强降低后外部气压推动液体。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-29997d100c07eec1",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么高压锅煮食物常更快？",
+    "answer": "较高压强使水沸点升高",
+    "choices": [
+      "较高压强使水沸点升高",
+      "食物不再需要热量",
+      "水沸点降到零度",
+      "锅内没有水"
+    ],
+    "explanation": "较高压强使水沸点升高。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-43f5daba487bb7fa",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么高山上水的沸点较低？",
+    "answer": "大气压较低",
+    "choices": [
+      "大气压较低",
+      "山顶水变成油",
+      "山顶没有引力",
+      "海拔使水没有分子"
+    ],
+    "explanation": "大气压较低。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-4e4f0e6de39156c0",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "标准大气压下，纯水的沸点约为多少？",
+    "answer": "100摄氏度",
+    "choices": [
+      "100摄氏度",
+      "0摄氏度",
+      "10摄氏度",
+      "1000摄氏度"
+    ],
+    "explanation": "100摄氏度。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-41f30495afca39e7",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "标准大气压下，纯水的凝固点约为多少？",
+    "answer": "0摄氏度",
+    "choices": [
+      "0摄氏度",
+      "100摄氏度",
+      "50摄氏度",
+      "负100摄氏度"
+    ],
+    "explanation": "0摄氏度。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-2e2ef1bbc47d7e32",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么冰块融化需要吸热？",
+    "answer": "固态转液态需要能量",
+    "choices": [
+      "固态转液态需要能量",
+      "冰会自动生火",
+      "冰没有分子",
+      "水的质量必须变成零"
+    ],
+    "explanation": "固态转液态需要能量。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-05b103718f17bf36",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么湿衣服能晾干？",
+    "answer": "水分蒸发到空气中",
+    "choices": [
+      "水分蒸发到空气中",
+      "水变成布料",
+      "衣服吃掉了水",
+      "水完全消失成虚无"
+    ],
+    "explanation": "水分蒸发到空气中。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-e96a1a9522593507",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么有风时湿衣服常干得更快？",
+    "answer": "空气流动加快蒸发",
+    "choices": [
+      "空气流动加快蒸发",
+      "风把水变成铁",
+      "风让衣服没有重量",
+      "风取消了温度"
+    ],
+    "explanation": "空气流动加快蒸发。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-32bbb2eed78dc3cf",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么杯子外壁有时出现水珠？",
+    "answer": "空气中水蒸气遇冷凝结",
+    "choices": [
+      "空气中水蒸气遇冷凝结",
+      "杯壁一定漏水",
+      "玻璃变成水",
+      "水从桌面穿过杯壁"
+    ],
+    "explanation": "空气中水蒸气遇冷凝结。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-0374cf8deaf1049e",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "冬天窗上的冰花通常怎样形成？",
+    "answer": "水蒸气遇冷凝华",
+    "choices": [
+      "水蒸气遇冷凝华",
+      "玻璃开花",
+      "冰由阳光燃烧生成",
+      "空气变成木头"
+    ],
+    "explanation": "水蒸气遇冷凝华。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-1476bcb9f082ba57",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么金属勺放热汤里柄会变热？",
+    "answer": "金属传导热量",
+    "choices": [
+      "金属传导热量",
+      "金属会自己生火",
+      "声音让勺变热",
+      "勺柄在发电"
+    ],
+    "explanation": "金属传导热量。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-a3f52b3c5e6c2fc4",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么锅柄常用木材或塑料？",
+    "answer": "导热较慢便于握持",
+    "choices": [
+      "导热较慢便于握持",
+      "它们完全不会受热",
+      "能让食物自动熟",
+      "能代替锅盖"
+    ],
+    "explanation": "导热较慢便于握持。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-dd748acbd20f9b38",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么保温杯能减慢水变凉？",
+    "answer": "减少热量传递",
+    "choices": [
+      "减少热量传递",
+      "杯里时间停止",
+      "杯子产生无限热量",
+      "水不再由分子组成"
+    ],
+    "explanation": "减少热量传递。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-2d426c6848cc1ad1",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么电线外面包着塑料？",
+    "answer": "塑料通常绝缘以减少触电风险",
+    "choices": [
+      "塑料通常绝缘以减少触电风险",
+      "为了让电流只能在塑料中流",
+      "为了增加裸露金属",
+      "为了储存饮用水"
+    ],
+    "explanation": "塑料通常绝缘以减少触电风险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "物理与材料"
+  },
+  {
+    "id": "science-9a641ab649a57aad",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么地球上会有白天和黑夜？",
+    "answer": "地球自转使各地轮流朝向太阳",
+    "choices": [
+      "地球自转使各地轮流朝向太阳",
+      "太阳每天熄灭",
+      "月亮遮住整个太阳一夜",
+      "地球每天变成方形"
+    ],
+    "explanation": "地球自转使各地轮流朝向太阳。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-62a4c60012a4c343",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么会有四季？",
+    "answer": "地轴倾斜并绕太阳公转",
+    "choices": [
+      "地轴倾斜并绕太阳公转",
+      "地球夏天停止自转",
+      "冬天太阳消失",
+      "每季地球质量不同"
+    ],
+    "explanation": "地轴倾斜并绕太阳公转。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-a4bc55f1b25aba8d",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "地球绕太阳一周大约多久？",
+    "answer": "一年",
+    "choices": [
+      "一年",
+      "一天",
+      "一小时",
+      "一个星期"
+    ],
+    "explanation": "一年。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-bc068982552c23ad",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "地球自转一周大约多久？",
+    "answer": "24小时",
+    "choices": [
+      "24小时",
+      "365天",
+      "一分钟",
+      "十年"
+    ],
+    "explanation": "24小时。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-80736e58ed7116cc",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "月球主要绕哪个天体运行？",
+    "answer": "地球",
+    "choices": [
+      "地球",
+      "火星",
+      "木星",
+      "金星"
+    ],
+    "explanation": "地球。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-bc69557fdeaf16c7",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "月亮为什么看起来发光？",
+    "answer": "反射太阳光",
+    "choices": [
+      "反射太阳光",
+      "自己像太阳一样发光",
+      "内部有灯泡",
+      "把声音变成光"
+    ],
+    "explanation": "反射太阳光。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-a6be0be41ed6c986",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么月相会变化？",
+    "answer": "看到月球被照亮部分的角度改变",
+    "choices": [
+      "看到月球被照亮部分的角度改变",
+      "月球每晚被吃掉一块",
+      "云层固定剪出月牙",
+      "月球每天改变球体形状"
+    ],
+    "explanation": "看到月球被照亮部分的角度改变。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-04a0afba7988181b",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "日食时哪个天体位于太阳与地球之间？",
+    "answer": "月球",
+    "choices": [
+      "月球",
+      "木星",
+      "火星",
+      "土星"
+    ],
+    "explanation": "月球。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-1fd98805642ecf58",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "月食时哪个天体遮挡射向月球的阳光？",
+    "answer": "地球",
+    "choices": [
+      "地球",
+      "金星",
+      "火星",
+      "水星"
+    ],
+    "explanation": "地球。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-47a85d4bb424402b",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "太阳属于哪类天体？",
+    "answer": "恒星",
+    "choices": [
+      "恒星",
+      "行星",
+      "卫星",
+      "彗星"
+    ],
+    "explanation": "恒星。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-31ec529ac4530e85",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "地球属于哪类天体？",
+    "answer": "行星",
+    "choices": [
+      "行星",
+      "恒星",
+      "彗星",
+      "流星"
+    ],
+    "explanation": "行星。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-5ec159c15621454e",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "北斗七星整体看起来像什么形状？",
+    "answer": "勺子",
+    "choices": [
+      "勺子",
+      "正方形",
+      "一条完整直线",
+      "圆环"
+    ],
+    "explanation": "勺子。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-1707660e16ee6ac2",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "指南针主要指示南北与什么有关？",
+    "answer": "地球磁场",
+    "choices": [
+      "地球磁场",
+      "月亮香味",
+      "海水颜色",
+      "云的形状"
+    ],
+    "explanation": "地球磁场。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-8f1fbf57ca425bd9",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么天空晴朗时通常呈蓝色？",
+    "answer": "空气对太阳光的散射",
+    "choices": [
+      "空气对太阳光的散射",
+      "海水把全部天空染蓝",
+      "天空是一块蓝玻璃",
+      "太阳只发蓝光"
+    ],
+    "explanation": "空气对太阳光的散射。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-09a852fa39c7d7db",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么朝霞晚霞常偏红？",
+    "answer": "阳光经过较长空气路径后蓝光更多被散射",
+    "choices": [
+      "阳光经过较长空气路径后蓝光更多被散射",
+      "太阳表面变成红布",
+      "云只会制造红色",
+      "地球停止反射光"
+    ],
+    "explanation": "阳光经过较长空气路径后蓝光更多被散射。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-9e599ad90ae41d74",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "云主要由什么组成？",
+    "answer": "小水滴和冰晶",
+    "choices": [
+      "小水滴和冰晶",
+      "棉花",
+      "白烟灰",
+      "塑料碎屑"
+    ],
+    "explanation": "小水滴和冰晶。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-1acc0760f0cb410c",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "雾主要是什么？",
+    "answer": "近地面悬浮的小水滴等",
+    "choices": [
+      "近地面悬浮的小水滴等",
+      "地面冒出的棉花",
+      "大量固体盐块",
+      "没有任何物质的影子"
+    ],
+    "explanation": "近地面悬浮的小水滴等。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-dfd4f986e584f4cd",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "雨滴通常从哪里形成并落下？",
+    "answer": "云中水滴增大后落下",
+    "choices": [
+      "云中水滴增大后落下",
+      "月亮流出的水",
+      "地球内部喷出的油",
+      "太阳上的冰"
+    ],
+    "explanation": "云中水滴增大后落下。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-eae612ef399117e3",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "雪花主要由什么组成？",
+    "answer": "冰晶",
+    "choices": [
+      "冰晶",
+      "棉絮",
+      "食盐",
+      "沙粒"
+    ],
+    "explanation": "冰晶。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-7255579977416e93",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "冰雹主要是什么？",
+    "answer": "云中形成的冰粒",
+    "choices": [
+      "云中形成的冰粒",
+      "热石头",
+      "塑料球",
+      "干树叶"
+    ],
+    "explanation": "云中形成的冰粒。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-fa5c20d81c860c55",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "露水一般怎样形成？",
+    "answer": "水蒸气遇冷凝结",
+    "choices": [
+      "水蒸气遇冷凝结",
+      "植物泼出来的油",
+      "月光变成水",
+      "灰尘直接发光"
+    ],
+    "explanation": "水蒸气遇冷凝结。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-b490eada20a91801",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "霜通常怎样形成？",
+    "answer": "水蒸气在冷表面凝华",
+    "choices": [
+      "水蒸气在冷表面凝华",
+      "泥土开白花",
+      "阳光变成盐",
+      "雨滴蒸发后变铁"
+    ],
+    "explanation": "水蒸气在冷表面凝华。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-87fc680a81a6ac89",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么风会吹？",
+    "answer": "空气压强差推动空气流动",
+    "choices": [
+      "空气压强差推动空气流动",
+      "树叶先摇才产生全部风",
+      "月亮用嘴吹气",
+      "空气完全静止"
+    ],
+    "explanation": "空气压强差推动空气流动。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-6761fc80828efdb3",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "天气预报中的气温常用什么单位？",
+    "answer": "摄氏度",
+    "choices": [
+      "摄氏度",
+      "千克",
+      "米",
+      "升"
+    ],
+    "explanation": "摄氏度。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-33c297536111a8a6",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "测量降水量常用什么仪器？",
+    "answer": "雨量器",
+    "choices": [
+      "雨量器",
+      "体重秤",
+      "指南针",
+      "放大镜"
+    ],
+    "explanation": "雨量器。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-7acd989b3bf695a4",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "测量风向常用什么仪器？",
+    "answer": "风向标",
+    "choices": [
+      "风向标",
+      "量杯",
+      "秒表",
+      "温度计"
+    ],
+    "explanation": "风向标。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-0a56d6f7648d3e84",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "台风通常形成于哪里？",
+    "answer": "温暖的热带海洋上",
+    "choices": [
+      "温暖的热带海洋上",
+      "完全干燥的沙漠地下",
+      "月球背面",
+      "冰箱内部"
+    ],
+    "explanation": "温暖的热带海洋上。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-2b3f867f9f7a1d29",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "雷电天气在户外应怎样做？",
+    "answer": "尽快进入安全建筑避险",
+    "choices": [
+      "尽快进入安全建筑避险",
+      "站在孤立大树下",
+      "在空旷地高举金属杆",
+      "靠近高压电线"
+    ],
+    "explanation": "尽快进入安全建筑避险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-0c422effc5ad1453",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么地震会发生？",
+    "answer": "地下岩层运动破裂释放能量",
+    "choices": [
+      "地下岩层运动破裂释放能量",
+      "所有地震都由打雷造成",
+      "地球每天打喷嚏",
+      "月亮落到地下"
+    ],
+    "explanation": "地下岩层运动破裂释放能量。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-b6c5e287844a87ba",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "火山喷发常喷出什么？",
+    "answer": "岩浆和气体等",
+    "choices": [
+      "岩浆和气体等",
+      "纯牛奶",
+      "塑料泡沫",
+      "棉花"
+    ],
+    "explanation": "岩浆和气体等。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-b5cf4676bbb7740b",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "地球表面面积较大的部分是什么？",
+    "answer": "海洋",
+    "choices": [
+      "海洋",
+      "沙漠",
+      "冰川",
+      "城市"
+    ],
+    "explanation": "海洋。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-f12f95e86d60f8de",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "海水为什么常有咸味？",
+    "answer": "溶有多种盐类",
+    "choices": [
+      "溶有多种盐类",
+      "海里全是糖",
+      "鱼把海水煮咸",
+      "海水没有水分"
+    ],
+    "explanation": "溶有多种盐类。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-3c6c500ef255fd87",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么不能用海水直接解渴？",
+    "answer": "盐分高会加重身体失水风险",
+    "choices": [
+      "盐分高会加重身体失水风险",
+      "海水没有任何液体",
+      "海水必定结冰",
+      "海水就是纯净水"
+    ],
+    "explanation": "盐分高会加重身体失水风险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-51ca05ff6deb6ac6",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "河水通常为什么由高处流向低处？",
+    "answer": "重力作用",
+    "choices": [
+      "重力作用",
+      "河流喜欢低处的颜色",
+      "水没有质量",
+      "空气只在低处存在"
+    ],
+    "explanation": "重力作用。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-719f8252ec9e2aaa",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "水循环包括哪项过程？",
+    "answer": "蒸发、凝结和降水",
+    "choices": [
+      "蒸发、凝结和降水",
+      "塑料制造和喷漆",
+      "金属熔炼和锻造",
+      "发电机转动和刹车"
+    ],
+    "explanation": "蒸发、凝结和降水。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-e6b5d255a5461f8a",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "地下水主要从哪里补给？",
+    "answer": "降水等渗入地下",
+    "choices": [
+      "降水等渗入地下",
+      "月球输水管",
+      "地核直接制造牛奶",
+      "岩石凭空变出无限水"
+    ],
+    "explanation": "降水等渗入地下。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-032647be6e4075a6",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么沙漠昼夜温差常较大？",
+    "answer": "空气干燥少云，保温作用较弱",
+    "choices": [
+      "空气干燥少云，保温作用较弱",
+      "沙子晚上完全没有质量",
+      "沙漠没有太阳",
+      "沙漠空气不会流动"
+    ],
+    "explanation": "空气干燥少云，保温作用较弱。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-e48e96295260619a",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "岩石经风化会发生什么？",
+    "answer": "逐渐破碎或成分改变",
+    "choices": [
+      "逐渐破碎或成分改变",
+      "一定立刻变成黄金",
+      "永远不可能改变",
+      "变成活的动物"
+    ],
+    "explanation": "逐渐破碎或成分改变。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-115b432f2059b2d6",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "土壤中通常包含什么？",
+    "answer": "矿物颗粒、有机质、水和空气",
+    "choices": [
+      "矿物颗粒、有机质、水和空气",
+      "只有纯铁",
+      "只有玻璃",
+      "完全没有空气"
+    ],
+    "explanation": "矿物颗粒、有机质、水和空气。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-728b04cc511d8710",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么河流弯道两岸侵蚀沉积可能不同？",
+    "answer": "水流速度和方向有差异",
+    "choices": [
+      "水流速度和方向有差异",
+      "两岸时间不同",
+      "一岸没有引力",
+      "河水变成了光"
+    ],
+    "explanation": "水流速度和方向有差异。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "地球与天气"
+  },
+  {
+    "id": "science-6b8fbcda2370efa6",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "太阳系中离太阳最近的行星是哪颗？",
+    "answer": "水星",
+    "choices": [
+      "水星",
+      "海王星",
+      "地球",
+      "土星"
+    ],
+    "explanation": "水星。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-0e87d78b6c3602a4",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "太阳系中体积最大的行星是哪颗？",
+    "answer": "木星",
+    "choices": [
+      "木星",
+      "地球",
+      "水星",
+      "火星"
+    ],
+    "explanation": "木星。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-9532ba975b84e138",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "以明显光环著称的太阳系行星是哪颗？",
+    "answer": "土星",
+    "choices": [
+      "土星",
+      "水星",
+      "金星",
+      "火星"
+    ],
+    "explanation": "土星。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-e7d7d66c8c5f0498",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "被称为“红色星球”的行星是哪颗？",
+    "answer": "火星",
+    "choices": [
+      "火星",
+      "金星",
+      "水星",
+      "海王星"
+    ],
+    "explanation": "火星。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-4b655835740bc88b",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "地球最外层的固体薄壳通常叫作什么？",
+    "answer": "地壳",
+    "choices": [
+      "地壳",
+      "地核",
+      "大气核",
+      "太阳壳"
+    ],
+    "explanation": "地壳。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-f81e910f344ff6b7",
+    "subject": "science",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "彗星靠近太阳时为什么可能出现彗尾？",
+    "answer": "冰升华并释放气体和尘埃",
+    "choices": [
+      "冰升华并释放气体和尘埃",
+      "长出动物尾巴",
+      "太阳用绳子拉它",
+      "彗星内部有人喷漆"
+    ],
+    "explanation": "冰升华并释放气体和尘埃。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-b0dc8728465cc646",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "流星现象通常怎样产生？",
+    "answer": "小天体进入大气发光",
+    "choices": [
+      "小天体进入大气发光",
+      "恒星真的掉到地面",
+      "月球碎成水滴",
+      "云朵打开灯泡"
+    ],
+    "explanation": "小天体进入大气发光。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-27bef9bc14a66cf7",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么宇航员在轨道空间站里看似漂浮？",
+    "answer": "与空间站一起处于持续自由落体",
+    "choices": [
+      "与空间站一起处于持续自由落体",
+      "那里完全没有引力",
+      "身体失去质量",
+      "宇航服藏有翅膀"
+    ],
+    "explanation": "与空间站一起处于持续自由落体。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-8a8a69096616486f",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么宇航员出舱要穿航天服？",
+    "answer": "提供生命保障和环境防护",
+    "choices": [
+      "提供生命保障和环境防护",
+      "为了不被月亮看见",
+      "为了完全不呼吸",
+      "为了把人变成机器"
+    ],
+    "explanation": "提供生命保障和环境防护。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-d953e0fbbe1709e3",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么火箭可在真空中前进？",
+    "answer": "向后喷出物质产生反作用力",
+    "choices": [
+      "向后喷出物质产生反作用力",
+      "必须用翅膀拍空气",
+      "靠轮子压住真空",
+      "被前方空气吸走"
+    ],
+    "explanation": "向后喷出物质产生反作用力。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-85e85cbc43089e7d",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "人造卫星可用于什么？",
+    "answer": "通信、导航和观测",
+    "choices": [
+      "通信、导航和观测",
+      "让地球停止转动",
+      "制造无限石油",
+      "消除所有天气"
+    ],
+    "explanation": "通信、导航和观测。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-b37ee0561c0eac00",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "卫星导航主要利用什么确定位置？",
+    "answer": "卫星信号与时间信息",
+    "choices": [
+      "卫星信号与时间信息",
+      "路边花香",
+      "地面颜色猜测",
+      "星座名字长度"
+    ],
+    "explanation": "卫星信号与时间信息。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-15d78abbcfcfadd7",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么望远镜能看清远处细节？",
+    "answer": "收集光并形成放大图像",
+    "choices": [
+      "收集光并形成放大图像",
+      "把物体拉到面前",
+      "让光停止传播",
+      "把空气变成玻璃"
+    ],
+    "explanation": "收集光并形成放大图像。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-0e3a56e40ec80aa6",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "显微镜通常用于观察什么？",
+    "answer": "微小结构",
+    "choices": [
+      "微小结构",
+      "未来的天气画面",
+      "月球背面全部细节",
+      "地核完整实景"
+    ],
+    "explanation": "微小结构。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-513930fff80c9b8e",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么计算机需要存储器？",
+    "answer": "保存数据和程序",
+    "choices": [
+      "保存数据和程序",
+      "储存饮用水",
+      "产生氧气",
+      "替代电源线"
+    ],
+    "explanation": "保存数据和程序。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-8799a3c4ea229901",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "键盘主要属于哪种设备？",
+    "answer": "输入设备",
+    "choices": [
+      "输入设备",
+      "供水设备",
+      "发动机",
+      "制冷设备"
+    ],
+    "explanation": "输入设备。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-2b1f87bfb11a0c04",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "显示器主要用于什么？",
+    "answer": "显示图像和文字",
+    "choices": [
+      "显示图像和文字",
+      "吸收食物",
+      "储存汽油",
+      "制造纸张"
+    ],
+    "explanation": "显示图像和文字。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-e357ca9678695fcb",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "打印机主要用于什么？",
+    "answer": "把数字内容输出到纸等介质上",
+    "choices": [
+      "把数字内容输出到纸等介质上",
+      "给电脑充气",
+      "测量心跳",
+      "制造自来水"
+    ],
+    "explanation": "把数字内容输出到纸等介质上。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-d47917fda2e533db",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么要给重要文件做备份？",
+    "answer": "降低数据丢失的影响",
+    "choices": [
+      "降低数据丢失的影响",
+      "让文件永不占空间",
+      "让电脑不再需要电",
+      "让网络永远不断"
+    ],
+    "explanation": "降低数据丢失的影响。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-f378ca5b1b2c5e93",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么密码不宜过于简单？",
+    "answer": "容易被猜中",
+    "choices": [
+      "容易被猜中",
+      "简单密码会让屏幕变黑",
+      "简单密码会使电池增重",
+      "简单密码无法输入"
+    ],
+    "explanation": "容易被猜中。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-2be49d6291813697",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么不应随意公开家庭住址？",
+    "answer": "保护个人隐私和安全",
+    "choices": [
+      "保护个人隐私和安全",
+      "地址会改变地球自转",
+      "文字会让水结冰",
+      "会让太阳失去光亮"
+    ],
+    "explanation": "保护个人隐私和安全。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-cccbfbfc96480bbd",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "二维码主要通过什么表示信息？",
+    "answer": "按规则排列的黑白图形",
+    "choices": [
+      "按规则排列的黑白图形",
+      "纸张香味",
+      "手机重量",
+      "空气温度"
+    ],
+    "explanation": "按规则排列的黑白图形。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-edcfb444cc67f6ae",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "遥控器常用红外线传递什么？",
+    "answer": "控制信号",
+    "choices": [
+      "控制信号",
+      "饮用水",
+      "食物营养",
+      "机械齿轮"
+    ],
+    "explanation": "控制信号。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-c85bc81dd4526585",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "蓝牙主要用于什么？",
+    "answer": "近距离无线通信",
+    "choices": [
+      "近距离无线通信",
+      "制造火焰",
+      "给房间供水",
+      "让物体失重"
+    ],
+    "explanation": "近距离无线通信。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-9f42076187341cc9",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "Wi-Fi主要帮助设备做什么？",
+    "answer": "通过无线网络通信",
+    "choices": [
+      "通过无线网络通信",
+      "自动生成所有内容",
+      "让电视不需电源",
+      "消除空气"
+    ],
+    "explanation": "通过无线网络通信。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-23b29dbfa46a58bc",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么手机电池不能随意刺破？",
+    "answer": "可能短路并起火",
+    "choices": [
+      "可能短路并起火",
+      "里面装满纯水",
+      "会变成石头",
+      "能增加电池寿命"
+    ],
+    "explanation": "可能短路并起火。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-43adabc1eee84cb3",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "太阳能电池主要把什么转成电能？",
+    "answer": "光能",
+    "choices": [
+      "光能",
+      "食物味道",
+      "纸张颜色",
+      "声音文字"
+    ],
+    "explanation": "光能。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-c1857bbc51e312ca",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "风力发电利用什么驱动发电设备？",
+    "answer": "空气流动的能量",
+    "choices": [
+      "空气流动的能量",
+      "海水盐味",
+      "月亮颜色",
+      "土壤气味"
+    ],
+    "explanation": "空气流动的能量。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-780db63f4e6870ca",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "水力发电主要利用什么？",
+    "answer": "水流的能量",
+    "choices": [
+      "水流的能量",
+      "水的甜味",
+      "水的颜色",
+      "水中鱼的歌声"
+    ],
+    "explanation": "水流的能量。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-89e3a43a6847fcad",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "电动机主要把电能转成什么？",
+    "answer": "机械运动能",
+    "choices": [
+      "机械运动能",
+      "文字信息",
+      "石头重量",
+      "食物营养"
+    ],
+    "explanation": "机械运动能。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-7dc89a66527f04a0",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "发电机主要把机械能转成什么？",
+    "answer": "电能",
+    "choices": [
+      "电能",
+      "纸张",
+      "木材",
+      "塑料"
+    ],
+    "explanation": "电能。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-d41902e391b1fa5d",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "电池主要把储存的什么能量转为电能？",
+    "answer": "化学能",
+    "choices": [
+      "化学能",
+      "姓名",
+      "颜色",
+      "声音含义"
+    ],
+    "explanation": "化学能。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-2b4c120bcce150e2",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么电路通常要闭合才能有持续电流？",
+    "answer": "形成电荷流动的完整通路",
+    "choices": [
+      "形成电荷流动的完整通路",
+      "电线必须打成死结",
+      "开关必须拆掉",
+      "电池必须泡水"
+    ],
+    "explanation": "形成电荷流动的完整通路。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-bb16afed36cb88d6",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "开关在电路中主要做什么？",
+    "answer": "接通或断开电路",
+    "choices": [
+      "接通或断开电路",
+      "制造电池",
+      "改变电线材质",
+      "产生无限电能"
+    ],
+    "explanation": "接通或断开电路。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-f3f41f51fcb15f7d",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么家用电器应远离水？",
+    "answer": "减少漏电触电风险",
+    "choices": [
+      "减少漏电触电风险",
+      "水能让电器永远省电",
+      "电器都能在水下安全使用",
+      "水使电压总为零"
+    ],
+    "explanation": "减少漏电触电风险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-b1f5364a05fbd6ef",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "磁铁通常能明显吸引哪种材料？",
+    "answer": "铁",
+    "choices": [
+      "铁",
+      "木头",
+      "塑料",
+      "玻璃"
+    ],
+    "explanation": "铁。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-864897af7190707a",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "磁铁的同名磁极靠近时通常怎样？",
+    "answer": "相互排斥",
+    "choices": [
+      "相互排斥",
+      "必定融合",
+      "变成水",
+      "没有任何作用"
+    ],
+    "explanation": "相互排斥。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-c6cefdaffa0dd20d",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "磁铁的异名磁极靠近时通常怎样？",
+    "answer": "相互吸引",
+    "choices": [
+      "相互吸引",
+      "必定排斥",
+      "产生食物",
+      "消除引力"
+    ],
+    "explanation": "相互吸引。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-59f0f5d8d26914b7",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么铜常被用作电线导体？",
+    "answer": "导电性能较好",
+    "choices": [
+      "导电性能较好",
+      "完全不导电",
+      "和塑料一样透明",
+      "接电后没有任何质量"
+    ],
+    "explanation": "导电性能较好。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-31efce6d9cc519f4",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么保险丝能起保护作用？",
+    "answer": "电流过大时熔断",
+    "choices": [
+      "电流过大时熔断",
+      "让电路永远不断",
+      "增加无限电流",
+      "把电变成饮用水"
+    ],
+    "explanation": "电流过大时熔断。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "天文与科技"
+  },
+  {
+    "id": "science-043a207d5afe633a",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么垃圾要分类？",
+    "answer": "便于回收利用和妥善处理",
+    "choices": [
+      "便于回收利用和妥善处理",
+      "让垃圾总量自动归零",
+      "让塑料变成食物",
+      "让有害物永不需要处理"
+    ],
+    "explanation": "便于回收利用和妥善处理。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-b0c1e07e9dd8c15c",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "废纸适合进入哪类回收流程？",
+    "answer": "可回收物处理",
+    "choices": [
+      "可回收物处理",
+      "直接倒入河里",
+      "烧在教室里",
+      "埋进饭盒"
+    ],
+    "explanation": "可回收物处理。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-0981d8a006f43c16",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "废电池为何需按当地要求妥善处理？",
+    "answer": "某些成分可能污染环境",
+    "choices": [
+      "某些成分可能污染环境",
+      "所有电池都能食用",
+      "电池一定是纯木头",
+      "电池会自行变成树"
+    ],
+    "explanation": "某些成分可能污染环境。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-f6bdae5ce9bbaa0f",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么塑料垃圾不能随意丢入海洋？",
+    "answer": "可能伤害海洋生物和生态",
+    "choices": [
+      "可能伤害海洋生物和生态",
+      "塑料会成为所有鱼的食物",
+      "海洋能立即分解所有塑料",
+      "塑料让海水更清洁"
+    ],
+    "explanation": "可能伤害海洋生物和生态。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-539e174898af11f8",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么要节约用水？",
+    "answer": "可利用淡水资源有限且供水需成本",
+    "choices": [
+      "可利用淡水资源有限且供水需成本",
+      "地球没有任何海水",
+      "水永远不能循环",
+      "每滴水只能存在一秒"
+    ],
+    "explanation": "可利用淡水资源有限且供水需成本。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-4aaa20e77b08e323",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么要随手关掉不用的灯？",
+    "answer": "减少不必要的用电",
+    "choices": [
+      "减少不必要的用电",
+      "灯关掉后会制造石油",
+      "灯开着不消耗能源",
+      "关灯会停止地球转动"
+    ],
+    "explanation": "减少不必要的用电。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-eff649806bd44aab",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么双面用纸有助于环保？",
+    "answer": "减少纸张消耗",
+    "choices": [
+      "减少纸张消耗",
+      "让纸张无限增厚",
+      "让纸不再由材料制成",
+      "让森林不再需要水"
+    ],
+    "explanation": "减少纸张消耗。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-e12b9f6ee80fad7a",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么步行短距离出行较环保？",
+    "answer": "可减少机动车能源消耗和排放",
+    "choices": [
+      "可减少机动车能源消耗和排放",
+      "步行会产生汽油",
+      "所有汽车都不排放",
+      "步行能取消重力"
+    ],
+    "explanation": "可减少机动车能源消耗和排放。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-31c615c9bc44f5e7",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么不能向河里倾倒油污？",
+    "answer": "会污染水体并伤害生物",
+    "choices": [
+      "会污染水体并伤害生物",
+      "油污就是纯净水",
+      "油会立刻变成氧气",
+      "油可替代所有鱼食"
+    ],
+    "explanation": "会污染水体并伤害生物。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-99e8c10dd7980e9f",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么大量化肥流入湖泊可能有害？",
+    "answer": "可能导致富营养化和缺氧",
+    "choices": [
+      "可能导致富营养化和缺氧",
+      "让湖水变成玻璃",
+      "使所有植物立即消失",
+      "使水不再有任何营养元素"
+    ],
+    "explanation": "可能导致富营养化和缺氧。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-45ae551fcced6bb1",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "二氧化碳增多与哪项环境变化有关？",
+    "answer": "温室效应增强",
+    "choices": [
+      "温室效应增强",
+      "地球立刻没有引力",
+      "海洋瞬间变干",
+      "白天永久消失"
+    ],
+    "explanation": "温室效应增强。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-7f57a211f873eb97",
+    "subject": "science",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "温室气体为什么能影响气温？",
+    "answer": "影响地球向外散热",
+    "choices": [
+      "影响地球向外散热",
+      "把空气变成固体墙",
+      "让太阳停止发光",
+      "消除所有云层"
+    ],
+    "explanation": "影响地球向外散热。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-a27d45cbddc07b84",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "臭氧层对地面生物有何作用？",
+    "answer": "吸收部分有害紫外线",
+    "choices": [
+      "吸收部分有害紫外线",
+      "挡住所有可见光",
+      "制造地球引力",
+      "让海水变甜"
+    ],
+    "explanation": "吸收部分有害紫外线。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-495e7fc5b9a4e272",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "空气中含量最多的气体是什么？",
+    "answer": "氮气",
+    "choices": [
+      "氮气",
+      "氧气",
+      "二氧化碳",
+      "氢气"
+    ],
+    "explanation": "氮气。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-498d0643e0483f99",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "人和许多动物呼吸需要空气中的什么？",
+    "answer": "氧气",
+    "choices": [
+      "氧气",
+      "氦气",
+      "氖气",
+      "氩气"
+    ],
+    "explanation": "氧气。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-e7b5b905d1ee5110",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "燃烧通常需要什么条件之一？",
+    "answer": "有合适的助燃物",
+    "choices": [
+      "有合适的助燃物",
+      "完全没有热量",
+      "温度必须零下",
+      "一定浸在水中"
+    ],
+    "explanation": "有合适的助燃物。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-d1cf78086b57c6b5",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么用锅盖盖住小油锅火可有帮助？",
+    "answer": "隔绝空气使燃烧受抑制",
+    "choices": [
+      "隔绝空气使燃烧受抑制",
+      "给火增加氧气",
+      "给油加糖",
+      "让锅盖产生水流"
+    ],
+    "explanation": "隔绝空气使燃烧受抑制。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-02e317e0a9ad73ae",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "油锅起火为什么不能直接泼水？",
+    "answer": "水可能使热油飞溅扩大危险",
+    "choices": [
+      "水可能使热油飞溅扩大危险",
+      "水一定没有质量",
+      "水必定变成汽油",
+      "水会让火完全没有温度"
+    ],
+    "explanation": "水可能使热油飞溅扩大危险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-69488774bf2908a3",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么发现燃气泄漏不能随意开关电器？",
+    "answer": "电火花可能引发燃爆",
+    "choices": [
+      "电火花可能引发燃爆",
+      "电器会吸收所有燃气",
+      "开关一定能净化空气",
+      "燃气没有危险"
+    ],
+    "explanation": "电火花可能引发燃爆。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-787e873abd59976e",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么火灾时不应乘普通电梯？",
+    "answer": "可能断电或受烟火影响",
+    "choices": [
+      "可能断电或受烟火影响",
+      "电梯必定比楼梯更冷",
+      "电梯可永远隔绝烟气",
+      "电梯不需要电"
+    ],
+    "explanation": "可能断电或受烟火影响。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-243be9af5429962e",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么烟多时低姿避险常更有利？",
+    "answer": "烟和热气常向上聚集",
+    "choices": [
+      "烟和热气常向上聚集",
+      "地面永远没有危险",
+      "低头就不需要呼吸",
+      "烟会变成水"
+    ],
+    "explanation": "烟和热气常向上聚集。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-08cd00ef5070607c",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么陌生液体不能随便品尝？",
+    "answer": "可能有毒或腐蚀性",
+    "choices": [
+      "可能有毒或腐蚀性",
+      "透明液体都是水",
+      "香的液体都能喝",
+      "所有液体都安全"
+    ],
+    "explanation": "可能有毒或腐蚀性。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-6afad5d48dd7672b",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么酒精消毒液要远离明火？",
+    "answer": "酒精易燃",
+    "choices": [
+      "酒精易燃",
+      "酒精完全不能燃烧",
+      "酒精没有任何蒸气",
+      "酒精遇火只会结冰"
+    ],
+    "explanation": "酒精易燃。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-aacc957d5920d7bd",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么玻璃杯倒入很烫的水可能裂开？",
+    "answer": "受热不均产生热应力",
+    "choices": [
+      "受热不均产生热应力",
+      "水把玻璃变成纸",
+      "杯子没有质量",
+      "玻璃会吃掉热量"
+    ],
+    "explanation": "受热不均产生热应力。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-de043a5976c463e7",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么铁制品可能生锈？",
+    "answer": "铁与氧气和水等发生反应",
+    "choices": [
+      "铁与氧气和水等发生反应",
+      "铁变成了塑料",
+      "锈是铁的种子",
+      "只有阳光就一定生锈"
+    ],
+    "explanation": "铁与氧气和水等发生反应。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-4f09331b479b226c",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么给铁制品涂漆能防锈？",
+    "answer": "减少接触水和氧气",
+    "choices": [
+      "减少接触水和氧气",
+      "让铁失去全部重量",
+      "把铁变成木头",
+      "让氧气永远消失"
+    ],
+    "explanation": "减少接触水和氧气。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-6d6a5f0cb52ec921",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么盐能溶解在水中？",
+    "answer": "盐的粒子分散进入水中",
+    "choices": [
+      "盐的粒子分散进入水中",
+      "盐完全不存在了",
+      "盐变成沙子",
+      "水变成火"
+    ],
+    "explanation": "盐的粒子分散进入水中。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-07a08784513bda49",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么搅拌能加快糖溶解？",
+    "answer": "加快溶质和水的接触更新",
+    "choices": [
+      "加快溶质和水的接触更新",
+      "改变糖的元素种类",
+      "让糖变成盐",
+      "使水没有分子"
+    ],
+    "explanation": "加快溶质和水的接触更新。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-acfe91ab6d22bc58",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "怎样分离水中的较大沙粒？",
+    "answer": "过滤",
+    "choices": [
+      "过滤",
+      "加糖",
+      "染色",
+      "用手电照射"
+    ],
+    "explanation": "过滤。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-7119170443595825",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "怎样从盐水中取得食盐？",
+    "answer": "蒸发水分",
+    "choices": [
+      "蒸发水分",
+      "加入更多清水就立即无水",
+      "用磁铁吸",
+      "只用滤纸直接滤出溶解盐"
+    ],
+    "explanation": "蒸发水分。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-fb3afda6da6ab17a",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么食用油常浮在水面？",
+    "answer": "密度通常比水小且不易相溶",
+    "choices": [
+      "密度通常比水小且不易相溶",
+      "油完全没有质量",
+      "水能把油变成气体",
+      "油比所有物质都轻"
+    ],
+    "explanation": "密度通常比水小且不易相溶。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-7279ce3690918130",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么热空气常会上升？",
+    "answer": "受热膨胀后密度减小",
+    "choices": [
+      "受热膨胀后密度减小",
+      "热空气变成铁",
+      "热空气没有任何分子",
+      "地球只吸冷空气"
+    ],
+    "explanation": "受热膨胀后密度减小。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-f126280b3597962e",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么气球放在强烈日晒下可能胀破？",
+    "answer": "内部气体受热膨胀",
+    "choices": [
+      "内部气体受热膨胀",
+      "气球内部生成石头",
+      "阳光把气球变成水",
+      "空气永远不会膨胀"
+    ],
+    "explanation": "内部气体受热膨胀。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-552e72381cd45190",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么车胎不能充气过量？",
+    "answer": "过高压力增加破裂风险",
+    "choices": [
+      "过高压力增加破裂风险",
+      "空气没有压力",
+      "轮胎必须完全没有空气",
+      "充得越多永远越安全"
+    ],
+    "explanation": "过高压力增加破裂风险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-559f648e2afe5c04",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么安全带能保护乘车人？",
+    "answer": "约束身体减轻突然减速的伤害",
+    "choices": [
+      "约束身体减轻突然减速的伤害",
+      "消除汽车全部质量",
+      "让汽车永远不刹车",
+      "安全带能代替驾驶员"
+    ],
+    "explanation": "约束身体减轻突然减速的伤害。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-1a84723313da52c3",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么骑车应正确戴头盔？",
+    "answer": "降低头部受伤风险",
+    "choices": [
+      "降低头部受伤风险",
+      "让自行车自动驾驶",
+      "保证永远不摔倒",
+      "使人不需看路"
+    ],
+    "explanation": "降低头部受伤风险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-3d4ac9e98352325a",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么过马路要遵守信号灯？",
+    "answer": "减少交通冲突和事故风险",
+    "choices": [
+      "减少交通冲突和事故风险",
+      "信号灯可以取消刹车",
+      "红灯能挡住所有车",
+      "绿灯时可以闭眼走"
+    ],
+    "explanation": "减少交通冲突和事故风险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-c1c8650002d6bbe3",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么电梯超载时不应强行乘坐？",
+    "answer": "超出设计载荷有安全风险",
+    "choices": [
+      "超出设计载荷有安全风险",
+      "超载能让电梯更安全",
+      "电梯完全不受重量影响",
+      "超载不可能触发故障"
+    ],
+    "explanation": "超出设计载荷有安全风险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-6294e7b7abae59d1",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么滑梯上通常比粗糙地面容易滑动？",
+    "answer": "表面较光滑摩擦较小",
+    "choices": [
+      "表面较光滑摩擦较小",
+      "滑梯消除了重力",
+      "衣服变成水",
+      "空气不再存在"
+    ],
+    "explanation": "表面较光滑摩擦较小。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-4d658b2847ee1631",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么肥皂有助于清洗油污？",
+    "answer": "其成分帮助油污分散到水中",
+    "choices": [
+      "其成分帮助油污分散到水中",
+      "肥皂把油变成金属",
+      "肥皂只靠颜色清洁",
+      "肥皂能让水永不蒸发"
+    ],
+    "explanation": "其成分帮助油污分散到水中。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "生活与环境"
+  },
+  {
+    "id": "science-520e3345720140cb",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么红绿灯常用不同颜色？",
+    "answer": "便于区分不同交通指令",
+    "choices": [
+      "便于区分不同交通指令",
+      "颜色可直接推动汽车",
+      "颜色能替代所有交通规则",
+      "颜色让道路消失"
+    ],
+    "explanation": "便于区分不同交通指令。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-a6db6b542ff6504d",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么食物包装要标注保质期？",
+    "answer": "提示规定条件下的质量保持期限",
+    "choices": [
+      "提示规定条件下的质量保持期限",
+      "证明过期一定无毒",
+      "让食品永不变质",
+      "让包装可以食用"
+    ],
+    "explanation": "提示规定条件下的质量保持期限。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-7cdc9e694b8c1661",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么冷冻食品解冻后不宜反复冻融？",
+    "answer": "可能影响品质并增加微生物风险",
+    "choices": [
+      "可能影响品质并增加微生物风险",
+      "反复冻融能消灭所有病菌",
+      "每次解冻都会产生新包装",
+      "解冻后食品不需保存"
+    ],
+    "explanation": "可能影响品质并增加微生物风险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-52a590c10e4de69f",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么要清洁可重复使用的水杯？",
+    "answer": "减少污垢和微生物积累",
+    "choices": [
+      "减少污垢和微生物积累",
+      "让杯子变成玻璃以外的材料",
+      "让水永不蒸发",
+      "使杯子不再有重量"
+    ],
+    "explanation": "减少污垢和微生物积累。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-baeb28c62f131eb4",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么烧开的水也要妥善保存？",
+    "answer": "放置过程中可能再次污染",
+    "choices": [
+      "放置过程中可能再次污染",
+      "开水永远不可能变质",
+      "开水没有任何物质",
+      "开水会自己回到水壶"
+    ],
+    "explanation": "放置过程中可能再次污染。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-74a964cd5454275b",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么草地上不能随意焚烧垃圾？",
+    "answer": "可能引发火灾并污染空气",
+    "choices": [
+      "可能引发火灾并污染空气",
+      "烟能净化所有空气",
+      "火能让塑料变水果",
+      "焚烧一定没有风险"
+    ],
+    "explanation": "可能引发火灾并污染空气。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-7398fd56cafb1ea5",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么河水看起来清澈也未必能直接喝？",
+    "answer": "可能含有肉眼看不见的病原体",
+    "choices": [
+      "可能含有肉眼看不见的病原体",
+      "清澈说明一定有毒",
+      "清澈说明没有水",
+      "河水总是蒸馏水"
+    ],
+    "explanation": "可能含有肉眼看不见的病原体。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-135e89d916ae3233",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么手湿时不应插拔电源插头？",
+    "answer": "潮湿会增加触电风险",
+    "choices": [
+      "潮湿会增加触电风险",
+      "水能保证绝缘",
+      "手湿会让电流消失",
+      "插头只有颜色没有电"
+    ],
+    "explanation": "潮湿会增加触电风险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-fd03db41624bde83",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么塑料尺摩擦后能吸小纸屑？",
+    "answer": "摩擦使其带静电",
+    "choices": [
+      "摩擦使其带静电",
+      "尺子产生了胶水",
+      "纸屑变成铁",
+      "尺子取消了重力"
+    ],
+    "explanation": "摩擦使其带静电。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-37efd00a8bc125ed",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么毛衣脱下时偶尔有小火花？",
+    "answer": "积累的静电放电",
+    "choices": [
+      "积累的静电放电",
+      "衣服里一定藏着电池",
+      "空气变成玻璃",
+      "人体在燃烧所有衣物"
+    ],
+    "explanation": "积累的静电放电。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-59f7de78962f1e98",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么冬天金属摸起来比木头冷？",
+    "answer": "金属更快带走手部热量",
+    "choices": [
+      "金属更快带走手部热量",
+      "金属温度必定低于零度",
+      "木头完全没有温度",
+      "金属会制造寒气"
+    ],
+    "explanation": "金属更快带走手部热量。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-db7710b2aad1e2d4",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么热水上方常见白色水雾？",
+    "answer": "水蒸气遇冷形成小水滴",
+    "choices": [
+      "水蒸气遇冷形成小水滴",
+      "气态水本身一定是白色",
+      "水里冒出棉花",
+      "热水变成面粉"
+    ],
+    "explanation": "水蒸气遇冷形成小水滴。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-914c5a8082db1c1a",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么水壶烧水时会冒气泡？",
+    "answer": "水受热有气体逸出并可产生水蒸气",
+    "choices": [
+      "水受热有气体逸出并可产生水蒸气",
+      "壶里长出石头",
+      "气泡都是纯油",
+      "水在变成木头"
+    ],
+    "explanation": "水受热有气体逸出并可产生水蒸气。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-fa36db622f10d0ae",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么测体温要使用合适的体温计？",
+    "answer": "量程和精度适合人体温度",
+    "choices": [
+      "量程和精度适合人体温度",
+      "任何尺子都可测体温",
+      "体温只由姓名决定",
+      "所有温度计完全相同"
+    ],
+    "explanation": "量程和精度适合人体温度。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-f60429b4e1d68d4e",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么玻璃通常能让我们看见后面的物体？",
+    "answer": "可见光能较多地透过",
+    "choices": [
+      "可见光能较多地透过",
+      "玻璃完全不存在",
+      "声音穿过形成图像",
+      "玻璃会吸走物体"
+    ],
+    "explanation": "可见光能较多地透过。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-1bf200132825c31a",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么磨砂玻璃能透光却不易看清后方细节？",
+    "answer": "表面使光散射",
+    "choices": [
+      "表面使光散射",
+      "玻璃把所有光变成声音",
+      "玻璃一定不透任何光",
+      "物体不再存在"
+    ],
+    "explanation": "表面使光散射。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-cfb974deaa2a7178",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么蜂巢的许多巢房呈六边形？",
+    "answer": "有利于紧密排列并节省材料",
+    "choices": [
+      "有利于紧密排列并节省材料",
+      "蜜蜂只会数到六",
+      "六边形没有边",
+      "蜂蜡只能形成圆形"
+    ],
+    "explanation": "有利于紧密排列并节省材料。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-8684d1a00c466860",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么鱼鳍对鱼很重要？",
+    "answer": "帮助推进、转向和保持平衡",
+    "choices": [
+      "帮助推进、转向和保持平衡",
+      "代替所有鳃",
+      "把水变成食物",
+      "使鱼不受引力"
+    ],
+    "explanation": "帮助推进、转向和保持平衡。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-ba6ced0cdee6c19c",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么树根能帮助防止水土流失？",
+    "answer": "固定土壤并减缓冲刷",
+    "choices": [
+      "固定土壤并减缓冲刷",
+      "树根能取消暴雨",
+      "树根让土壤完全无水",
+      "树根把泥土变成钢铁"
+    ],
+    "explanation": "固定土壤并减缓冲刷。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-a751cc0d9b713691",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么森林中的枯叶也有生态作用？",
+    "answer": "分解后参与养分循环",
+    "choices": [
+      "分解后参与养分循环",
+      "永远不会发生变化",
+      "能让植物不用光",
+      "所有枯叶都立即变成石头"
+    ],
+    "explanation": "分解后参与养分循环。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-a43c4b268dcc45ce",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么冰比液态水轻一些？",
+    "answer": "同样体积冰的质量通常较小",
+    "choices": [
+      "同样体积冰的质量通常较小",
+      "冰完全没有质量",
+      "冰中没有水分子",
+      "水结冰后变成空气"
+    ],
+    "explanation": "同样体积冰的质量通常较小。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-47bd1c05ca3a6625",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么不用嘴吹灭酒精灯更安全？",
+    "answer": "吹气可能导致火焰和可燃蒸气危险",
+    "choices": [
+      "吹气可能导致火焰和可燃蒸气危险",
+      "嘴里一定有汽油",
+      "火焰完全不受空气影响",
+      "吹气会消除所有氧气"
+    ],
+    "explanation": "吹气可能导致火焰和可燃蒸气危险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-92c545008a252f24",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么温度计液柱随温度变化？",
+    "answer": "测温液体会热胀冷缩",
+    "choices": [
+      "测温液体会热胀冷缩",
+      "液体在长出叶子",
+      "玻璃变成纸",
+      "颜色决定温度"
+    ],
+    "explanation": "测温液体会热胀冷缩。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-2a79b0e40cc07d3c",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么白色衣物在阳光下常较不易吸热？",
+    "answer": "反射较多太阳辐射",
+    "choices": [
+      "反射较多太阳辐射",
+      "白色完全没有物质",
+      "白色能消除空气温度",
+      "白色衣服不能传热"
+    ],
+    "explanation": "反射较多太阳辐射。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-cb61051819714c9d",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么金属易拉罐可以回收利用？",
+    "answer": "金属材料可再加工",
+    "choices": [
+      "金属材料可再加工",
+      "金属只能使用一次",
+      "回收能使质量变零",
+      "金属会变成食物"
+    ],
+    "explanation": "金属材料可再加工。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-9555dfe7492b94f2",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么不能在密闭空间烧炭取暖？",
+    "answer": "可能产生一氧化碳中毒风险",
+    "choices": [
+      "可能产生一氧化碳中毒风险",
+      "炭只产生纯氧",
+      "密闭空间永远安全",
+      "炭火不消耗氧气"
+    ],
+    "explanation": "可能产生一氧化碳中毒风险。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-0bbf42d30b0e7966",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么一氧化碳危险？",
+    "answer": "会妨碍血液正常运输氧气",
+    "choices": [
+      "会妨碍血液正常运输氧气",
+      "能让人体不需呼吸",
+      "是一种必需饮料",
+      "只能使衣服变色"
+    ],
+    "explanation": "会妨碍血液正常运输氧气。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-95202600540f688c",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么使用蚊帐能减少蚊虫叮咬？",
+    "answer": "形成物理屏障",
+    "choices": [
+      "形成物理屏障",
+      "把所有空气挡住",
+      "让蚊子不再繁殖",
+      "发出所有人听不到的魔法"
+    ],
+    "explanation": "形成物理屏障。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-deab19aeab4d40fb",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么太阳下不宜用放大镜对着易燃物？",
+    "answer": "聚光可能使局部温度升高起火",
+    "choices": [
+      "聚光可能使局部温度升高起火",
+      "放大镜会制造汽油",
+      "阳光遇镜会变冰",
+      "放大镜只能反射声音"
+    ],
+    "explanation": "聚光可能使局部温度升高起火。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  },
+  {
+    "id": "science-907c02f2ce267782",
+    "subject": "science",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "为什么不同材料需要分别回收？",
+    "answer": "便于采用适合的再利用工艺",
+    "choices": [
+      "便于采用适合的再利用工艺",
+      "所有材料熔点完全相同",
+      "不同材料没有任何差异",
+      "回收只看名字长短"
+    ],
+    "explanation": "便于采用适合的再利用工艺。",
+    "reference": "原创科普选择题；基础科学概念参考义务教育科学课程标准（2022年版），非《十万个为什么》原书摘录",
+    "topic": "更多生活科学"
+  }
+]

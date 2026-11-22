@@ -1,0 +1,15 @@
+.gradle/
+**/build/
+local.properties
+.DS_Store
+*.jks
+
+# Local worktrees, agent state, evidence and generated packages
+.temp/
+.workbuddy/
+HANDOFF-CODEX.md
+/dist/
+*.apk
+*.idsig
+*.keystore
+*.log

@@ -1,0 +1,7640 @@
+[
+  {
+    "id": "riddle-60bf56fcf141fe0a",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么东西越洗越脏，最后还要换掉？",
+    "answer": "洗东西的水",
+    "choices": [
+      "洗东西的水",
+      "洗好的碗",
+      "洗好的衣服",
+      "洗好的苹果"
+    ],
+    "explanation": "脏东西进入水中，水变脏。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-8f620939060d8137",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么东西属于你，别人却常常比你用得多？",
+    "answer": "你的名字",
+    "choices": [
+      "你的名字",
+      "你的牙刷",
+      "你的鞋",
+      "你的头发"
+    ],
+    "explanation": "别人呼唤你时会使用你的名字。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-62e8824d54b2748c",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么门通常不能用手推开，也不能让人走进去？",
+    "answer": "球门",
+    "choices": [
+      "球门",
+      "教室门",
+      "院子门",
+      "木门"
+    ],
+    "explanation": "这里的球门是运动设施。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-e4f6856dd19105cb",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“海”里没有海水，却有许多知识？",
+    "answer": "书海",
+    "choices": [
+      "书海",
+      "东海",
+      "南海",
+      "黄海"
+    ],
+    "explanation": "书海是大量书籍的比喻。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-71938bd0ed92df31",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“花”不能种在花盆里，却在空中绽放？",
+    "answer": "烟花",
+    "choices": [
+      "烟花",
+      "菊花",
+      "兰花",
+      "月季花"
+    ],
+    "explanation": "烟花指燃放形成的光彩。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-152832b61bf38198",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么桥常出现在雨后天空，却不能走人？",
+    "answer": "彩虹桥",
+    "choices": [
+      "彩虹桥",
+      "石桥",
+      "木桥",
+      "铁桥"
+    ],
+    "explanation": "“彩虹桥”是对彩虹的形象称呼。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-28a76562d993c72d",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么东西有齿却不能咬东西，还能整理头发？",
+    "answer": "梳子",
+    "choices": [
+      "梳子",
+      "老虎",
+      "小狗",
+      "小猫"
+    ],
+    "explanation": "梳齿能梳理头发。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-d486687812402036",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么东西有脚却不会走，还能摆放饭菜？",
+    "answer": "桌子",
+    "choices": [
+      "桌子",
+      "小鸟",
+      "小马",
+      "小兔"
+    ],
+    "explanation": "桌脚是支撑结构。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-70d1ced6a11659a9",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么东西有面却没有五官，还能显示时间？",
+    "answer": "钟表",
+    "choices": [
+      "钟表",
+      "小朋友",
+      "小猫",
+      "小狗"
+    ],
+    "explanation": "钟表的表面又叫表盘。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-404a90de1712680f",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么东西有头有尾没有身体，常用来购物？",
+    "answer": "硬币",
+    "choices": [
+      "硬币",
+      "小鱼",
+      "小蛇",
+      "小鸟"
+    ],
+    "explanation": "硬币的正反两面有时被称作头和尾。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-d1e7ab3349792034",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么东西越用越短，还能写字？",
+    "answer": "铅笔",
+    "choices": [
+      "铅笔",
+      "书包",
+      "桌子",
+      "尺子"
+    ],
+    "explanation": "削笔和书写会消耗笔芯与笔杆。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-70a88b0b21de0106",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么东西一碰就破，常由肥皂水吹出来？",
+    "answer": "泡泡",
+    "choices": [
+      "泡泡",
+      "石头",
+      "玻璃珠",
+      "铁球"
+    ],
+    "explanation": "肥皂泡的液膜很薄。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-f0adcafda13970e3",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么东西需要打破以后，才能煎着吃？",
+    "answer": "鸡蛋",
+    "choices": [
+      "鸡蛋",
+      "米饭",
+      "苹果",
+      "面包"
+    ],
+    "explanation": "煎鸡蛋前先打破蛋壳。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-45543a82b1e52587",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么东西不会走路，却能把信送到远方，贴在信封上？",
+    "answer": "邮票",
+    "choices": [
+      "邮票",
+      "邮筒",
+      "信纸",
+      "桌子"
+    ],
+    "explanation": "邮票作为邮资凭证随信件送达。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-f73080385914fb93",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么东西看得见却抓不住，跟着人在阳光下移动？",
+    "answer": "影子",
+    "choices": [
+      "影子",
+      "鞋子",
+      "帽子",
+      "书包"
+    ],
+    "explanation": "影子由光被遮挡形成。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-796b1a90e2d68a6f",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么东西能装下大树和高山，却只是一张纸？",
+    "answer": "地图",
+    "choices": [
+      "地图",
+      "纸杯",
+      "纸巾",
+      "信封"
+    ],
+    "explanation": "地图用符号表示真实地点。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-ec2b2c1dce5aff01",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么东西没有嘴，却能告诉大家现在几点？",
+    "answer": "时钟",
+    "choices": [
+      "时钟",
+      "书包",
+      "水杯",
+      "扫帚"
+    ],
+    "explanation": "钟面或显示屏给出时间。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-1345d822e0d82b49",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么东西越擦越小，却能把错字去掉？",
+    "answer": "橡皮",
+    "choices": [
+      "橡皮",
+      "直尺",
+      "本子",
+      "钢笔"
+    ],
+    "explanation": "擦拭会磨损橡皮。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-59caf4f2c947558f",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“车”不能载人，只能转动来输送水？",
+    "answer": "水车",
+    "choices": [
+      "水车",
+      "客车",
+      "火车",
+      "公交车"
+    ],
+    "explanation": "水车是一种提水等用途的装置。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-d1692b8b188c9750",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“笔”不装墨水，却能在电脑上画画？",
+    "answer": "数位笔",
+    "choices": [
+      "数位笔",
+      "钢笔",
+      "毛笔",
+      "签字笔"
+    ],
+    "explanation": "数位笔可通过感应向设备输入笔迹。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-7b1cae18e535c7e2",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“鼠”没有毛，却能控制电脑光标？",
+    "answer": "鼠标",
+    "choices": [
+      "鼠标",
+      "松鼠",
+      "田鼠",
+      "仓鼠"
+    ],
+    "explanation": "鼠标是计算机输入设备。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-634bf7378f246183",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“网”没有绳线，却让远方的人互相联系？",
+    "answer": "互联网",
+    "choices": [
+      "互联网",
+      "渔网",
+      "球网",
+      "蚊帐网"
+    ],
+    "explanation": "互联网连接许多计算机网络。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-9ecdf723bbe114c1",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“虫”不是真虫，却会影响电脑？",
+    "answer": "计算机蠕虫",
+    "choices": [
+      "计算机蠕虫",
+      "蚕",
+      "毛毛虫",
+      "萤火虫"
+    ],
+    "explanation": "计算机蠕虫是一类恶意程序。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-a5c1ba821fda11ad",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“口”不会吃饭，却能让船停靠？",
+    "answer": "港口",
+    "choices": [
+      "港口",
+      "小猫的嘴",
+      "小狗的嘴",
+      "小鸟的嘴"
+    ],
+    "explanation": "港口是船舶停靠的地方。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-94fae8c0c759e05f",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“耳”长在锅上，不会听声音？",
+    "answer": "锅耳",
+    "choices": [
+      "锅耳",
+      "兔耳",
+      "猫耳",
+      "狗耳"
+    ],
+    "explanation": "锅耳是方便提握的部件。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-20b399712090b1ba",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“眼”长在针上，看不见东西？",
+    "answer": "针眼",
+    "choices": [
+      "针眼",
+      "猫眼",
+      "鹰眼",
+      "人眼"
+    ],
+    "explanation": "针眼是穿线的孔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-24a9570e8a2c2d26",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“舌”长在鞋上，不会说话？",
+    "answer": "鞋舌",
+    "choices": [
+      "鞋舌",
+      "猫舌",
+      "牛舌",
+      "人舌"
+    ],
+    "explanation": "鞋舌是鞋面上的部件。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-e956034cb27053f6",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“腰”在山上，不会弯着做操？",
+    "answer": "山腰",
+    "choices": [
+      "山腰",
+      "人的腰",
+      "猫的腰",
+      "狗的腰"
+    ],
+    "explanation": "山腰指山的中部。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-bb159e7f956b474e",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“心”藏在笔里，不会跳动？",
+    "answer": "笔芯",
+    "choices": [
+      "笔芯",
+      "人的心",
+      "牛的心",
+      "猪的心"
+    ],
+    "explanation": "“芯”与“心”同音，笔芯用来书写。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-ac88efcb4044e6e6",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“头”在火车最前面，却不会吃饭？",
+    "answer": "车头",
+    "choices": [
+      "车头",
+      "牛头",
+      "马头",
+      "羊头"
+    ],
+    "explanation": "车头是列车前部或机车的称呼。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-d03dc323f9120bb3",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“腿”出现在眼镜上，却不能走路？",
+    "answer": "镜腿",
+    "choices": [
+      "镜腿",
+      "鸡腿",
+      "鸭腿",
+      "鹅腿"
+    ],
+    "explanation": "镜腿用于支撑眼镜。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-5b1671bd69d50b5e",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“牙”出现在拉链上，却不能咀嚼？",
+    "answer": "拉链齿牙",
+    "choices": [
+      "拉链齿牙",
+      "虎牙",
+      "狗牙",
+      "猫牙"
+    ],
+    "explanation": "链牙相互啮合使拉链闭合。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-3a1541705759ae49",
+    "subject": "riddle",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“叶”装在电风扇里，却不会进行光合作用？",
+    "answer": "扇叶",
+    "choices": [
+      "扇叶",
+      "荷叶",
+      "竹叶",
+      "枫叶"
+    ],
+    "explanation": "扇叶转动推动空气。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-4a649b6178a8036e",
+    "subject": "riddle",
+    "minGrade": 6,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "什么“根”常出现在数学里，却不是植物的根？",
+    "answer": "平方根",
+    "choices": [
+      "平方根",
+      "树根",
+      "草根",
+      "花根"
+    ],
+    "explanation": "平方根是数学概念。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-64ca0f415cfd616e",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“角”在桌子边上，不属于动物？",
+    "answer": "桌角",
+    "choices": [
+      "桌角",
+      "牛角",
+      "羊角",
+      "鹿角"
+    ],
+    "explanation": "桌角指桌面边缘相交处。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-a64fecb7a81a6bd7",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“星”在海里生活，却不是天体？",
+    "answer": "海星",
+    "choices": [
+      "海星",
+      "太阳",
+      "北极星",
+      "天狼星"
+    ],
+    "explanation": "海星是海洋动物。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-f39f565f71c9e643",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“牛”没有四条腿，背着螺旋形的壳？",
+    "answer": "蜗牛",
+    "choices": [
+      "蜗牛",
+      "水牛",
+      "黄牛",
+      "牦牛"
+    ],
+    "explanation": "蜗牛是软体动物。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-9a9692eb46cf8bc5",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“鱼”不是鱼类，有八条腕？",
+    "answer": "章鱼",
+    "choices": [
+      "章鱼",
+      "鲤鱼",
+      "金鱼",
+      "鲫鱼"
+    ],
+    "explanation": "章鱼属于软体动物。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-8eec3c5129b884f5",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“鱼”不是鱼类，却用肺呼吸并哺育幼崽？",
+    "answer": "鲸鱼",
+    "choices": [
+      "鲸鱼",
+      "鲫鱼",
+      "带鱼",
+      "鳗鱼"
+    ],
+    "explanation": "鲸属于哺乳动物。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-a09229c202d46ba8",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“虎”能爬墙，体形小，常吃昆虫？",
+    "answer": "壁虎",
+    "choices": [
+      "壁虎",
+      "东北虎",
+      "华南虎",
+      "孟加拉虎"
+    ],
+    "explanation": "壁虎是爬行动物。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-a0bdd9e056900b6e",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“龙”是海洋动物，体形细长，属于鱼类？",
+    "answer": "海龙",
+    "choices": [
+      "海龙",
+      "翼龙",
+      "霸王龙",
+      "三角龙"
+    ],
+    "explanation": "海龙属于海龙科鱼类。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-d84ebdbab1fb607a",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“花”在冬日窗玻璃上形成，却没有花瓣？",
+    "answer": "冰花",
+    "choices": [
+      "冰花",
+      "菊花",
+      "牡丹",
+      "月季"
+    ],
+    "explanation": "冰花是冰晶图案。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-b5e42860982907d0",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“雨”来自火山附近，却不一定是水滴？",
+    "answer": "火山灰雨",
+    "choices": [
+      "火山灰雨",
+      "春雨",
+      "秋雨",
+      "阵雨"
+    ],
+    "explanation": "火山灰可像雨一样从空中落下。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-b12ab00e56f7050c",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“书”没有纸张，常在屏幕上阅读？",
+    "answer": "电子书",
+    "choices": [
+      "电子书",
+      "纸质课本",
+      "纸质字典",
+      "纸质画册"
+    ],
+    "explanation": "电子书以数字形式储存显示。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-160e0b68ccb44e8e",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“袋”长在袋鼠身上，能护育幼崽？",
+    "answer": "育儿袋",
+    "choices": [
+      "育儿袋",
+      "书包袋",
+      "购物袋",
+      "纸袋"
+    ],
+    "explanation": "袋鼠幼崽可在育儿袋中继续发育。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-b9888bf5f8ef7679",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“衣”能让人帮助漂浮，却不能保证不用游泳救援？",
+    "answer": "救生衣",
+    "choices": [
+      "救生衣",
+      "雨衣",
+      "棉衣",
+      "衬衣"
+    ],
+    "explanation": "救生衣提供浮力但仍需遵守水上安全规则。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-273b78bc1af44216",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“伞”在高空打开，帮助下降减速？",
+    "answer": "降落伞",
+    "choices": [
+      "降落伞",
+      "遮阳伞",
+      "雨伞",
+      "餐桌伞"
+    ],
+    "explanation": "降落伞增大空气阻力。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-c35f682be119a386",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“帽”戴在螺栓上，而不是人头上？",
+    "answer": "螺帽",
+    "choices": [
+      "螺帽",
+      "草帽",
+      "礼帽",
+      "棉帽"
+    ],
+    "explanation": "螺帽又称螺母，常与螺栓配合。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-7d7b5f977c0f79a6",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“锁”不用钥匙，却要输入一串数字？",
+    "answer": "密码锁",
+    "choices": [
+      "密码锁",
+      "普通挂锁",
+      "普通门锁",
+      "普通柜锁"
+    ],
+    "explanation": "密码锁用密码验证。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-cffb4efc51536477",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“钟”在身体内，提醒人按时作息？",
+    "answer": "生物钟",
+    "choices": [
+      "生物钟",
+      "挂钟",
+      "座钟",
+      "塔钟"
+    ],
+    "explanation": "生物钟是生命活动的节律机制。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-9b76d3e3be3a2b04",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“池”可以给遥控器供电，却不能游泳？",
+    "answer": "电池",
+    "choices": [
+      "电池",
+      "泳池",
+      "鱼池",
+      "水池"
+    ],
+    "explanation": "电池是供电装置。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-7c898465a8eab444",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“带”可保存声音信息，却不能系裤子？",
+    "answer": "磁带",
+    "choices": [
+      "磁带",
+      "腰带",
+      "鞋带",
+      "丝带"
+    ],
+    "explanation": "磁带可以记录信号。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-c22c5fbcc1cdd54a",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“盘”用于储存电脑数据，却不能装饭菜？",
+    "answer": "硬盘",
+    "choices": [
+      "硬盘",
+      "瓷盘",
+      "餐盘",
+      "果盘"
+    ],
+    "explanation": "硬盘是数据存储设备。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-8e5ca58adf71d1fc",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“云”在网络服务里，却不会下雨？",
+    "answer": "云计算中的云",
+    "choices": [
+      "云计算中的云",
+      "雨云",
+      "积雨云",
+      "层雨云"
+    ],
+    "explanation": "“云”比喻网络端计算资源。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-7dd5a4c6900c228e",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“墙”用于网络防护，却不是砖头砌成？",
+    "answer": "防火墙",
+    "choices": [
+      "防火墙",
+      "院墙",
+      "城墙",
+      "砖墙"
+    ],
+    "explanation": "网络防火墙按规则控制通信。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-2d62d9dfc94d70a3",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“窗”出现在电脑桌面，不用玻璃？",
+    "answer": "应用窗口",
+    "choices": [
+      "应用窗口",
+      "教室玻璃窗",
+      "卧室窗",
+      "厨房窗"
+    ],
+    "explanation": "窗口是图形界面的一部分。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-e3a799a52726865d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“路”用于传输电流，却不是汽车道路？",
+    "answer": "电路",
+    "choices": [
+      "电路",
+      "公路",
+      "山路",
+      "铁路"
+    ],
+    "explanation": "电路提供电流通路。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-25d64f0397617270",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“球”常用于显示地理位置，能拿在手中转动？",
+    "answer": "地球仪",
+    "choices": [
+      "地球仪",
+      "篮球",
+      "足球",
+      "排球"
+    ],
+    "explanation": "地球仪是地球的模型。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-a8789b10aa5d2ae2",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“灯”在交通路口，用颜色告诉车辆停或行？",
+    "answer": "信号灯",
+    "choices": [
+      "信号灯",
+      "台灯",
+      "床头灯",
+      "手电筒"
+    ],
+    "explanation": "交通信号灯用于管理交通。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-b069936434eef4bf",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“车”摆在商店里，装上商品由人推着走？",
+    "answer": "购物车",
+    "choices": [
+      "购物车",
+      "火车",
+      "客车",
+      "赛车"
+    ],
+    "explanation": "购物车方便在商店选购商品。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-7f4884a1f6186720",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“梯”装在楼里，轿厢可以升降？",
+    "answer": "电梯",
+    "choices": [
+      "电梯",
+      "木梯",
+      "竹梯",
+      "绳梯"
+    ],
+    "explanation": "电梯通过轿厢运送人或货物。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-a466e7019be5a247",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“杯”常被冠军举起，却主要不是用来喝水？",
+    "answer": "奖杯",
+    "choices": [
+      "奖杯",
+      "茶杯",
+      "水杯",
+      "咖啡杯"
+    ],
+    "explanation": "奖杯用于表彰成绩。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-beed37eb91e8d0be",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“线”画在地图上表示纬度，地面却没有实物？",
+    "answer": "纬线",
+    "choices": [
+      "纬线",
+      "毛线",
+      "电线",
+      "鱼线"
+    ],
+    "explanation": "纬线是地理定位的假想线。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-f5a0a1f75148ccab",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“圈”是画在地图上的地理概念，经过南北极附近？",
+    "answer": "极圈",
+    "choices": [
+      "极圈",
+      "游泳圈",
+      "铁圈",
+      "花圈"
+    ],
+    "explanation": "南北极圈是特殊纬线。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-b5dcf449d96c85f6",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“针”可以帮助辨认方向，却不用来缝衣？",
+    "answer": "指南针",
+    "choices": [
+      "指南针",
+      "缝衣针",
+      "绣花针",
+      "毛衣针"
+    ],
+    "explanation": "指南针利用地磁指示方向。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-2fdf3977a4acd99d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“镜”让微小细胞更容易被观察？",
+    "answer": "显微镜",
+    "choices": [
+      "显微镜",
+      "穿衣镜",
+      "后视镜",
+      "化妆镜"
+    ],
+    "explanation": "显微镜放大微小结构。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-d83aaf3c3a533a33",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“镜”用于远望天体，不用来照脸？",
+    "answer": "天文望远镜",
+    "choices": [
+      "天文望远镜",
+      "梳妆镜",
+      "穿衣镜",
+      "车内后视镜"
+    ],
+    "explanation": "天文望远镜收集远处天体的光。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-d3c6b266987c42fc",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“船”在太空中飞行，而不是航行在水上？",
+    "answer": "宇宙飞船",
+    "choices": [
+      "宇宙飞船",
+      "帆船",
+      "渔船",
+      "轮船"
+    ],
+    "explanation": "宇宙飞船用于太空飞行。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-e1008b9609faf623",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“站”在太空轨道上，可以供宇航员工作？",
+    "answer": "空间站",
+    "choices": [
+      "空间站",
+      "公交站",
+      "火车站",
+      "地铁站"
+    ],
+    "explanation": "空间站是轨道上的航天设施。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-1b390be37bca1b5e",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“箭”用于发射卫星，不能用弓射出？",
+    "answer": "火箭",
+    "choices": [
+      "火箭",
+      "竹箭",
+      "木箭",
+      "弓箭"
+    ],
+    "explanation": "火箭通过喷射产生推力。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-2f295f4bd6e328e4",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“服”能为出舱宇航员提供生命保障？",
+    "answer": "航天服",
+    "choices": [
+      "航天服",
+      "校服",
+      "雨衣",
+      "球服"
+    ],
+    "explanation": "航天服适应特殊太空环境。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-51eef2f8e2c307a1",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“海”在月球上，却不是装满水的海洋？",
+    "answer": "月海",
+    "choices": [
+      "月海",
+      "东海",
+      "红海",
+      "地中海"
+    ],
+    "explanation": "月海是月球上较暗的平原。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-52b7c05c19c29d1d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“环”围在土星周围，不是首饰？",
+    "answer": "行星环",
+    "choices": [
+      "行星环",
+      "手环",
+      "耳环",
+      "戒指"
+    ],
+    "explanation": "行星环由冰和岩屑等组成。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-8456afaf43dbba4e",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“带”环绕地球中部，表示炎热的气候区域？",
+    "answer": "热带",
+    "choices": [
+      "热带",
+      "鞋带",
+      "腰带",
+      "磁带"
+    ],
+    "explanation": "热带是气候地理分区。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-8b477938ee2ae74f",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“流”能让电器工作，却不是河水？",
+    "answer": "电流",
+    "choices": [
+      "电流",
+      "河流",
+      "溪流",
+      "洋流"
+    ],
+    "explanation": "电流是电荷的定向移动。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-d61072a50dca1748",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“波”能通过天线传信号，不是海浪？",
+    "answer": "电磁波",
+    "choices": [
+      "电磁波",
+      "水波",
+      "海浪",
+      "涟漪"
+    ],
+    "explanation": "电磁波可用于无线通信。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-628978f78051af81",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“语”能让程序执行指令，属于计算机领域？",
+    "answer": "编程语言",
+    "choices": [
+      "编程语言",
+      "鸟语",
+      "耳语",
+      "梦话"
+    ],
+    "explanation": "编程语言用于描述程序。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-c02db1f88f344a89",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "什么“脑”放在桌上处理数据，却不是人体器官？",
+    "answer": "电脑",
+    "choices": [
+      "电脑",
+      "人脑",
+      "牛脑",
+      "猪脑"
+    ],
+    "explanation": "电脑是电子计算设备。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "文字联想与观察"
+  },
+  {
+    "id": "riddle-6610195f8965c615",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一场赛跑中，你超过了原来的第二名，此刻你排第几？",
+    "answer": "第二名",
+    "choices": [
+      "第二名",
+      "第一名",
+      "第三名",
+      "最后一名"
+    ],
+    "explanation": "你占据了原来第二名的位置。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-3846da0ce260b92a",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "爷爷、爸爸和孩子三人去钓鱼，为什么也能说是“两位爸爸和两个儿子”？",
+    "answer": "爸爸同时是儿子和父亲",
+    "choices": [
+      "爸爸同时是儿子和父亲",
+      "其中一人钓了两次",
+      "他们是四个人",
+      "孩子是爷爷的爸爸"
+    ],
+    "explanation": "爸爸既是爷爷的儿子，也是孩子的父亲。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-7d1517097324ef98",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一千克棉花和一千克铁，哪一个质量大？",
+    "answer": "一样大",
+    "choices": [
+      "一样大",
+      "棉花",
+      "铁",
+      "无法比较"
+    ],
+    "explanation": "两者质量都是一千克。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-1dd0d094581ce3e5",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一年中有多少个月至少有28天？",
+    "answer": "12个",
+    "choices": [
+      "12个",
+      "1个",
+      "2个",
+      "6个"
+    ],
+    "explanation": "每个月都有至少28天。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-4421aab3a537718a",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "房间四个角各坐一只猫，每只都能看到另外三只，共有几只猫？",
+    "answer": "4只",
+    "choices": [
+      "4只",
+      "3只",
+      "12只",
+      "16只"
+    ],
+    "explanation": "一只猫可以同时被另外三只看到。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-4b76b19c79c10d62",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明面向北，向右转两次，每次90度，最后面向哪里？",
+    "answer": "南",
+    "choices": [
+      "南",
+      "北",
+      "东",
+      "西"
+    ],
+    "explanation": "北向右到东，再向右到南。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-6fdb9455139d92f7",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "篮子里有5个苹果，拿走2个。拿走苹果的人手中有几个苹果？",
+    "answer": "2个",
+    "choices": [
+      "2个",
+      "3个",
+      "5个",
+      "7个"
+    ],
+    "explanation": "问的是拿走的人手中数量，不是篮中剩余。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-9939736ec24f511e",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一个空瓶里没有糖，把一块糖放进去后，瓶里有几块糖？",
+    "answer": "1块",
+    "choices": [
+      "1块",
+      "0块",
+      "2块",
+      "无法知道"
+    ],
+    "explanation": "空瓶原有零块，放入一块就是一块。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-eff463d308e86d1b",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "三个人共撑一把伞，每个人都没有淋湿，最简单的可能原因是什么？",
+    "answer": "当时没有下雨",
+    "choices": [
+      "当时没有下雨",
+      "伞只能容纳一人",
+      "雨全变成铁",
+      "每个人都不会走路"
+    ],
+    "explanation": "撑伞并不意味着一定在下雨。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-a22c2dd09388fe9e",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小红在纸上写了一个“9”，不增加笔画，怎样让它看起来成为“6”？",
+    "answer": "把纸旋转180度",
+    "choices": [
+      "把纸旋转180度",
+      "加一个横",
+      "减去一个圆",
+      "把纸揉成球"
+    ],
+    "explanation": "常见数字字形旋转后9会像6。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-804bb585a1d55509",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明站在一张照片前说“我是照片里男孩爸爸的儿子”，且爸爸只有这一个儿子。照片里的男孩是谁？",
+    "answer": "小明",
+    "choices": [
+      "小明",
+      "小明的爷爷",
+      "小明的叔叔",
+      "小明的爸爸"
+    ],
+    "explanation": "爸爸唯一的儿子就是小明。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-b89ee7ab13d76464",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "同一栋楼里，住3楼和住6楼的人都去1楼，谁经过的楼层间隔更多？",
+    "answer": "住6楼的人",
+    "choices": [
+      "住6楼的人",
+      "住3楼的人",
+      "一样多",
+      "两人都不经过间隔"
+    ],
+    "explanation": "6楼到1楼有5段，3楼到1楼有2段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-3c8f5dfd581538bf",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一张长方形纸，剪去一个角后，最多可能有几个角？",
+    "answer": "5个",
+    "choices": [
+      "5个",
+      "2个",
+      "3个",
+      "8个"
+    ],
+    "explanation": "切线连接相邻两边内部，会新增两个角并去掉原角。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-1123749fc2477b2c",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一张正方形纸沿一条对角线剪开，得到两个什么形状？",
+    "answer": "三角形",
+    "choices": [
+      "三角形",
+      "正方形",
+      "五边形",
+      "圆形"
+    ],
+    "explanation": "对角线把正方形分成两个三角形。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-85be1efdd575add3",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "四个人每人都有一把伞，为什么仍可能都被雨淋湿？",
+    "answer": "他们没有把伞打开",
+    "choices": [
+      "他们没有把伞打开",
+      "雨无法落在地面",
+      "伞一定能自动展开",
+      "有伞就必定不淋雨"
+    ],
+    "explanation": "拥有伞不代表正在使用伞。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-825674f4bb81e136",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明家门前有条河，没有桥也没有船，他却从冰面走过去，说明河面怎样了？",
+    "answer": "结冰了",
+    "choices": [
+      "结冰了",
+      "变成太阳",
+      "完全没有任何物质",
+      "长出翅膀"
+    ],
+    "explanation": "题目明确提到冰面；现实中不可冒险踏冰。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-d04060adb37e5661",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "有一根10米长的绳子，两端各剪掉1米，还剩多长？",
+    "answer": "8米",
+    "choices": [
+      "8米",
+      "9米",
+      "10米",
+      "12米"
+    ],
+    "explanation": "两端共剪掉2米，10减2等于8。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-b89de6d77b10e794",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "同一个人能同时是别人的姐姐和妹妹吗？",
+    "answer": "可以，她有哥哥和弟弟",
+    "choices": [
+      "可以，她有哥哥和弟弟",
+      "不可以",
+      "只有没有兄弟时可以",
+      "必须是独生子女"
+    ],
+    "explanation": "相对哥哥是妹妹，相对弟弟是姐姐。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-86af1b4f110b384c",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一张圆桌旁坐4人，再搬来1张空椅子，坐着的人变成几个？",
+    "answer": "4个",
+    "choices": [
+      "4个",
+      "5个",
+      "3个",
+      "8个"
+    ],
+    "explanation": "搬来椅子没有增加坐着的人。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-34a4dbf1e5b35317",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "从一副手套中拿走一只，桌上还剩几只手套？",
+    "answer": "1只",
+    "choices": [
+      "1只",
+      "0只",
+      "2只",
+      "3只"
+    ],
+    "explanation": "一副手套有两只。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-b981ed99cb2fe2da",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "时钟在12点整时，时针和分针的夹角是多少度？",
+    "answer": "0度",
+    "choices": [
+      "0度",
+      "90度",
+      "180度",
+      "360度的小角"
+    ],
+    "explanation": "两针重合，较小夹角为0度。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-1b093c95080d9ea1",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "爸爸和妈妈各有一个孩子，这个家庭最少可能有几个孩子？",
+    "answer": "1个",
+    "choices": [
+      "1个",
+      "0个",
+      "2个",
+      "4个"
+    ],
+    "explanation": "同一个孩子可以同时是爸爸和妈妈的孩子。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-243488b9f371dbed",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "老师给两位学生各发一张纸，一共发出几张纸？",
+    "answer": "2张",
+    "choices": [
+      "2张",
+      "1张",
+      "3张",
+      "4张"
+    ],
+    "explanation": "每位一张，两位共两张。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-032bcebc43384300",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一辆车有4个轮子，备胎放在后备箱里，行驶时通常有几个轮子接触地面？",
+    "answer": "4个",
+    "choices": [
+      "4个",
+      "3个",
+      "5个",
+      "8个"
+    ],
+    "explanation": "后备箱的备胎不接触地面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-dff67976b9c9924a",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一块饼只切一刀，最多能分成几块（不折叠、不叠放）？",
+    "answer": "2块",
+    "choices": [
+      "2块",
+      "1块",
+      "3块",
+      "4块"
+    ],
+    "explanation": "一刀直切把完整饼分成两块。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-7d8962c70fb0e611",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小刚从起点向东走3米，再向西走3米，最后在哪里？",
+    "answer": "起点",
+    "choices": [
+      "起点",
+      "起点东侧6米",
+      "起点西侧6米",
+      "起点北侧3米"
+    ],
+    "explanation": "两段位移大小相等、方向相反。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-e714ced7c402432c",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "两枚硬币总共六角，其中一枚不是五角，另一枚可以是多少？",
+    "answer": "五角",
+    "choices": [
+      "五角",
+      "两角",
+      "三角",
+      "六角"
+    ],
+    "explanation": "一枚是一角，不是五角；另一枚是五角。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-88acc63c21e06b32",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小红说“我前面有2人，后面有2人”，这一列最少有几人？",
+    "answer": "5人",
+    "choices": [
+      "5人",
+      "2人",
+      "3人",
+      "4人"
+    ],
+    "explanation": "前面2人加小红1人加后面2人。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-3abcfd58771b836a",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "有3个苹果，3人每人拿1个，篮子里还留着1个，哪种做法符合？",
+    "answer": "最后一人连篮子一起拿",
+    "choices": [
+      "最后一人连篮子一起拿",
+      "每人拿2个",
+      "把苹果变成4个",
+      "没人拿苹果"
+    ],
+    "explanation": "最后一个苹果随篮子一起被拿着，仍在篮内。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-baee62492892a02d",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条毛巾对折后晾在绳上，毛巾的数量变了吗？",
+    "answer": "没有变",
+    "choices": [
+      "没有变",
+      "变成2条",
+      "变成3条",
+      "变成0条"
+    ],
+    "explanation": "折叠只改变形状，不改变物体数量。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-c1c479ad5fe25e73",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“口”字里加一横，可以变成哪个字？",
+    "answer": "日",
+    "choices": [
+      "日",
+      "田",
+      "目",
+      "回"
+    ],
+    "explanation": "日比口多中间一横。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-831000d66834676f",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“木”字下面加一横，可以变成哪个字？",
+    "answer": "本",
+    "choices": [
+      "本",
+      "林",
+      "森",
+      "休"
+    ],
+    "explanation": "本字在木字下方多一横。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-bfd407e19575b83e",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“日”字加一竖，可以组成哪个字？",
+    "answer": "田",
+    "choices": [
+      "田",
+      "口",
+      "木",
+      "月"
+    ],
+    "explanation": "在日字中间加一竖可成田。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-1f5c9d038faad4d8",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“人”字上面加一横，可以组成哪个字？",
+    "answer": "大",
+    "choices": [
+      "大",
+      "小",
+      "口",
+      "田"
+    ],
+    "explanation": "大字可看作人字上部加一横。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-549104bf939da64f",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“十”字外面加一个方框，可以组成哪个字？",
+    "answer": "田",
+    "choices": [
+      "田",
+      "日",
+      "目",
+      "白"
+    ],
+    "explanation": "方框里的十字形成田字。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-e81b8a9d69c40da8",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“明”字由哪两个表示天体的字组成？",
+    "answer": "日和月",
+    "choices": [
+      "日和月",
+      "水和火",
+      "山和石",
+      "田和土"
+    ],
+    "explanation": "明字左日右月。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-dad9bdc181aa2b82",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“休”字像一个人靠着什么休息？",
+    "answer": "树木",
+    "choices": [
+      "树木",
+      "海水",
+      "火焰",
+      "太阳"
+    ],
+    "explanation": "休字由人字旁和木组成。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-dc87de057bdc85ee",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "三根同样长的小棒首尾相接围成一个平面封闭图形，能围成什么？",
+    "answer": "三角形",
+    "choices": [
+      "三角形",
+      "四边形",
+      "五边形",
+      "圆"
+    ],
+    "explanation": "三根直棒组成三条边。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-005694bc260586e5",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "两根绳子各打一个结，再把两根绳子接在一起（新打一个结），共有几个结？",
+    "answer": "3个",
+    "choices": [
+      "3个",
+      "1个",
+      "2个",
+      "4个"
+    ],
+    "explanation": "原有两个结，新加一个结。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-91766f214b54e12f",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明买了10枚邮票，用了其中3枚寄信，未使用的邮票还有几枚？",
+    "answer": "7枚",
+    "choices": [
+      "7枚",
+      "3枚",
+      "10枚",
+      "13枚"
+    ],
+    "explanation": "题目问未使用的数量，10减3等于7。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "转弯思考"
+  },
+  {
+    "id": "riddle-b3b28314155a16c5",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条10米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "3",
+    "choices": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "explanation": "有2段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-dd39c30dc8799295",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了4面小旗，小旗之间的间隔总共有几段？",
+    "answer": "4",
+    "choices": [
+      "4",
+      "3",
+      "5",
+      "8"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-edc06e7e5b333502",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "桌上有2支点燃的蜡烛，吹灭1支，其余全部烧完。最后还能留下几支未烧完的蜡烛？",
+    "answer": "1",
+    "choices": [
+      "1",
+      "0",
+      "2",
+      "3"
+    ],
+    "explanation": "吹灭的1支不再燃烧，其余都烧完。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "条件与剩余"
+  },
+  {
+    "id": "riddle-490a0b9bb0bc577d",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "有5只鸟停在树上，钟声响起后全部飞走。树上还剩几只鸟？",
+    "answer": "0",
+    "choices": [
+      "0",
+      "5",
+      "4",
+      "1"
+    ],
+    "explanation": "条件明确说全部飞走，所以树上没有鸟。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "读清条件"
+  },
+  {
+    "id": "riddle-e2d2ca06a849da34",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲2下，从第一下到最后一下用了1秒。按相同间隔敲4下，需要几秒？",
+    "answer": "3",
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "explanation": "2下之间有1个间隔，每个1秒；4下有3个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-aea1f30e6043716e",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到3楼要经过几段相邻楼层间的楼梯？",
+    "answer": "2",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-fe01ad51b8e192ea",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋里有2个红球和3个蓝球，摸球时看不见。至少摸几个才能保证有两个球同色？",
+    "answer": "3",
+    "choices": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "explanation": "只有两种颜色，最坏前两个不同色，第三个必与其中一个同色。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·同色"
+  },
+  {
+    "id": "riddle-f1d33f37b9272feb",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有2个红球、3个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "4",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "explanation": "最坏先摸完3个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-19e19fa88adfe807",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把5个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "3",
+    "choices": [
+      "3",
+      "2",
+      "1",
+      "5"
+    ],
+    "explanation": "如果两篮都至多2个，只能放4个；因此至少一篮有3个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-b8d806a0ddff8512",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "2位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "1",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "每人和1人握手，每次算了两遍，所以共2×1÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-ae461dcaec6b680b",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用2分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "2",
+    "choices": [
+      "2",
+      "6",
+      "1",
+      "5"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-76fa3ac1b4ddd013",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小华今年7岁，小林比小华小5岁。再过10年，他们相差几岁？",
+    "answer": "5",
+    "choices": [
+      "5",
+      "10",
+      "2",
+      "15"
+    ],
+    "explanation": "两人年龄每年同增1岁，年龄差保持5岁。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "不变量"
+  },
+  {
+    "id": "riddle-6cb721bb77366957",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条15米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "4",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "explanation": "有3段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-42956a2b0a99e328",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了5面小旗，小旗之间的间隔总共有几段？",
+    "answer": "5",
+    "choices": [
+      "5",
+      "4",
+      "6",
+      "10"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-5b18b3f8c93c3c1d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲3下，从第一下到最后一下用了2秒。按相同间隔敲5下，需要几秒？",
+    "answer": "4",
+    "choices": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "explanation": "3下之间有2个间隔，每个1秒；5下有4个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-4ec3116f4901ac48",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到4楼要经过几段相邻楼层间的楼梯？",
+    "answer": "3",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-51d6c06ad577aa4f",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有3个红球、4个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "5",
+    "choices": [
+      "5",
+      "4",
+      "3",
+      "7"
+    ],
+    "explanation": "最坏先摸完4个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-1961ab7264597005",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把7个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "4",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "7"
+    ],
+    "explanation": "如果两篮都至多3个，只能放6个；因此至少一篮有4个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-0d89b204b0c4e411",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "3位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "3",
+    "choices": [
+      "3",
+      "6",
+      "9",
+      "4"
+    ],
+    "explanation": "每人和2人握手，每次算了两遍，所以共3×2÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-6cc48ce638338885",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用3分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "3",
+    "choices": [
+      "3",
+      "9",
+      "1",
+      "6"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-50de68e97abdf8f0",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条20米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "5",
+    "choices": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "explanation": "有4段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-c24e8fe3d5f3c906",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了6面小旗，小旗之间的间隔总共有几段？",
+    "answer": "6",
+    "choices": [
+      "6",
+      "5",
+      "7",
+      "12"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-921c760a6c548556",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲4下，从第一下到最后一下用了3秒。按相同间隔敲6下，需要几秒？",
+    "answer": "5",
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "explanation": "4下之间有3个间隔，每个1秒；6下有5个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-55af601fedbc04cb",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到5楼要经过几段相邻楼层间的楼梯？",
+    "answer": "4",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-6226b49620a1c3be",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有4个红球、5个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "6",
+    "choices": [
+      "6",
+      "5",
+      "4",
+      "9"
+    ],
+    "explanation": "最坏先摸完5个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-ae6f04cb932e60fe",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把9个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "5",
+    "choices": [
+      "5",
+      "4",
+      "3",
+      "9"
+    ],
+    "explanation": "如果两篮都至多4个，只能放8个；因此至少一篮有5个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-47706fca276c2be9",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "4位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "6",
+    "choices": [
+      "6",
+      "12",
+      "10",
+      "16"
+    ],
+    "explanation": "每人和3人握手，每次算了两遍，所以共4×3÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-787d6dcfc86cfae9",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用4分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "4",
+    "choices": [
+      "4",
+      "12",
+      "1",
+      "7"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-3ec3a990ad4a5a37",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条25米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "6",
+    "choices": [
+      "6",
+      "5",
+      "4",
+      "7"
+    ],
+    "explanation": "有5段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-1faf15f4dd058985",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了7面小旗，小旗之间的间隔总共有几段？",
+    "answer": "7",
+    "choices": [
+      "7",
+      "6",
+      "8",
+      "14"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-2601d25a63bd200a",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲5下，从第一下到最后一下用了4秒。按相同间隔敲7下，需要几秒？",
+    "answer": "6",
+    "choices": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "explanation": "5下之间有4个间隔，每个1秒；7下有6个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-d5639e26a776d46b",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到6楼要经过几段相邻楼层间的楼梯？",
+    "answer": "5",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "10"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-82e82ce24bf4a506",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有5个红球、6个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "7",
+    "choices": [
+      "7",
+      "6",
+      "5",
+      "11"
+    ],
+    "explanation": "最坏先摸完6个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-f7bf20b2fea31fda",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把11个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "6",
+    "choices": [
+      "6",
+      "5",
+      "4",
+      "11"
+    ],
+    "explanation": "如果两篮都至多5个，只能放10个；因此至少一篮有6个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-e05ec1cbc73ff7f1",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "5位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "10",
+    "choices": [
+      "10",
+      "20",
+      "15",
+      "25"
+    ],
+    "explanation": "每人和4人握手，每次算了两遍，所以共5×4÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-a75841e52cc506d8",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用5分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "5",
+    "choices": [
+      "5",
+      "15",
+      "1",
+      "8"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-35a376cbb7d1bff8",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条30米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "7",
+    "choices": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "explanation": "有6段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-ff14674e63844520",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了8面小旗，小旗之间的间隔总共有几段？",
+    "answer": "8",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "16"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-30fd3941afeb50e7",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲6下，从第一下到最后一下用了5秒。按相同间隔敲8下，需要几秒？",
+    "answer": "7",
+    "choices": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "explanation": "6下之间有5个间隔，每个1秒；8下有7个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-02ca4a010b298443",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到7楼要经过几段相邻楼层间的楼梯？",
+    "answer": "6",
+    "choices": [
+      "6",
+      "7",
+      "8",
+      "12"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-5de9febadff204f4",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有6个红球、7个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "8",
+    "choices": [
+      "8",
+      "7",
+      "6",
+      "13"
+    ],
+    "explanation": "最坏先摸完7个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-6059689f7cb5372d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把13个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "7",
+    "choices": [
+      "7",
+      "6",
+      "5",
+      "13"
+    ],
+    "explanation": "如果两篮都至多6个，只能放12个；因此至少一篮有7个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-822a1f79f432c8e0",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "6位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "15",
+    "choices": [
+      "15",
+      "30",
+      "21",
+      "36"
+    ],
+    "explanation": "每人和5人握手，每次算了两遍，所以共6×5÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-39dca4ebe42e8a97",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用6分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "6",
+    "choices": [
+      "6",
+      "18",
+      "1",
+      "9"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-ef7c4c984def1243",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条35米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "8",
+    "choices": [
+      "8",
+      "7",
+      "6",
+      "9"
+    ],
+    "explanation": "有7段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-64456d976a048531",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了9面小旗，小旗之间的间隔总共有几段？",
+    "answer": "9",
+    "choices": [
+      "9",
+      "8",
+      "10",
+      "18"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-ad975896db71bc87",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲7下，从第一下到最后一下用了6秒。按相同间隔敲9下，需要几秒？",
+    "answer": "8",
+    "choices": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "explanation": "7下之间有6个间隔，每个1秒；9下有8个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-3fdc00f128b1ef7a",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到8楼要经过几段相邻楼层间的楼梯？",
+    "answer": "7",
+    "choices": [
+      "7",
+      "8",
+      "9",
+      "14"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-d16d8be4b02b911e",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有7个红球、8个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "9",
+    "choices": [
+      "9",
+      "8",
+      "7",
+      "15"
+    ],
+    "explanation": "最坏先摸完8个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-b363779b34f2db67",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把15个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "8",
+    "choices": [
+      "8",
+      "7",
+      "6",
+      "15"
+    ],
+    "explanation": "如果两篮都至多7个，只能放14个；因此至少一篮有8个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-923e0a4ed6915f52",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "7位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "21",
+    "choices": [
+      "21",
+      "42",
+      "28",
+      "49"
+    ],
+    "explanation": "每人和6人握手，每次算了两遍，所以共7×6÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-65362b1a855803d2",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用7分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "7",
+    "choices": [
+      "7",
+      "21",
+      "1",
+      "10"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-efde3ee94b0f7a9c",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条40米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "9",
+    "choices": [
+      "9",
+      "8",
+      "7",
+      "10"
+    ],
+    "explanation": "有8段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-d85f296b81feebbe",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了10面小旗，小旗之间的间隔总共有几段？",
+    "answer": "10",
+    "choices": [
+      "10",
+      "9",
+      "11",
+      "20"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-200ac0b100239d2d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲8下，从第一下到最后一下用了7秒。按相同间隔敲10下，需要几秒？",
+    "answer": "9",
+    "choices": [
+      "9",
+      "10",
+      "8",
+      "11"
+    ],
+    "explanation": "8下之间有7个间隔，每个1秒；10下有9个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-881780fb63dfc8a1",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到9楼要经过几段相邻楼层间的楼梯？",
+    "answer": "8",
+    "choices": [
+      "8",
+      "9",
+      "10",
+      "16"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-4ab1c430404b63ab",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有8个红球、9个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "10",
+    "choices": [
+      "10",
+      "9",
+      "8",
+      "17"
+    ],
+    "explanation": "最坏先摸完9个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-c8a2fbb3c091e730",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把17个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "9",
+    "choices": [
+      "9",
+      "8",
+      "7",
+      "17"
+    ],
+    "explanation": "如果两篮都至多8个，只能放16个；因此至少一篮有9个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-7bf819b1ce4d3c86",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "8位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "28",
+    "choices": [
+      "28",
+      "56",
+      "36",
+      "64"
+    ],
+    "explanation": "每人和7人握手，每次算了两遍，所以共8×7÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-c92985797c3ce926",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用8分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "8",
+    "choices": [
+      "8",
+      "24",
+      "1",
+      "11"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-7f6afdf206038a33",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条45米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "10",
+    "choices": [
+      "10",
+      "9",
+      "8",
+      "11"
+    ],
+    "explanation": "有9段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-1a2d74defa8fee33",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了11面小旗，小旗之间的间隔总共有几段？",
+    "answer": "11",
+    "choices": [
+      "11",
+      "10",
+      "12",
+      "22"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-e5b6bf58b9468420",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲9下，从第一下到最后一下用了8秒。按相同间隔敲11下，需要几秒？",
+    "answer": "10",
+    "choices": [
+      "10",
+      "11",
+      "9",
+      "12"
+    ],
+    "explanation": "9下之间有8个间隔，每个1秒；11下有10个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-8fb4f8dd959d7d42",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到10楼要经过几段相邻楼层间的楼梯？",
+    "answer": "9",
+    "choices": [
+      "9",
+      "10",
+      "11",
+      "18"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-0d9022627d2403c8",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有9个红球、10个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "11",
+    "choices": [
+      "11",
+      "10",
+      "9",
+      "19"
+    ],
+    "explanation": "最坏先摸完10个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-1965ca337d7aea3f",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把19个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "10",
+    "choices": [
+      "10",
+      "9",
+      "8",
+      "19"
+    ],
+    "explanation": "如果两篮都至多9个，只能放18个；因此至少一篮有10个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-51ccadbd5b82c316",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "9位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "36",
+    "choices": [
+      "36",
+      "72",
+      "45",
+      "81"
+    ],
+    "explanation": "每人和8人握手，每次算了两遍，所以共9×8÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-f430c4a518aace70",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用9分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "9",
+    "choices": [
+      "9",
+      "27",
+      "1",
+      "12"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-3f3910b929f677d3",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条50米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "11",
+    "choices": [
+      "11",
+      "10",
+      "9",
+      "12"
+    ],
+    "explanation": "有10段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-6e1c4eb52cbdca81",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了12面小旗，小旗之间的间隔总共有几段？",
+    "answer": "12",
+    "choices": [
+      "12",
+      "11",
+      "13",
+      "24"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-5abf8e9bf40f4d0d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲10下，从第一下到最后一下用了9秒。按相同间隔敲12下，需要几秒？",
+    "answer": "11",
+    "choices": [
+      "11",
+      "12",
+      "10",
+      "13"
+    ],
+    "explanation": "10下之间有9个间隔，每个1秒；12下有11个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-5911386e1db998e3",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到11楼要经过几段相邻楼层间的楼梯？",
+    "answer": "10",
+    "choices": [
+      "10",
+      "11",
+      "12",
+      "20"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-38d9297f43a47ce9",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有10个红球、11个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "12",
+    "choices": [
+      "12",
+      "11",
+      "10",
+      "21"
+    ],
+    "explanation": "最坏先摸完11个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-0e1f38a261151dc0",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把21个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "11",
+    "choices": [
+      "11",
+      "10",
+      "9",
+      "21"
+    ],
+    "explanation": "如果两篮都至多10个，只能放20个；因此至少一篮有11个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-995543ba2d676760",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "10位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "45",
+    "choices": [
+      "45",
+      "90",
+      "55",
+      "100"
+    ],
+    "explanation": "每人和9人握手，每次算了两遍，所以共10×9÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-e1eccae2be659ceb",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用10分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "10",
+    "choices": [
+      "10",
+      "30",
+      "1",
+      "13"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-5a82afa9644b054d",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条55米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "12",
+    "choices": [
+      "12",
+      "11",
+      "10",
+      "13"
+    ],
+    "explanation": "有11段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-4815ed7db654b1da",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了13面小旗，小旗之间的间隔总共有几段？",
+    "answer": "13",
+    "choices": [
+      "13",
+      "12",
+      "14",
+      "26"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-e8a21844838a4eea",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲11下，从第一下到最后一下用了10秒。按相同间隔敲13下，需要几秒？",
+    "answer": "12",
+    "choices": [
+      "12",
+      "13",
+      "11",
+      "14"
+    ],
+    "explanation": "11下之间有10个间隔，每个1秒；13下有12个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-4c88ad33e9a1b987",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到12楼要经过几段相邻楼层间的楼梯？",
+    "answer": "11",
+    "choices": [
+      "11",
+      "12",
+      "13",
+      "22"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-c64685fc60345798",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有11个红球、12个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "13",
+    "choices": [
+      "13",
+      "12",
+      "11",
+      "23"
+    ],
+    "explanation": "最坏先摸完12个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-287328199e534ade",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把23个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "12",
+    "choices": [
+      "12",
+      "11",
+      "10",
+      "23"
+    ],
+    "explanation": "如果两篮都至多11个，只能放22个；因此至少一篮有12个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-b80b2d003a9b061a",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "11位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "55",
+    "choices": [
+      "55",
+      "110",
+      "66",
+      "121"
+    ],
+    "explanation": "每人和10人握手，每次算了两遍，所以共11×10÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-f4e9056bd660c75a",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用11分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "11",
+    "choices": [
+      "11",
+      "33",
+      "1",
+      "14"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-5cfc3db5959f4acf",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条60米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "13",
+    "choices": [
+      "13",
+      "12",
+      "11",
+      "14"
+    ],
+    "explanation": "有12段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-c343ee3fc791f75b",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了14面小旗，小旗之间的间隔总共有几段？",
+    "answer": "14",
+    "choices": [
+      "14",
+      "13",
+      "15",
+      "28"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-b13033044bd353f5",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲12下，从第一下到最后一下用了11秒。按相同间隔敲14下，需要几秒？",
+    "answer": "13",
+    "choices": [
+      "13",
+      "14",
+      "12",
+      "15"
+    ],
+    "explanation": "12下之间有11个间隔，每个1秒；14下有13个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-d6d18993211fdeab",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到13楼要经过几段相邻楼层间的楼梯？",
+    "answer": "12",
+    "choices": [
+      "12",
+      "13",
+      "14",
+      "24"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-ac1c2474aef55863",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有12个红球、13个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "14",
+    "choices": [
+      "14",
+      "13",
+      "12",
+      "25"
+    ],
+    "explanation": "最坏先摸完13个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-e70a90ac75e0c84d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把25个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "13",
+    "choices": [
+      "13",
+      "12",
+      "11",
+      "25"
+    ],
+    "explanation": "如果两篮都至多12个，只能放24个；因此至少一篮有13个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-30360835e163a785",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "12位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "66",
+    "choices": [
+      "66",
+      "132",
+      "78",
+      "144"
+    ],
+    "explanation": "每人和11人握手，每次算了两遍，所以共12×11÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-765c2005e468ae5b",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用12分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "12",
+    "choices": [
+      "12",
+      "36",
+      "1",
+      "15"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-5cf6bbe906819bfe",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条65米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "14",
+    "choices": [
+      "14",
+      "13",
+      "12",
+      "15"
+    ],
+    "explanation": "有13段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-a83549e176a0675b",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了15面小旗，小旗之间的间隔总共有几段？",
+    "answer": "15",
+    "choices": [
+      "15",
+      "14",
+      "16",
+      "30"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-ee28cfe5fcde4a53",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲13下，从第一下到最后一下用了12秒。按相同间隔敲15下，需要几秒？",
+    "answer": "14",
+    "choices": [
+      "14",
+      "15",
+      "13",
+      "16"
+    ],
+    "explanation": "13下之间有12个间隔，每个1秒；15下有14个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-4a7ce0542a14cdea",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到14楼要经过几段相邻楼层间的楼梯？",
+    "answer": "13",
+    "choices": [
+      "13",
+      "14",
+      "15",
+      "26"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-7257297c1ded0fe0",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有13个红球、14个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "15",
+    "choices": [
+      "15",
+      "14",
+      "13",
+      "27"
+    ],
+    "explanation": "最坏先摸完14个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-e508cf6b7476cb97",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把27个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "14",
+    "choices": [
+      "14",
+      "13",
+      "12",
+      "27"
+    ],
+    "explanation": "如果两篮都至多13个，只能放26个；因此至少一篮有14个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-2557ed7efe1cca5d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "13位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "78",
+    "choices": [
+      "78",
+      "156",
+      "91",
+      "169"
+    ],
+    "explanation": "每人和12人握手，每次算了两遍，所以共13×12÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-7049028a3a0436b6",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用13分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "13",
+    "choices": [
+      "13",
+      "39",
+      "1",
+      "16"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-396197750e5b760c",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条70米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "15",
+    "choices": [
+      "15",
+      "14",
+      "13",
+      "16"
+    ],
+    "explanation": "有14段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-cfcf0964180de0e0",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了16面小旗，小旗之间的间隔总共有几段？",
+    "answer": "16",
+    "choices": [
+      "16",
+      "15",
+      "17",
+      "32"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-7a99bc687ae761ca",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲14下，从第一下到最后一下用了13秒。按相同间隔敲16下，需要几秒？",
+    "answer": "15",
+    "choices": [
+      "15",
+      "16",
+      "14",
+      "17"
+    ],
+    "explanation": "14下之间有13个间隔，每个1秒；16下有15个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-e5719f2705aded1c",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到15楼要经过几段相邻楼层间的楼梯？",
+    "answer": "14",
+    "choices": [
+      "14",
+      "15",
+      "16",
+      "28"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-48e0dcb2f82c4f39",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有14个红球、15个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "16",
+    "choices": [
+      "16",
+      "15",
+      "14",
+      "29"
+    ],
+    "explanation": "最坏先摸完15个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-cff50c226a600323",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把29个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "15",
+    "choices": [
+      "15",
+      "14",
+      "13",
+      "29"
+    ],
+    "explanation": "如果两篮都至多14个，只能放28个；因此至少一篮有15个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-c1b4e96d93553c9d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "14位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "91",
+    "choices": [
+      "91",
+      "182",
+      "105",
+      "196"
+    ],
+    "explanation": "每人和13人握手，每次算了两遍，所以共14×13÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-07bdd4d3269e7ea6",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用14分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "14",
+    "choices": [
+      "14",
+      "42",
+      "1",
+      "17"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-ebd3b054333735f2",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条75米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "16",
+    "choices": [
+      "16",
+      "15",
+      "14",
+      "17"
+    ],
+    "explanation": "有15段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-94a54af44932e589",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了17面小旗，小旗之间的间隔总共有几段？",
+    "answer": "17",
+    "choices": [
+      "17",
+      "16",
+      "18",
+      "34"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-ee36b6f2ff4bbdfc",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲15下，从第一下到最后一下用了14秒。按相同间隔敲17下，需要几秒？",
+    "answer": "16",
+    "choices": [
+      "16",
+      "17",
+      "15",
+      "18"
+    ],
+    "explanation": "15下之间有14个间隔，每个1秒；17下有16个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-d0a25bf3b5f2bc77",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到16楼要经过几段相邻楼层间的楼梯？",
+    "answer": "15",
+    "choices": [
+      "15",
+      "16",
+      "17",
+      "30"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-6a82eb8a933cc8a7",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有15个红球、16个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "17",
+    "choices": [
+      "17",
+      "16",
+      "15",
+      "31"
+    ],
+    "explanation": "最坏先摸完16个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-a2c533ca6c603954",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把31个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "16",
+    "choices": [
+      "16",
+      "15",
+      "14",
+      "31"
+    ],
+    "explanation": "如果两篮都至多15个，只能放30个；因此至少一篮有16个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-22b44dd8dd0bcf62",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "15位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "105",
+    "choices": [
+      "105",
+      "210",
+      "120",
+      "225"
+    ],
+    "explanation": "每人和14人握手，每次算了两遍，所以共15×14÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-63171fe954ce69cd",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用15分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "15",
+    "choices": [
+      "15",
+      "45",
+      "1",
+      "18"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-8bb381cba3d11adb",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条80米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "17",
+    "choices": [
+      "17",
+      "16",
+      "15",
+      "18"
+    ],
+    "explanation": "有16段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-eb8a3a3600775042",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了18面小旗，小旗之间的间隔总共有几段？",
+    "answer": "18",
+    "choices": [
+      "18",
+      "17",
+      "19",
+      "36"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-870a56fb6dad70fb",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲16下，从第一下到最后一下用了15秒。按相同间隔敲18下，需要几秒？",
+    "answer": "17",
+    "choices": [
+      "17",
+      "18",
+      "16",
+      "19"
+    ],
+    "explanation": "16下之间有15个间隔，每个1秒；18下有17个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-21c620e6e2e8d55e",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到17楼要经过几段相邻楼层间的楼梯？",
+    "answer": "16",
+    "choices": [
+      "16",
+      "17",
+      "18",
+      "32"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-5430fe42bacb7f25",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有16个红球、17个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "18",
+    "choices": [
+      "18",
+      "17",
+      "16",
+      "33"
+    ],
+    "explanation": "最坏先摸完17个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-a3b6de8b1b2c81d6",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把33个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "17",
+    "choices": [
+      "17",
+      "16",
+      "15",
+      "33"
+    ],
+    "explanation": "如果两篮都至多16个，只能放32个；因此至少一篮有17个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-71ae6497ac2ef56e",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "16位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "120",
+    "choices": [
+      "120",
+      "240",
+      "136",
+      "256"
+    ],
+    "explanation": "每人和15人握手，每次算了两遍，所以共16×15÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-80859c3b1acd78e9",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用16分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "16",
+    "choices": [
+      "16",
+      "48",
+      "1",
+      "19"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-ec0d259967c559fe",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条85米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "18",
+    "choices": [
+      "18",
+      "17",
+      "16",
+      "19"
+    ],
+    "explanation": "有17段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-bd54ac9f6c4ab911",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了19面小旗，小旗之间的间隔总共有几段？",
+    "answer": "19",
+    "choices": [
+      "19",
+      "18",
+      "20",
+      "38"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-d00ce5421b329445",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲17下，从第一下到最后一下用了16秒。按相同间隔敲19下，需要几秒？",
+    "answer": "18",
+    "choices": [
+      "18",
+      "19",
+      "17",
+      "20"
+    ],
+    "explanation": "17下之间有16个间隔，每个1秒；19下有18个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-c2491487d9b1b2a8",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到18楼要经过几段相邻楼层间的楼梯？",
+    "answer": "17",
+    "choices": [
+      "17",
+      "18",
+      "19",
+      "34"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-84e5446926beaffb",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有17个红球、18个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "19",
+    "choices": [
+      "19",
+      "18",
+      "17",
+      "35"
+    ],
+    "explanation": "最坏先摸完18个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-9d979c4f83212ac8",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把35个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "18",
+    "choices": [
+      "18",
+      "17",
+      "16",
+      "35"
+    ],
+    "explanation": "如果两篮都至多17个，只能放34个；因此至少一篮有18个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-c54bbbb9c0026b6e",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "17位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "136",
+    "choices": [
+      "136",
+      "272",
+      "153",
+      "289"
+    ],
+    "explanation": "每人和16人握手，每次算了两遍，所以共17×16÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-fdcee2dd91d4926b",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用17分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "17",
+    "choices": [
+      "17",
+      "51",
+      "1",
+      "20"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-b27a7cd9edb71e83",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条90米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "19",
+    "choices": [
+      "19",
+      "18",
+      "17",
+      "20"
+    ],
+    "explanation": "有18段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-87fd6a75d32afcd1",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了20面小旗，小旗之间的间隔总共有几段？",
+    "answer": "20",
+    "choices": [
+      "20",
+      "19",
+      "21",
+      "40"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-d056c75ba19baee8",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲18下，从第一下到最后一下用了17秒。按相同间隔敲20下，需要几秒？",
+    "answer": "19",
+    "choices": [
+      "19",
+      "20",
+      "18",
+      "21"
+    ],
+    "explanation": "18下之间有17个间隔，每个1秒；20下有19个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-661043d42075c4ad",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到19楼要经过几段相邻楼层间的楼梯？",
+    "answer": "18",
+    "choices": [
+      "18",
+      "19",
+      "20",
+      "36"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-8872a9581106e02b",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有18个红球、19个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "20",
+    "choices": [
+      "20",
+      "19",
+      "18",
+      "37"
+    ],
+    "explanation": "最坏先摸完19个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-6d1f0daacb0daa2f",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把37个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "19",
+    "choices": [
+      "19",
+      "18",
+      "17",
+      "37"
+    ],
+    "explanation": "如果两篮都至多18个，只能放36个；因此至少一篮有19个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-d2aba2c01651ebef",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "18位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "153",
+    "choices": [
+      "153",
+      "306",
+      "171",
+      "324"
+    ],
+    "explanation": "每人和17人握手，每次算了两遍，所以共18×17÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-11adfdccf2102b2f",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用18分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "18",
+    "choices": [
+      "18",
+      "54",
+      "1",
+      "21"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-ed6252cb5eddcc10",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条95米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "20",
+    "choices": [
+      "20",
+      "19",
+      "18",
+      "21"
+    ],
+    "explanation": "有19段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-85a80dde94504a21",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了21面小旗，小旗之间的间隔总共有几段？",
+    "answer": "21",
+    "choices": [
+      "21",
+      "20",
+      "22",
+      "42"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-e96131a70dc4bdf3",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲19下，从第一下到最后一下用了18秒。按相同间隔敲21下，需要几秒？",
+    "answer": "20",
+    "choices": [
+      "20",
+      "21",
+      "19",
+      "22"
+    ],
+    "explanation": "19下之间有18个间隔，每个1秒；21下有20个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-8941e29310bb8e8b",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到20楼要经过几段相邻楼层间的楼梯？",
+    "answer": "19",
+    "choices": [
+      "19",
+      "20",
+      "21",
+      "38"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-1c6c503c26f477cb",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有19个红球、20个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "21",
+    "choices": [
+      "21",
+      "20",
+      "19",
+      "39"
+    ],
+    "explanation": "最坏先摸完20个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-16c3fe7a3faa396b",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把39个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "20",
+    "choices": [
+      "20",
+      "19",
+      "18",
+      "39"
+    ],
+    "explanation": "如果两篮都至多19个，只能放38个；因此至少一篮有20个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-4d92627fda6aa479",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "19位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "171",
+    "choices": [
+      "171",
+      "342",
+      "190",
+      "361"
+    ],
+    "explanation": "每人和18人握手，每次算了两遍，所以共19×18÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-4ffbc0fcf1211d48",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用19分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "19",
+    "choices": [
+      "19",
+      "57",
+      "1",
+      "22"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-b36af978bfc423a1",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条100米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "21",
+    "choices": [
+      "21",
+      "20",
+      "19",
+      "22"
+    ],
+    "explanation": "有20段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-61d36126964eb9cb",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了22面小旗，小旗之间的间隔总共有几段？",
+    "answer": "22",
+    "choices": [
+      "22",
+      "21",
+      "23",
+      "44"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-7dd729fb531798ad",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲20下，从第一下到最后一下用了19秒。按相同间隔敲22下，需要几秒？",
+    "answer": "21",
+    "choices": [
+      "21",
+      "22",
+      "20",
+      "23"
+    ],
+    "explanation": "20下之间有19个间隔，每个1秒；22下有21个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-6781559a4a6e164d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到21楼要经过几段相邻楼层间的楼梯？",
+    "answer": "20",
+    "choices": [
+      "20",
+      "21",
+      "22",
+      "40"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-334205579092ce38",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有20个红球、21个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "22",
+    "choices": [
+      "22",
+      "21",
+      "20",
+      "41"
+    ],
+    "explanation": "最坏先摸完21个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-557e50de1fc3c98d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把41个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "21",
+    "choices": [
+      "21",
+      "20",
+      "19",
+      "41"
+    ],
+    "explanation": "如果两篮都至多20个，只能放40个；因此至少一篮有21个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-4e7f37d02b0d6ad9",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "20位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "190",
+    "choices": [
+      "190",
+      "380",
+      "210",
+      "400"
+    ],
+    "explanation": "每人和19人握手，每次算了两遍，所以共20×19÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-820085257fd46c53",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用20分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "20",
+    "choices": [
+      "20",
+      "60",
+      "1",
+      "23"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-f742475e15f642d0",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一条105米的小路，从起点到终点每隔5米种一棵树，两端都种，共种几棵？",
+    "answer": "22",
+    "choices": [
+      "22",
+      "21",
+      "20",
+      "23"
+    ],
+    "explanation": "有21段间隔，两端都种时树比间隔多1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "间隔推理"
+  },
+  {
+    "id": "riddle-7a55252d35560431",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "一圈跑道等距放了23面小旗，小旗之间的间隔总共有几段？",
+    "answer": "23",
+    "choices": [
+      "23",
+      "22",
+      "24",
+      "46"
+    ],
+    "explanation": "封闭一圈，间隔数与旗子数相同。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "环形推理"
+  },
+  {
+    "id": "riddle-7acb145e6041a698",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "钟敲21下，从第一下到最后一下用了20秒。按相同间隔敲23下，需要几秒？",
+    "answer": "22",
+    "choices": [
+      "22",
+      "23",
+      "21",
+      "24"
+    ],
+    "explanation": "21下之间有20个间隔，每个1秒；23下有22个间隔。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "敲钟间隔"
+  },
+  {
+    "id": "riddle-e5dd3a69bf5f1b61",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "小明从1楼走到22楼要经过几段相邻楼层间的楼梯？",
+    "answer": "21",
+    "choices": [
+      "21",
+      "22",
+      "23",
+      "42"
+    ],
+    "explanation": "从1楼开始，段数等于到达楼层减1。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "楼层推理"
+  },
+  {
+    "id": "riddle-18259cce958c1313",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "袋中有21个红球、22个蓝球，不放回且看不见。至少摸几个才能保证两种颜色都有？",
+    "answer": "23",
+    "choices": [
+      "23",
+      "22",
+      "21",
+      "43"
+    ],
+    "explanation": "最坏先摸完22个蓝球，再摸1个必为红球。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "最坏情况·异色"
+  },
+  {
+    "id": "riddle-0166c6a84b3bf00e",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把43个苹果放进2个篮子，不要求平均。至少有一个篮子里不少于几个苹果？",
+    "answer": "22",
+    "choices": [
+      "22",
+      "21",
+      "20",
+      "43"
+    ],
+    "explanation": "如果两篮都至多21个，只能放42个；因此至少一篮有22个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "抽屉推理"
+  },
+  {
+    "id": "riddle-8c32992b77c974e9",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "21位小朋友每人只和其他人握手一次，一共握手多少次？",
+    "answer": "210",
+    "choices": [
+      "210",
+      "420",
+      "231",
+      "441"
+    ],
+    "explanation": "每人和20人握手，每次算了两遍，所以共21×20÷2次。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "配对计数"
+  },
+  {
+    "id": "riddle-3da01724feb7ec0d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "1只猫吃1条鱼用21分钟，猫同时开始且各吃一条。3只猫吃3条鱼要几分钟？",
+    "answer": "21",
+    "choices": [
+      "21",
+      "63",
+      "1",
+      "24"
+    ],
+    "explanation": "三只猫同时各吃一条，时间不相加。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "并行推理"
+  },
+  {
+    "id": "riddle-457c99848bce8cbd",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加3”的规则填数：1，4，7，（　）。",
+    "answer": "10",
+    "choices": [
+      "10",
+      "8",
+      "11",
+      "13"
+    ],
+    "explanation": "7+3=10。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-85f430bc502fa695",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：1，2，4，（　）。",
+    "answer": "8",
+    "choices": [
+      "8",
+      "6",
+      "9",
+      "12"
+    ],
+    "explanation": "4×2=8。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-926e6e07d2595ed1",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共2块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "10",
+    "choices": [
+      "10",
+      "12",
+      "8",
+      "9"
+    ],
+    "explanation": "原有12面，1处贴合各隐藏2面，剩10面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-19bd8af69f226104",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成2等段（共剪1刀），展开后共有几段绳子？",
+    "answer": "3",
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有2个切口，所以3段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-539f2ff32a40866f",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排2个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "7",
+    "choices": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×1=7根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-a30dd791a23f9477",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有3条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "3",
+    "choices": [
+      "3",
+      "6",
+      "4",
+      "5"
+    ],
+    "explanation": "每个交点对应一对直线，共3×2÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-a64bc49af10f7859",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加4”的规则填数：2，6，10，（　）。",
+    "answer": "14",
+    "choices": [
+      "14",
+      "11",
+      "15",
+      "18"
+    ],
+    "explanation": "10+4=14。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-e46e631c07816d75",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：2，4，8，（　）。",
+    "answer": "16",
+    "choices": [
+      "16",
+      "10",
+      "17",
+      "24"
+    ],
+    "explanation": "8×2=16。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-6fbd90fd24815aed",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共3块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "14",
+    "choices": [
+      "14",
+      "18",
+      "12",
+      "13"
+    ],
+    "explanation": "原有18面，2处贴合各隐藏2面，剩14面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-9531387699a51d42",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成3等段（共剪2刀），展开后共有几段绳子？",
+    "answer": "5",
+    "choices": [
+      "5",
+      "3",
+      "6",
+      "7"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有4个切口，所以5段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-f8654024ca74452c",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排3个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "10",
+    "choices": [
+      "10",
+      "12",
+      "9",
+      "11"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×2=10根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-e4a06445bc2ed8f9",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有4条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "6",
+    "choices": [
+      "6",
+      "12",
+      "4",
+      "7"
+    ],
+    "explanation": "每个交点对应一对直线，共4×3÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-5ea1b28b62ce1b61",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加5”的规则填数：3，8，13，（　）。",
+    "answer": "18",
+    "choices": [
+      "18",
+      "14",
+      "19",
+      "23"
+    ],
+    "explanation": "13+5=18。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-a2d3dc64681959ee",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：3，6，12，（　）。",
+    "answer": "24",
+    "choices": [
+      "24",
+      "14",
+      "25",
+      "36"
+    ],
+    "explanation": "12×2=24。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-e43bcc99d6d67a28",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共4块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "18",
+    "choices": [
+      "18",
+      "24",
+      "16",
+      "17"
+    ],
+    "explanation": "原有24面，3处贴合各隐藏2面，剩18面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-3aa7ae7da5f020b7",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成4等段（共剪3刀），展开后共有几段绳子？",
+    "answer": "7",
+    "choices": [
+      "7",
+      "4",
+      "8",
+      "9"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有6个切口，所以7段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-4788a31bfce10bf6",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排4个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "13",
+    "choices": [
+      "13",
+      "16",
+      "12",
+      "15"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×3=13根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-710d1ad2d6c1aea2",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有5条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "10",
+    "choices": [
+      "10",
+      "20",
+      "5",
+      "11"
+    ],
+    "explanation": "每个交点对应一对直线，共5×4÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-1acd50df4034ad00",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加2”的规则填数：4，6，8，（　）。",
+    "answer": "10",
+    "choices": [
+      "10",
+      "9",
+      "11",
+      "12"
+    ],
+    "explanation": "8+2=10。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-56daafbf76e67286",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：4，8，16，（　）。",
+    "answer": "32",
+    "choices": [
+      "32",
+      "18",
+      "33",
+      "48"
+    ],
+    "explanation": "16×2=32。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-7c62960b9006d230",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共5块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "22",
+    "choices": [
+      "22",
+      "30",
+      "20",
+      "21"
+    ],
+    "explanation": "原有30面，4处贴合各隐藏2面，剩22面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-a24658d4fb978486",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成5等段（共剪4刀），展开后共有几段绳子？",
+    "answer": "9",
+    "choices": [
+      "9",
+      "5",
+      "10",
+      "11"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有8个切口，所以9段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-1e01a9482cd1ce40",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排5个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "16",
+    "choices": [
+      "16",
+      "20",
+      "15",
+      "19"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×4=16根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-1e160eb45da96167",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有6条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "15",
+    "choices": [
+      "15",
+      "30",
+      "6",
+      "16"
+    ],
+    "explanation": "每个交点对应一对直线，共6×5÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-940959f91c08db07",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加3”的规则填数：5，8，11，（　）。",
+    "answer": "14",
+    "choices": [
+      "14",
+      "12",
+      "15",
+      "17"
+    ],
+    "explanation": "11+3=14。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-856f3ed03cabf759",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：5，10，20，（　）。",
+    "answer": "40",
+    "choices": [
+      "40",
+      "22",
+      "41",
+      "60"
+    ],
+    "explanation": "20×2=40。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-fbec5ac447a5e1f7",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共6块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "26",
+    "choices": [
+      "26",
+      "36",
+      "24",
+      "25"
+    ],
+    "explanation": "原有36面，5处贴合各隐藏2面，剩26面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-a73396a1d5f1cb65",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成6等段（共剪5刀），展开后共有几段绳子？",
+    "answer": "11",
+    "choices": [
+      "11",
+      "6",
+      "12",
+      "13"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有10个切口，所以11段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-5e10c8782349e086",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排6个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "19",
+    "choices": [
+      "19",
+      "24",
+      "18",
+      "23"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×5=19根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-731cb34d0b18332d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有7条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "21",
+    "choices": [
+      "21",
+      "42",
+      "7",
+      "22"
+    ],
+    "explanation": "每个交点对应一对直线，共7×6÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-6a500cbd33d01ab2",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加4”的规则填数：6，10，14，（　）。",
+    "answer": "18",
+    "choices": [
+      "18",
+      "15",
+      "19",
+      "22"
+    ],
+    "explanation": "14+4=18。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-04b8a3804770023a",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：6，12，24，（　）。",
+    "answer": "48",
+    "choices": [
+      "48",
+      "26",
+      "49",
+      "72"
+    ],
+    "explanation": "24×2=48。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-28b692aa207b0613",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共7块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "30",
+    "choices": [
+      "30",
+      "42",
+      "28",
+      "29"
+    ],
+    "explanation": "原有42面，6处贴合各隐藏2面，剩30面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-e85742f8919598a7",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成7等段（共剪6刀），展开后共有几段绳子？",
+    "answer": "13",
+    "choices": [
+      "13",
+      "7",
+      "14",
+      "15"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有12个切口，所以13段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-c5ea0a2a64edefd8",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排7个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "22",
+    "choices": [
+      "22",
+      "28",
+      "21",
+      "27"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×6=22根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-4b79738c77caf148",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有8条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "28",
+    "choices": [
+      "28",
+      "56",
+      "8",
+      "29"
+    ],
+    "explanation": "每个交点对应一对直线，共8×7÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-ed51836a76e8c0aa",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加5”的规则填数：7，12，17，（　）。",
+    "answer": "22",
+    "choices": [
+      "22",
+      "18",
+      "23",
+      "27"
+    ],
+    "explanation": "17+5=22。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-6494f218b0a3236e",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：7，14，28，（　）。",
+    "answer": "56",
+    "choices": [
+      "56",
+      "30",
+      "57",
+      "84"
+    ],
+    "explanation": "28×2=56。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-01a3d04e48ac9ee3",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共8块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "34",
+    "choices": [
+      "34",
+      "48",
+      "32",
+      "33"
+    ],
+    "explanation": "原有48面，7处贴合各隐藏2面，剩34面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-f9d0dcf9877ff3c1",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成8等段（共剪7刀），展开后共有几段绳子？",
+    "answer": "15",
+    "choices": [
+      "15",
+      "8",
+      "16",
+      "17"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有14个切口，所以15段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-118bc86eff8703de",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排8个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "25",
+    "choices": [
+      "25",
+      "32",
+      "24",
+      "31"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×7=25根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-7ecbda07b7f6143c",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有9条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "36",
+    "choices": [
+      "36",
+      "72",
+      "9",
+      "37"
+    ],
+    "explanation": "每个交点对应一对直线，共9×8÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-fd7012607ec80e9c",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加2”的规则填数：8，10，12，（　）。",
+    "answer": "14",
+    "choices": [
+      "14",
+      "13",
+      "15",
+      "16"
+    ],
+    "explanation": "12+2=14。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-fd08bf97ec4bba72",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：8，16，32，（　）。",
+    "answer": "64",
+    "choices": [
+      "64",
+      "34",
+      "65",
+      "96"
+    ],
+    "explanation": "32×2=64。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-523f271a8d251e58",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共9块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "38",
+    "choices": [
+      "38",
+      "54",
+      "36",
+      "37"
+    ],
+    "explanation": "原有54面，8处贴合各隐藏2面，剩38面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-6d550dd05ecc059c",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成9等段（共剪8刀），展开后共有几段绳子？",
+    "answer": "17",
+    "choices": [
+      "17",
+      "9",
+      "18",
+      "19"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有16个切口，所以17段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-8be49252c5a361c5",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排9个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "28",
+    "choices": [
+      "28",
+      "36",
+      "27",
+      "35"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×8=28根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-88c61bbe837e4d81",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有10条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "45",
+    "choices": [
+      "45",
+      "90",
+      "10",
+      "46"
+    ],
+    "explanation": "每个交点对应一对直线，共10×9÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-9f11934224c58b31",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加3”的规则填数：9，12，15，（　）。",
+    "answer": "18",
+    "choices": [
+      "18",
+      "16",
+      "19",
+      "21"
+    ],
+    "explanation": "15+3=18。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-9df53ad35ac72cc8",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：9，18，36，（　）。",
+    "answer": "72",
+    "choices": [
+      "72",
+      "38",
+      "73",
+      "108"
+    ],
+    "explanation": "36×2=72。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-7ac4e8995c64147c",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共10块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "42",
+    "choices": [
+      "42",
+      "60",
+      "40",
+      "41"
+    ],
+    "explanation": "原有60面，9处贴合各隐藏2面，剩42面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-9942c7c584b56ad1",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成10等段（共剪9刀），展开后共有几段绳子？",
+    "answer": "19",
+    "choices": [
+      "19",
+      "10",
+      "20",
+      "21"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有18个切口，所以19段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-eb07a7f822faa7c3",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排10个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "31",
+    "choices": [
+      "31",
+      "40",
+      "30",
+      "39"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×9=31根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-6e4d1f3d65db0ab7",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有11条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "55",
+    "choices": [
+      "55",
+      "110",
+      "11",
+      "56"
+    ],
+    "explanation": "每个交点对应一对直线，共11×10÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-73500211b781321d",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加4”的规则填数：10，14，18，（　）。",
+    "answer": "22",
+    "choices": [
+      "22",
+      "19",
+      "23",
+      "26"
+    ],
+    "explanation": "18+4=22。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-ac9c88bdc684dfd1",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：10，20，40，（　）。",
+    "answer": "80",
+    "choices": [
+      "80",
+      "42",
+      "81",
+      "120"
+    ],
+    "explanation": "40×2=80。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-53b62c4810710447",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共11块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "46",
+    "choices": [
+      "46",
+      "66",
+      "44",
+      "45"
+    ],
+    "explanation": "原有66面，10处贴合各隐藏2面，剩46面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-b810e32987012573",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成11等段（共剪10刀），展开后共有几段绳子？",
+    "answer": "21",
+    "choices": [
+      "21",
+      "11",
+      "22",
+      "23"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有20个切口，所以21段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-4b2147b932982aa4",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排11个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "34",
+    "choices": [
+      "34",
+      "44",
+      "33",
+      "43"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×10=34根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-f4899c2878d18a6b",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有12条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "66",
+    "choices": [
+      "66",
+      "132",
+      "12",
+      "67"
+    ],
+    "explanation": "每个交点对应一对直线，共12×11÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-e069de9cfd5ee985",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加5”的规则填数：11，16，21，（　）。",
+    "answer": "26",
+    "choices": [
+      "26",
+      "22",
+      "27",
+      "31"
+    ],
+    "explanation": "21+5=26。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-6b5d5d1973b4f579",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：11，22，44，（　）。",
+    "answer": "88",
+    "choices": [
+      "88",
+      "46",
+      "89",
+      "132"
+    ],
+    "explanation": "44×2=88。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-3369d7b133172b0e",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共12块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "50",
+    "choices": [
+      "50",
+      "72",
+      "48",
+      "49"
+    ],
+    "explanation": "原有72面，11处贴合各隐藏2面，剩50面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-ca87fb278a6c4d27",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成12等段（共剪11刀），展开后共有几段绳子？",
+    "answer": "23",
+    "choices": [
+      "23",
+      "12",
+      "24",
+      "25"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有22个切口，所以23段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-ecf640bfcf3a8115",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排12个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "37",
+    "choices": [
+      "37",
+      "48",
+      "36",
+      "47"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×11=37根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-a102a6e85afd71dd",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有13条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "78",
+    "choices": [
+      "78",
+      "156",
+      "13",
+      "79"
+    ],
+    "explanation": "每个交点对应一对直线，共13×12÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-bc5e0804744dc5cf",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加2”的规则填数：12，14，16，（　）。",
+    "answer": "18",
+    "choices": [
+      "18",
+      "17",
+      "19",
+      "20"
+    ],
+    "explanation": "16+2=18。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-62c9e573be960d66",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：12，24，48，（　）。",
+    "answer": "96",
+    "choices": [
+      "96",
+      "50",
+      "97",
+      "144"
+    ],
+    "explanation": "48×2=96。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-e9c6b9b1843e28a5",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共13块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "54",
+    "choices": [
+      "54",
+      "78",
+      "52",
+      "53"
+    ],
+    "explanation": "原有78面，12处贴合各隐藏2面，剩54面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-a1b83cd722f53936",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成13等段（共剪12刀），展开后共有几段绳子？",
+    "answer": "25",
+    "choices": [
+      "25",
+      "13",
+      "26",
+      "27"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有24个切口，所以25段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-06f3e52257d9753b",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排13个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "40",
+    "choices": [
+      "40",
+      "52",
+      "39",
+      "51"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×12=40根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-d89e1cfa70d68863",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有14条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "91",
+    "choices": [
+      "91",
+      "182",
+      "14",
+      "92"
+    ],
+    "explanation": "每个交点对应一对直线，共14×13÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-143b03983124bcb3",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加3”的规则填数：13，16，19，（　）。",
+    "answer": "22",
+    "choices": [
+      "22",
+      "20",
+      "23",
+      "25"
+    ],
+    "explanation": "19+3=22。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-f7973166c526fe84",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：13，26，52，（　）。",
+    "answer": "104",
+    "choices": [
+      "104",
+      "54",
+      "105",
+      "156"
+    ],
+    "explanation": "52×2=104。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-e6ca52ec034fbff6",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共14块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "58",
+    "choices": [
+      "58",
+      "84",
+      "56",
+      "57"
+    ],
+    "explanation": "原有84面，13处贴合各隐藏2面，剩58面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-14f322710438b17d",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成14等段（共剪13刀），展开后共有几段绳子？",
+    "answer": "27",
+    "choices": [
+      "27",
+      "14",
+      "28",
+      "29"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有26个切口，所以27段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-1c015600388fe343",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排14个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "43",
+    "choices": [
+      "43",
+      "56",
+      "42",
+      "55"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×13=43根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-d12f829f9a303121",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有15条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "105",
+    "choices": [
+      "105",
+      "210",
+      "15",
+      "106"
+    ],
+    "explanation": "每个交点对应一对直线，共15×14÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-fb8339a61c74dad6",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加4”的规则填数：14，18，22，（　）。",
+    "answer": "26",
+    "choices": [
+      "26",
+      "23",
+      "27",
+      "30"
+    ],
+    "explanation": "22+4=26。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-6bcf39cf5eed2836",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：14，28，56，（　）。",
+    "answer": "112",
+    "choices": [
+      "112",
+      "58",
+      "113",
+      "168"
+    ],
+    "explanation": "56×2=112。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-2cb9ce8d19649778",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共15块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "62",
+    "choices": [
+      "62",
+      "90",
+      "60",
+      "61"
+    ],
+    "explanation": "原有90面，14处贴合各隐藏2面，剩62面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-5385b6de0b37d108",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成15等段（共剪14刀），展开后共有几段绳子？",
+    "answer": "29",
+    "choices": [
+      "29",
+      "15",
+      "30",
+      "31"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有28个切口，所以29段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-4ef86a7f37ccd569",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排15个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "46",
+    "choices": [
+      "46",
+      "60",
+      "45",
+      "59"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×14=46根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-a287f6ed7d8835e4",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有16条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "120",
+    "choices": [
+      "120",
+      "240",
+      "16",
+      "121"
+    ],
+    "explanation": "每个交点对应一对直线，共16×15÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-712b042385ec4c4a",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加5”的规则填数：15，20，25，（　）。",
+    "answer": "30",
+    "choices": [
+      "30",
+      "26",
+      "31",
+      "35"
+    ],
+    "explanation": "25+5=30。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-5fe8f1efa5f10258",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：15，30，60，（　）。",
+    "answer": "120",
+    "choices": [
+      "120",
+      "62",
+      "121",
+      "180"
+    ],
+    "explanation": "60×2=120。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-5412a394c960318e",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共16块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "66",
+    "choices": [
+      "66",
+      "96",
+      "64",
+      "65"
+    ],
+    "explanation": "原有96面，15处贴合各隐藏2面，剩66面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-f03775c2095197cf",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成16等段（共剪15刀），展开后共有几段绳子？",
+    "answer": "31",
+    "choices": [
+      "31",
+      "16",
+      "32",
+      "33"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有30个切口，所以31段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-9a3729d96caddbab",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排16个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "49",
+    "choices": [
+      "49",
+      "64",
+      "48",
+      "63"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×15=49根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-1762f88f918a6fe0",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有17条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "136",
+    "choices": [
+      "136",
+      "272",
+      "17",
+      "137"
+    ],
+    "explanation": "每个交点对应一对直线，共17×16÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-5550dac04733afe5",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加2”的规则填数：16，18，20，（　）。",
+    "answer": "22",
+    "choices": [
+      "22",
+      "21",
+      "23",
+      "24"
+    ],
+    "explanation": "20+2=22。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-a79cf06b2246dd22",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：16，32，64，（　）。",
+    "answer": "128",
+    "choices": [
+      "128",
+      "66",
+      "129",
+      "192"
+    ],
+    "explanation": "64×2=128。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-790f8e669c705967",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共17块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "70",
+    "choices": [
+      "70",
+      "102",
+      "68",
+      "69"
+    ],
+    "explanation": "原有102面，16处贴合各隐藏2面，剩70面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-4156015aa2bbfa44",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成17等段（共剪16刀），展开后共有几段绳子？",
+    "answer": "33",
+    "choices": [
+      "33",
+      "17",
+      "34",
+      "35"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有32个切口，所以33段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-a2d7d003b5686dee",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排17个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "52",
+    "choices": [
+      "52",
+      "68",
+      "51",
+      "67"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×16=52根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-6fe76af92096ad3b",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有18条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "153",
+    "choices": [
+      "153",
+      "306",
+      "18",
+      "154"
+    ],
+    "explanation": "每个交点对应一对直线，共18×17÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-e41f9710602ce658",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加3”的规则填数：17，20，23，（　）。",
+    "answer": "26",
+    "choices": [
+      "26",
+      "24",
+      "27",
+      "29"
+    ],
+    "explanation": "23+3=26。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-4c2bc0243a125046",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：17，34，68，（　）。",
+    "answer": "136",
+    "choices": [
+      "136",
+      "70",
+      "137",
+      "204"
+    ],
+    "explanation": "68×2=136。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-e543f2390dcd81d3",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共18块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "74",
+    "choices": [
+      "74",
+      "108",
+      "72",
+      "73"
+    ],
+    "explanation": "原有108面，17处贴合各隐藏2面，剩74面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-7dfbe8dda8eea50a",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成18等段（共剪17刀），展开后共有几段绳子？",
+    "answer": "35",
+    "choices": [
+      "35",
+      "18",
+      "36",
+      "37"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有34个切口，所以35段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-f92bd14993b4227a",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排18个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "55",
+    "choices": [
+      "55",
+      "72",
+      "54",
+      "71"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×17=55根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-a458992cd9929ad0",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有19条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "171",
+    "choices": [
+      "171",
+      "342",
+      "19",
+      "172"
+    ],
+    "explanation": "每个交点对应一对直线，共19×18÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-c0bbff234a7adb49",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加4”的规则填数：18，22，26，（　）。",
+    "answer": "30",
+    "choices": [
+      "30",
+      "27",
+      "31",
+      "34"
+    ],
+    "explanation": "26+4=30。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-eaf23f2aca8e82f8",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：18，36，72，（　）。",
+    "answer": "144",
+    "choices": [
+      "144",
+      "74",
+      "145",
+      "216"
+    ],
+    "explanation": "72×2=144。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-d3f5faeecbdceb48",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共19块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "78",
+    "choices": [
+      "78",
+      "114",
+      "76",
+      "77"
+    ],
+    "explanation": "原有114面，18处贴合各隐藏2面，剩78面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-5c69ba1bd2bfe5a0",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成19等段（共剪18刀），展开后共有几段绳子？",
+    "answer": "37",
+    "choices": [
+      "37",
+      "19",
+      "38",
+      "39"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有36个切口，所以37段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-bb1b14aed6616d6e",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排19个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "58",
+    "choices": [
+      "58",
+      "76",
+      "57",
+      "75"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×18=58根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-abd81d199429f235",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有20条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "190",
+    "choices": [
+      "190",
+      "380",
+      "20",
+      "191"
+    ],
+    "explanation": "每个交点对应一对直线，共20×19÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-78e8d3fa2ea3d94a",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加5”的规则填数：19，24，29，（　）。",
+    "answer": "34",
+    "choices": [
+      "34",
+      "30",
+      "35",
+      "39"
+    ],
+    "explanation": "29+5=34。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-37dd9cbac6ea6c1f",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：19，38，76，（　）。",
+    "answer": "152",
+    "choices": [
+      "152",
+      "78",
+      "153",
+      "228"
+    ],
+    "explanation": "76×2=152。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-c53fdad3cdee17d1",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共20块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "82",
+    "choices": [
+      "82",
+      "120",
+      "80",
+      "81"
+    ],
+    "explanation": "原有120面，19处贴合各隐藏2面，剩82面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-2766337d77243f2c",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成20等段（共剪19刀），展开后共有几段绳子？",
+    "answer": "39",
+    "choices": [
+      "39",
+      "20",
+      "40",
+      "41"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有38个切口，所以39段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-b3c9c6ecf343b795",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排20个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "61",
+    "choices": [
+      "61",
+      "80",
+      "60",
+      "79"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×19=61根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-72163b4ed65295ed",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有21条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "210",
+    "choices": [
+      "210",
+      "420",
+      "21",
+      "211"
+    ],
+    "explanation": "每个交点对应一对直线，共21×20÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  },
+  {
+    "id": "riddle-e7f33fdd69c17fc4",
+    "subject": "riddle",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "按“每次增加2”的规则填数：20，22，24，（　）。",
+    "answer": "26",
+    "choices": [
+      "26",
+      "25",
+      "27",
+      "28"
+    ],
+    "explanation": "24+2=26。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·等差"
+  },
+  {
+    "id": "riddle-0752f5bca94cf181",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "按“后一个数是前一个数的2倍”填数：20，40，80，（　）。",
+    "answer": "160",
+    "choices": [
+      "160",
+      "82",
+      "161",
+      "240"
+    ],
+    "explanation": "80×2=160。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "规律·倍增"
+  },
+  {
+    "id": "riddle-f9be33e1f3929c51",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用小正方体排成一排，共21块，相邻两块贴合1个完整面。外露小正方形面共有几个？",
+    "answer": "86",
+    "choices": [
+      "86",
+      "126",
+      "84",
+      "85"
+    ],
+    "explanation": "原有126面，20处贴合各隐藏2面，剩86面。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "空间想象"
+  },
+  {
+    "id": "riddle-e1a955dd7f00e741",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "一根绳子对折1次，再一起剪成21等段（共剪20刀），展开后共有几段绳子？",
+    "answer": "41",
+    "choices": [
+      "41",
+      "21",
+      "42",
+      "43"
+    ],
+    "explanation": "每刀同时剪到两层，原绳共有40个切口，所以41段。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "折叠与切口"
+  },
+  {
+    "id": "riddle-bd9c6f9f5077ace9",
+    "subject": "riddle",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "用火柴摆成一排21个相邻正方形，相邻正方形共用一条边，共需几根火柴？",
+    "answer": "64",
+    "choices": [
+      "64",
+      "84",
+      "63",
+      "83"
+    ],
+    "explanation": "第一个用4根，之后每个增加3根，共4+3×20=64根。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "图形计数"
+  },
+  {
+    "id": "riddle-45e140ed1f077ba2",
+    "subject": "riddle",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 3,
+    "prompt": "有22条直线，每两条都相交，且没有三条交于同一点，最多有几个交点？",
+    "answer": "231",
+    "choices": [
+      "231",
+      "462",
+      "22",
+      "232"
+    ],
+    "explanation": "每个交点对应一对直线，共22×21÷2个。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "组合推理"
+  }
+]

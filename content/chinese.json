@@ -1,0 +1,6500 @@
+[
+  {
+    "id": "chinese-d768ebbd66963131",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“山”的正确读音是？",
+    "answer": "shān",
+    "choices": [
+      "shān",
+      "shán",
+      "shǎn",
+      "shàn"
+    ],
+    "explanation": "这里读作 shān，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-bff41c2f0535f843",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“水”的正确读音是？",
+    "answer": "shuǐ",
+    "choices": [
+      "shuǐ",
+      "shuī",
+      "shuí",
+      "shuì"
+    ],
+    "explanation": "这里读作 shuǐ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-79ca19a4526180bf",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“火”的正确读音是？",
+    "answer": "huǒ",
+    "choices": [
+      "huǒ",
+      "huō",
+      "huó",
+      "huò"
+    ],
+    "explanation": "这里读作 huǒ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-c0eb5ffa1c3b702f",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“土”的正确读音是？",
+    "answer": "tǔ",
+    "choices": [
+      "tǔ",
+      "tū",
+      "tú",
+      "tù"
+    ],
+    "explanation": "这里读作 tǔ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-29524170f1e5f0dd",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“天”的正确读音是？",
+    "answer": "tiān",
+    "choices": [
+      "tiān",
+      "tián",
+      "tiǎn",
+      "tiàn"
+    ],
+    "explanation": "这里读作 tiān，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-1ce5a4b627916e17",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“田”的正确读音是？",
+    "answer": "tián",
+    "choices": [
+      "tián",
+      "tiān",
+      "tiǎn",
+      "tiàn"
+    ],
+    "explanation": "这里读作 tián，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-8d2997ca4c6f29f3",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“日”的正确读音是？",
+    "answer": "rì",
+    "choices": [
+      "rì",
+      "rī",
+      "rí",
+      "rǐ"
+    ],
+    "explanation": "这里读作 rì，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-2006a9d134b3f40f",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“月”的正确读音是？",
+    "answer": "yuè",
+    "choices": [
+      "yuè",
+      "yuē",
+      "yué",
+      "yuě"
+    ],
+    "explanation": "这里读作 yuè，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-a17ee2ffafad1344",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“人”的正确读音是？",
+    "answer": "rén",
+    "choices": [
+      "rén",
+      "rēn",
+      "rěn",
+      "rèn"
+    ],
+    "explanation": "这里读作 rén，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-3f85f68b1b3396c5",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“口”的正确读音是？",
+    "answer": "kǒu",
+    "choices": [
+      "kǒu",
+      "kōu",
+      "kóu",
+      "kòu"
+    ],
+    "explanation": "这里读作 kǒu，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-38bb94771e7af4b8",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“手”的正确读音是？",
+    "answer": "shǒu",
+    "choices": [
+      "shǒu",
+      "shōu",
+      "shóu",
+      "shòu"
+    ],
+    "explanation": "这里读作 shǒu，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-98074c5c9b5f05c0",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“足”的正确读音是？",
+    "answer": "zú",
+    "choices": [
+      "zú",
+      "zū",
+      "zǔ",
+      "zù"
+    ],
+    "explanation": "这里读作 zú，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-fd26d7104458ce40",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“耳”的正确读音是？",
+    "answer": "ěr",
+    "choices": [
+      "ěr",
+      "ēr",
+      "ér",
+      "èr"
+    ],
+    "explanation": "这里读作 ěr，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-addf7127bbfde585",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“目”的正确读音是？",
+    "answer": "mù",
+    "choices": [
+      "mù",
+      "mū",
+      "mú",
+      "mǔ"
+    ],
+    "explanation": "这里读作 mù，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-b333a55c96ce48be",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“心”的正确读音是？",
+    "answer": "xīn",
+    "choices": [
+      "xīn",
+      "xín",
+      "xǐn",
+      "xìn"
+    ],
+    "explanation": "这里读作 xīn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-7acb837074195f55",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“云”的正确读音是？",
+    "answer": "yún",
+    "choices": [
+      "yún",
+      "yūn",
+      "yǔn",
+      "yùn"
+    ],
+    "explanation": "这里读作 yún，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-6c767dc2f03b223d",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“雨”的正确读音是？",
+    "answer": "yǔ",
+    "choices": [
+      "yǔ",
+      "yū",
+      "yú",
+      "yù"
+    ],
+    "explanation": "这里读作 yǔ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-8382d3c212b5319d",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“风”的正确读音是？",
+    "answer": "fēng",
+    "choices": [
+      "fēng",
+      "féng",
+      "fěng",
+      "fèng"
+    ],
+    "explanation": "这里读作 fēng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-8cebccc6c87492b4",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“雪”的正确读音是？",
+    "answer": "xuě",
+    "choices": [
+      "xuě",
+      "xuē",
+      "xué",
+      "xuè"
+    ],
+    "explanation": "这里读作 xuě，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-6ddd0795263207e5",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“花”的正确读音是？",
+    "answer": "huā",
+    "choices": [
+      "huā",
+      "huá",
+      "huǎ",
+      "huà"
+    ],
+    "explanation": "这里读作 huā，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-ca4a5565117f7c3b",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“草”的正确读音是？",
+    "answer": "cǎo",
+    "choices": [
+      "cǎo",
+      "cāo",
+      "cáo",
+      "cào"
+    ],
+    "explanation": "这里读作 cǎo，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-387dbdfc5d587488",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“树”的正确读音是？",
+    "answer": "shù",
+    "choices": [
+      "shù",
+      "shū",
+      "shú",
+      "shǔ"
+    ],
+    "explanation": "这里读作 shù，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-6799f0098139eab5",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“木”的正确读音是？",
+    "answer": "mù",
+    "choices": [
+      "mù",
+      "mū",
+      "mú",
+      "mǔ"
+    ],
+    "explanation": "这里读作 mù，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-cc82a753857c4d3a",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“林”的正确读音是？",
+    "answer": "lín",
+    "choices": [
+      "lín",
+      "līn",
+      "lǐn",
+      "lìn"
+    ],
+    "explanation": "这里读作 lín，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-3d72546fc32489de",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“森”的正确读音是？",
+    "answer": "sēn",
+    "choices": [
+      "sēn",
+      "sén",
+      "sěn",
+      "sèn"
+    ],
+    "explanation": "这里读作 sēn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-b91572e3d178ef0a",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“石”的正确读音是？",
+    "answer": "shí",
+    "choices": [
+      "shí",
+      "shī",
+      "shǐ",
+      "shì"
+    ],
+    "explanation": "这里读作 shí，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-d6e4151cd17b84b4",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“金”的正确读音是？",
+    "answer": "jīn",
+    "choices": [
+      "jīn",
+      "jín",
+      "jǐn",
+      "jìn"
+    ],
+    "explanation": "这里读作 jīn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-83c62a24cfc31ed0",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“玉”的正确读音是？",
+    "answer": "yù",
+    "choices": [
+      "yù",
+      "yū",
+      "yú",
+      "yǔ"
+    ],
+    "explanation": "这里读作 yù，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-1629c562baf852ec",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“马”的正确读音是？",
+    "answer": "mǎ",
+    "choices": [
+      "mǎ",
+      "mā",
+      "má",
+      "mà"
+    ],
+    "explanation": "这里读作 mǎ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-7d8dee2a3b4e98b9",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“牛”的正确读音是？",
+    "answer": "niú",
+    "choices": [
+      "niú",
+      "niū",
+      "niǔ",
+      "niù"
+    ],
+    "explanation": "这里读作 niú，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-74e97c5f7ee221af",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“羊”的正确读音是？",
+    "answer": "yáng",
+    "choices": [
+      "yáng",
+      "yāng",
+      "yǎng",
+      "yàng"
+    ],
+    "explanation": "这里读作 yáng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-46bbbc890c83b445",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“鸟”的正确读音是？",
+    "answer": "niǎo",
+    "choices": [
+      "niǎo",
+      "niāo",
+      "niáo",
+      "niào"
+    ],
+    "explanation": "这里读作 niǎo，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-05b2dc3ef0fa47bb",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“鱼”的正确读音是？",
+    "answer": "yú",
+    "choices": [
+      "yú",
+      "yū",
+      "yǔ",
+      "yù"
+    ],
+    "explanation": "这里读作 yú，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-45e5f07f3989d20a",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“虫”的正确读音是？",
+    "answer": "chóng",
+    "choices": [
+      "chóng",
+      "chōng",
+      "chǒng",
+      "chòng"
+    ],
+    "explanation": "这里读作 chóng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-5d43af0629d092c9",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“犬”的正确读音是？",
+    "answer": "quǎn",
+    "choices": [
+      "quǎn",
+      "quān",
+      "quán",
+      "quàn"
+    ],
+    "explanation": "这里读作 quǎn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-7275c5a77cdc23b5",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“兔”的正确读音是？",
+    "answer": "tù",
+    "choices": [
+      "tù",
+      "tū",
+      "tú",
+      "tǔ"
+    ],
+    "explanation": "这里读作 tù，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-faae59612922b045",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“虎”的正确读音是？",
+    "answer": "hǔ",
+    "choices": [
+      "hǔ",
+      "hū",
+      "hú",
+      "hù"
+    ],
+    "explanation": "这里读作 hǔ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-979021cb2dee5fb3",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“龙”的正确读音是？",
+    "answer": "lóng",
+    "choices": [
+      "lóng",
+      "lōng",
+      "lǒng",
+      "lòng"
+    ],
+    "explanation": "这里读作 lóng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-d5ee674190837c1f",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“蛇”的正确读音是？",
+    "answer": "shé",
+    "choices": [
+      "shé",
+      "shē",
+      "shě",
+      "shè"
+    ],
+    "explanation": "这里读作 shé，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-5e6152d51106c584",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“猴”的正确读音是？",
+    "answer": "hóu",
+    "choices": [
+      "hóu",
+      "hōu",
+      "hǒu",
+      "hòu"
+    ],
+    "explanation": "这里读作 hóu，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-92be5c9e4cb5794f",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“猪”的正确读音是？",
+    "answer": "zhū",
+    "choices": [
+      "zhū",
+      "zhú",
+      "zhǔ",
+      "zhù"
+    ],
+    "explanation": "这里读作 zhū，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-b3ab5a62590d64b3",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“鸡”的正确读音是？",
+    "answer": "jī",
+    "choices": [
+      "jī",
+      "jí",
+      "jǐ",
+      "jì"
+    ],
+    "explanation": "这里读作 jī，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-666c7cd404483e38",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“鸭”的正确读音是？",
+    "answer": "yā",
+    "choices": [
+      "yā",
+      "yá",
+      "yǎ",
+      "yà"
+    ],
+    "explanation": "这里读作 yā，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-b5ba1ca3d6ecb3c6",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“鹅”的正确读音是？",
+    "answer": "é",
+    "choices": [
+      "é",
+      "ē",
+      "ě",
+      "è"
+    ],
+    "explanation": "这里读作 é，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-9fd07536c9fbfa8b",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“猫”的正确读音是？",
+    "answer": "māo",
+    "choices": [
+      "māo",
+      "máo",
+      "mǎo",
+      "mào"
+    ],
+    "explanation": "这里读作 māo，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-9cf9dd3ac9a7bf9b",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“狗”的正确读音是？",
+    "answer": "gǒu",
+    "choices": [
+      "gǒu",
+      "gōu",
+      "góu",
+      "gòu"
+    ],
+    "explanation": "这里读作 gǒu，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-547ee5703a78a49c",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“春”的正确读音是？",
+    "answer": "chūn",
+    "choices": [
+      "chūn",
+      "chún",
+      "chǔn",
+      "chùn"
+    ],
+    "explanation": "这里读作 chūn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-589aa2bc4725b1c6",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“夏”的正确读音是？",
+    "answer": "xià",
+    "choices": [
+      "xià",
+      "xiā",
+      "xiá",
+      "xiǎ"
+    ],
+    "explanation": "这里读作 xià，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-08a8af557701f926",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“秋”的正确读音是？",
+    "answer": "qiū",
+    "choices": [
+      "qiū",
+      "qiú",
+      "qiǔ",
+      "qiù"
+    ],
+    "explanation": "这里读作 qiū，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-d7270071063f11d4",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“冬”的正确读音是？",
+    "answer": "dōng",
+    "choices": [
+      "dōng",
+      "dóng",
+      "dǒng",
+      "dòng"
+    ],
+    "explanation": "这里读作 dōng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-3357664be0d5f0a0",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“东”的正确读音是？",
+    "answer": "dōng",
+    "choices": [
+      "dōng",
+      "dóng",
+      "dǒng",
+      "dòng"
+    ],
+    "explanation": "这里读作 dōng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-19cbbaedf41e7a55",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“西”的正确读音是？",
+    "answer": "xī",
+    "choices": [
+      "xī",
+      "xí",
+      "xǐ",
+      "xì"
+    ],
+    "explanation": "这里读作 xī，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-5ed81e509bb3d042",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“南”的正确读音是？",
+    "answer": "nán",
+    "choices": [
+      "nán",
+      "nān",
+      "nǎn",
+      "nàn"
+    ],
+    "explanation": "这里读作 nán，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-effff13abe1bafe6",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“北”的正确读音是？",
+    "answer": "běi",
+    "choices": [
+      "běi",
+      "bēi",
+      "béi",
+      "bèi"
+    ],
+    "explanation": "这里读作 běi，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-e85895fe7cb6c646",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“左”的正确读音是？",
+    "answer": "zuǒ",
+    "choices": [
+      "zuǒ",
+      "zuō",
+      "zuó",
+      "zuò"
+    ],
+    "explanation": "这里读作 zuǒ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-aae01659cfe31750",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“右”的正确读音是？",
+    "answer": "yòu",
+    "choices": [
+      "yòu",
+      "yōu",
+      "yóu",
+      "yǒu"
+    ],
+    "explanation": "这里读作 yòu，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-c8e4c08c2c17330b",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“前”的正确读音是？",
+    "answer": "qián",
+    "choices": [
+      "qián",
+      "qiān",
+      "qiǎn",
+      "qiàn"
+    ],
+    "explanation": "这里读作 qián，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-e18bc704acb9d876",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“后”的正确读音是？",
+    "answer": "hòu",
+    "choices": [
+      "hòu",
+      "hōu",
+      "hóu",
+      "hǒu"
+    ],
+    "explanation": "这里读作 hòu，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-61b9ceb4181b3aec",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“上”的正确读音是？",
+    "answer": "shàng",
+    "choices": [
+      "shàng",
+      "shāng",
+      "sháng",
+      "shǎng"
+    ],
+    "explanation": "这里读作 shàng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-89ff0bfdabc3db4d",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“下”的正确读音是？",
+    "answer": "xià",
+    "choices": [
+      "xià",
+      "xiā",
+      "xiá",
+      "xiǎ"
+    ],
+    "explanation": "这里读作 xià，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-ab13436a55918c3f",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“大”的正确读音是？",
+    "answer": "dà",
+    "choices": [
+      "dà",
+      "dā",
+      "dá",
+      "dǎ"
+    ],
+    "explanation": "这里读作 dà，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-17ae5250953a5ce9",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“小”的正确读音是？",
+    "answer": "xiǎo",
+    "choices": [
+      "xiǎo",
+      "xiāo",
+      "xiáo",
+      "xiào"
+    ],
+    "explanation": "这里读作 xiǎo，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-26cd7fad93a4d15c",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“多”的正确读音是？",
+    "answer": "duō",
+    "choices": [
+      "duō",
+      "duó",
+      "duǒ",
+      "duò"
+    ],
+    "explanation": "这里读作 duō，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-e55d2c6eb6edcaee",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“少（多少）”的正确读音是？",
+    "answer": "shǎo",
+    "choices": [
+      "shǎo",
+      "shāo",
+      "sháo",
+      "shào"
+    ],
+    "explanation": "这里读作 shǎo，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-9fe26d16cb5f6e9f",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“高”的正确读音是？",
+    "answer": "gāo",
+    "choices": [
+      "gāo",
+      "gáo",
+      "gǎo",
+      "gào"
+    ],
+    "explanation": "这里读作 gāo，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-1d3feffe3370bf82",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“低”的正确读音是？",
+    "answer": "dī",
+    "choices": [
+      "dī",
+      "dí",
+      "dǐ",
+      "dì"
+    ],
+    "explanation": "这里读作 dī，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-456c2153c05b1acf",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“远”的正确读音是？",
+    "answer": "yuǎn",
+    "choices": [
+      "yuǎn",
+      "yuān",
+      "yuán",
+      "yuàn"
+    ],
+    "explanation": "这里读作 yuǎn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-714d34ba99e07da3",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“近”的正确读音是？",
+    "answer": "jìn",
+    "choices": [
+      "jìn",
+      "jīn",
+      "jín",
+      "jǐn"
+    ],
+    "explanation": "这里读作 jìn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-379603a6af1bd867",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“短（长短）”的正确读音是？",
+    "answer": "duǎn",
+    "choices": [
+      "duǎn",
+      "duān",
+      "duán",
+      "duàn"
+    ],
+    "explanation": "这里读作 duǎn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-226fe6752d39dca9",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“快”的正确读音是？",
+    "answer": "kuài",
+    "choices": [
+      "kuài",
+      "kuāi",
+      "kuái",
+      "kuǎi"
+    ],
+    "explanation": "这里读作 kuài，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-541a77fe9f0925eb",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“慢”的正确读音是？",
+    "answer": "màn",
+    "choices": [
+      "màn",
+      "mān",
+      "mán",
+      "mǎn"
+    ],
+    "explanation": "这里读作 màn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-c72937a3c76ea64f",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“新”的正确读音是？",
+    "answer": "xīn",
+    "choices": [
+      "xīn",
+      "xín",
+      "xǐn",
+      "xìn"
+    ],
+    "explanation": "这里读作 xīn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-a6b1dbc4269ddd6a",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“旧”的正确读音是？",
+    "answer": "jiù",
+    "choices": [
+      "jiù",
+      "jiū",
+      "jiú",
+      "jiǔ"
+    ],
+    "explanation": "这里读作 jiù，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-51a19d0cde347ff0",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“黑”的正确读音是？",
+    "answer": "hēi",
+    "choices": [
+      "hēi",
+      "héi",
+      "hěi",
+      "hèi"
+    ],
+    "explanation": "这里读作 hēi，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-86ef867a73705915",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“白”的正确读音是？",
+    "answer": "bái",
+    "choices": [
+      "bái",
+      "bāi",
+      "bǎi",
+      "bài"
+    ],
+    "explanation": "这里读作 bái，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-a2e6f79c3e40acfe",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“红”的正确读音是？",
+    "answer": "hóng",
+    "choices": [
+      "hóng",
+      "hōng",
+      "hǒng",
+      "hòng"
+    ],
+    "explanation": "这里读作 hóng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-9cd9d42ab2dcc3c8",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“黄”的正确读音是？",
+    "answer": "huáng",
+    "choices": [
+      "huáng",
+      "huāng",
+      "huǎng",
+      "huàng"
+    ],
+    "explanation": "这里读作 huáng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-9a0571c6051e8b21",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“蓝”的正确读音是？",
+    "answer": "lán",
+    "choices": [
+      "lán",
+      "lān",
+      "lǎn",
+      "làn"
+    ],
+    "explanation": "这里读作 lán，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-5086a1da307c881a",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“绿”的正确读音是？",
+    "answer": "lǜ",
+    "choices": [
+      "lǜ",
+      "lǖ",
+      "lǘ",
+      "lǚ"
+    ],
+    "explanation": "这里读作 lǜ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-9ef5d7ace33585c6",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“紫”的正确读音是？",
+    "answer": "zǐ",
+    "choices": [
+      "zǐ",
+      "zī",
+      "zí",
+      "zì"
+    ],
+    "explanation": "这里读作 zǐ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-496aa4063c49406b",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“银”的正确读音是？",
+    "answer": "yín",
+    "choices": [
+      "yín",
+      "yīn",
+      "yǐn",
+      "yìn"
+    ],
+    "explanation": "这里读作 yín，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-85ffb115de6e3686",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“铜”的正确读音是？",
+    "answer": "tóng",
+    "choices": [
+      "tóng",
+      "tōng",
+      "tǒng",
+      "tòng"
+    ],
+    "explanation": "这里读作 tóng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-4151065b3553a101",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“铁”的正确读音是？",
+    "answer": "tiě",
+    "choices": [
+      "tiě",
+      "tiē",
+      "tié",
+      "tiè"
+    ],
+    "explanation": "这里读作 tiě，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-a2dbf48c37fdbe93",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“纸”的正确读音是？",
+    "answer": "zhǐ",
+    "choices": [
+      "zhǐ",
+      "zhī",
+      "zhí",
+      "zhì"
+    ],
+    "explanation": "这里读作 zhǐ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-b79d5afe5ec5262f",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“笔”的正确读音是？",
+    "answer": "bǐ",
+    "choices": [
+      "bǐ",
+      "bī",
+      "bí",
+      "bì"
+    ],
+    "explanation": "这里读作 bǐ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-d76b443b1150845f",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“书”的正确读音是？",
+    "answer": "shū",
+    "choices": [
+      "shū",
+      "shú",
+      "shǔ",
+      "shù"
+    ],
+    "explanation": "这里读作 shū，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-8ad0e956740b9318",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“画”的正确读音是？",
+    "answer": "huà",
+    "choices": [
+      "huà",
+      "huā",
+      "huá",
+      "huǎ"
+    ],
+    "explanation": "这里读作 huà，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-c96d31818d8d97a6",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“字”的正确读音是？",
+    "answer": "zì",
+    "choices": [
+      "zì",
+      "zī",
+      "zí",
+      "zǐ"
+    ],
+    "explanation": "这里读作 zì，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-63e89b50e449f11a",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“词”的正确读音是？",
+    "answer": "cí",
+    "choices": [
+      "cí",
+      "cī",
+      "cǐ",
+      "cì"
+    ],
+    "explanation": "这里读作 cí，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-a41619afc5497d41",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“诗”的正确读音是？",
+    "answer": "shī",
+    "choices": [
+      "shī",
+      "shí",
+      "shǐ",
+      "shì"
+    ],
+    "explanation": "这里读作 shī，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-2dc11ca043a5af49",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“歌”的正确读音是？",
+    "answer": "gē",
+    "choices": [
+      "gē",
+      "gé",
+      "gě",
+      "gè"
+    ],
+    "explanation": "这里读作 gē，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-edbc1237c0fc77ec",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“舞”的正确读音是？",
+    "answer": "wǔ",
+    "choices": [
+      "wǔ",
+      "wū",
+      "wú",
+      "wù"
+    ],
+    "explanation": "这里读作 wǔ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-a495e6c48916d6a0",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“笑”的正确读音是？",
+    "answer": "xiào",
+    "choices": [
+      "xiào",
+      "xiāo",
+      "xiáo",
+      "xiǎo"
+    ],
+    "explanation": "这里读作 xiào，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-bf49560e3e6174c2",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“哭”的正确读音是？",
+    "answer": "kū",
+    "choices": [
+      "kū",
+      "kú",
+      "kǔ",
+      "kù"
+    ],
+    "explanation": "这里读作 kū，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-7c249aaf45ac228b",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“读”的正确读音是？",
+    "answer": "dú",
+    "choices": [
+      "dú",
+      "dū",
+      "dǔ",
+      "dù"
+    ],
+    "explanation": "这里读作 dú，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-d7a950a32475f618",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“写”的正确读音是？",
+    "answer": "xiě",
+    "choices": [
+      "xiě",
+      "xiē",
+      "xié",
+      "xiè"
+    ],
+    "explanation": "这里读作 xiě，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-d2896c0c687cf438",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“听”的正确读音是？",
+    "answer": "tīng",
+    "choices": [
+      "tīng",
+      "tíng",
+      "tǐng",
+      "tìng"
+    ],
+    "explanation": "这里读作 tīng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-fc5f2acbd26ef6e4",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“说”的正确读音是？",
+    "answer": "shuō",
+    "choices": [
+      "shuō",
+      "shuó",
+      "shuǒ",
+      "shuò"
+    ],
+    "explanation": "这里读作 shuō，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-92d59a425732e951",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“看（看见）”的正确读音是？",
+    "answer": "kàn",
+    "choices": [
+      "kàn",
+      "kān",
+      "kán",
+      "kǎn"
+    ],
+    "explanation": "这里读作 kàn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-b1947cc042cf2b33",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“想”的正确读音是？",
+    "answer": "xiǎng",
+    "choices": [
+      "xiǎng",
+      "xiāng",
+      "xiáng",
+      "xiàng"
+    ],
+    "explanation": "这里读作 xiǎng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-45f621bd9cce237c",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“爱”的正确读音是？",
+    "answer": "ài",
+    "choices": [
+      "ài",
+      "āi",
+      "ái",
+      "ǎi"
+    ],
+    "explanation": "这里读作 ài，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-3f323fc0b4a99081",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“学”的正确读音是？",
+    "answer": "xué",
+    "choices": [
+      "xué",
+      "xuē",
+      "xuě",
+      "xuè"
+    ],
+    "explanation": "这里读作 xué，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-2efb23d46432e23d",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“校”的正确读音是？",
+    "answer": "xiào",
+    "choices": [
+      "xiào",
+      "xiāo",
+      "xiáo",
+      "xiǎo"
+    ],
+    "explanation": "这里读作 xiào，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-9e724d2a79198f06",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“班”的正确读音是？",
+    "answer": "bān",
+    "choices": [
+      "bān",
+      "bán",
+      "bǎn",
+      "bàn"
+    ],
+    "explanation": "这里读作 bān，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-3c4b6bd4d4c845cf",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“课”的正确读音是？",
+    "answer": "kè",
+    "choices": [
+      "kè",
+      "kē",
+      "ké",
+      "kě"
+    ],
+    "explanation": "这里读作 kè，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-9fe5edefc8f471b1",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“友”的正确读音是？",
+    "answer": "yǒu",
+    "choices": [
+      "yǒu",
+      "yōu",
+      "yóu",
+      "yòu"
+    ],
+    "explanation": "这里读作 yǒu，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-9d29dd2b6f5f3a48",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“家”的正确读音是？",
+    "answer": "jiā",
+    "choices": [
+      "jiā",
+      "jiá",
+      "jiǎ",
+      "jià"
+    ],
+    "explanation": "这里读作 jiā，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-7175d71bc6908450",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“国”的正确读音是？",
+    "answer": "guó",
+    "choices": [
+      "guó",
+      "guō",
+      "guǒ",
+      "guò"
+    ],
+    "explanation": "这里读作 guó，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-3ae2b710a85b1c78",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“城”的正确读音是？",
+    "answer": "chéng",
+    "choices": [
+      "chéng",
+      "chēng",
+      "chěng",
+      "chèng"
+    ],
+    "explanation": "这里读作 chéng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-b5954a8564c97f24",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“村”的正确读音是？",
+    "answer": "cūn",
+    "choices": [
+      "cūn",
+      "cún",
+      "cǔn",
+      "cùn"
+    ],
+    "explanation": "这里读作 cūn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-53a0da6ce208f416",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“河”的正确读音是？",
+    "answer": "hé",
+    "choices": [
+      "hé",
+      "hē",
+      "hě",
+      "hè"
+    ],
+    "explanation": "这里读作 hé，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-026da1762258b63c",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“湖”的正确读音是？",
+    "answer": "hú",
+    "choices": [
+      "hú",
+      "hū",
+      "hǔ",
+      "hù"
+    ],
+    "explanation": "这里读作 hú，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-ae6e583df92f0935",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“海”的正确读音是？",
+    "answer": "hǎi",
+    "choices": [
+      "hǎi",
+      "hāi",
+      "hái",
+      "hài"
+    ],
+    "explanation": "这里读作 hǎi，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-633464702e1f9258",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“江”的正确读音是？",
+    "answer": "jiāng",
+    "choices": [
+      "jiāng",
+      "jiáng",
+      "jiǎng",
+      "jiàng"
+    ],
+    "explanation": "这里读作 jiāng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-f62112eaf8d42ec6",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“桥”的正确读音是？",
+    "answer": "qiáo",
+    "choices": [
+      "qiáo",
+      "qiāo",
+      "qiǎo",
+      "qiào"
+    ],
+    "explanation": "这里读作 qiáo，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-483187aa5d6bff45",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“路”的正确读音是？",
+    "answer": "lù",
+    "choices": [
+      "lù",
+      "lū",
+      "lú",
+      "lǔ"
+    ],
+    "explanation": "这里读作 lù，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-4b029775f8cc9328",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“船”的正确读音是？",
+    "answer": "chuán",
+    "choices": [
+      "chuán",
+      "chuān",
+      "chuǎn",
+      "chuàn"
+    ],
+    "explanation": "这里读作 chuán，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-ebfaa79407d85e44",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“车”的正确读音是？",
+    "answer": "chē",
+    "choices": [
+      "chē",
+      "ché",
+      "chě",
+      "chè"
+    ],
+    "explanation": "这里读作 chē，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-811d7c907193472c",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“灯”的正确读音是？",
+    "answer": "dēng",
+    "choices": [
+      "dēng",
+      "déng",
+      "děng",
+      "dèng"
+    ],
+    "explanation": "这里读作 dēng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-1bb3d2534f0b9ef3",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“门”的正确读音是？",
+    "answer": "mén",
+    "choices": [
+      "mén",
+      "mēn",
+      "měn",
+      "mèn"
+    ],
+    "explanation": "这里读作 mén，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-6db05f5f8b79546e",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“窗”的正确读音是？",
+    "answer": "chuāng",
+    "choices": [
+      "chuāng",
+      "chuáng",
+      "chuǎng",
+      "chuàng"
+    ],
+    "explanation": "这里读作 chuāng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-9d75842600ad45cb",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“桌”的正确读音是？",
+    "answer": "zhuō",
+    "choices": [
+      "zhuō",
+      "zhuó",
+      "zhuǒ",
+      "zhuò"
+    ],
+    "explanation": "这里读作 zhuō，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-e86fd393619e5952",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“椅”的正确读音是？",
+    "answer": "yǐ",
+    "choices": [
+      "yǐ",
+      "yī",
+      "yí",
+      "yì"
+    ],
+    "explanation": "这里读作 yǐ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-492ed7716b890934",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“床”的正确读音是？",
+    "answer": "chuáng",
+    "choices": [
+      "chuáng",
+      "chuāng",
+      "chuǎng",
+      "chuàng"
+    ],
+    "explanation": "这里读作 chuáng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-75ae1c924ab212e7",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“被”的正确读音是？",
+    "answer": "bèi",
+    "choices": [
+      "bèi",
+      "bēi",
+      "béi",
+      "běi"
+    ],
+    "explanation": "这里读作 bèi，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-b64cf99a1c58dd9a",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“碗”的正确读音是？",
+    "answer": "wǎn",
+    "choices": [
+      "wǎn",
+      "wān",
+      "wán",
+      "wàn"
+    ],
+    "explanation": "这里读作 wǎn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-bc6f17f47306580f",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“筷”的正确读音是？",
+    "answer": "kuài",
+    "choices": [
+      "kuài",
+      "kuāi",
+      "kuái",
+      "kuǎi"
+    ],
+    "explanation": "这里读作 kuài，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-3228cacf9d651d2a",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“勺”的正确读音是？",
+    "answer": "sháo",
+    "choices": [
+      "sháo",
+      "shāo",
+      "shǎo",
+      "shào"
+    ],
+    "explanation": "这里读作 sháo，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-c66602529c61ddc4",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“杯”的正确读音是？",
+    "answer": "bēi",
+    "choices": [
+      "bēi",
+      "béi",
+      "běi",
+      "bèi"
+    ],
+    "explanation": "这里读作 bēi，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-60b3c1dfed82b1aa",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“盘”的正确读音是？",
+    "answer": "pán",
+    "choices": [
+      "pán",
+      "pān",
+      "pǎn",
+      "pàn"
+    ],
+    "explanation": "这里读作 pán，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-24df02f495fc91bf",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“米”的正确读音是？",
+    "answer": "mǐ",
+    "choices": [
+      "mǐ",
+      "mī",
+      "mí",
+      "mì"
+    ],
+    "explanation": "这里读作 mǐ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-a5d61bfb17cce1ac",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“麦”的正确读音是？",
+    "answer": "mài",
+    "choices": [
+      "mài",
+      "māi",
+      "mái",
+      "mǎi"
+    ],
+    "explanation": "这里读作 mài，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-0369fef03f7ff9f9",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“豆”的正确读音是？",
+    "answer": "dòu",
+    "choices": [
+      "dòu",
+      "dōu",
+      "dóu",
+      "dǒu"
+    ],
+    "explanation": "这里读作 dòu，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-915c6b479e10317f",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“瓜”的正确读音是？",
+    "answer": "guā",
+    "choices": [
+      "guā",
+      "guá",
+      "guǎ",
+      "guà"
+    ],
+    "explanation": "这里读作 guā，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-91af9a161e5d6e7b",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“果”的正确读音是？",
+    "answer": "guǒ",
+    "choices": [
+      "guǒ",
+      "guō",
+      "guó",
+      "guò"
+    ],
+    "explanation": "这里读作 guǒ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-26d37bc96900614d",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“桃”的正确读音是？",
+    "answer": "táo",
+    "choices": [
+      "táo",
+      "tāo",
+      "tǎo",
+      "tào"
+    ],
+    "explanation": "这里读作 táo，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-bdb85bf4da9c9abb",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“梨”的正确读音是？",
+    "answer": "lí",
+    "choices": [
+      "lí",
+      "lī",
+      "lǐ",
+      "lì"
+    ],
+    "explanation": "这里读作 lí，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-97c8163b64cdeb90",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“杏”的正确读音是？",
+    "answer": "xìng",
+    "choices": [
+      "xìng",
+      "xīng",
+      "xíng",
+      "xǐng"
+    ],
+    "explanation": "这里读作 xìng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-c0d8d042bbc680bd",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“李”的正确读音是？",
+    "answer": "lǐ",
+    "choices": [
+      "lǐ",
+      "lī",
+      "lí",
+      "lì"
+    ],
+    "explanation": "这里读作 lǐ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-d28de31940e1d6b9",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“梅”的正确读音是？",
+    "answer": "méi",
+    "choices": [
+      "méi",
+      "mēi",
+      "měi",
+      "mèi"
+    ],
+    "explanation": "这里读作 méi，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-e29af7aa4b78acb2",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“竹”的正确读音是？",
+    "answer": "zhú",
+    "choices": [
+      "zhú",
+      "zhū",
+      "zhǔ",
+      "zhù"
+    ],
+    "explanation": "这里读作 zhú，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-a7a5b47a8fc3d16b",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“松”的正确读音是？",
+    "answer": "sōng",
+    "choices": [
+      "sōng",
+      "sóng",
+      "sǒng",
+      "sòng"
+    ],
+    "explanation": "这里读作 sōng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-a9ee64cc4e1ba642",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“柏”的正确读音是？",
+    "answer": "bǎi",
+    "choices": [
+      "bǎi",
+      "bāi",
+      "bái",
+      "bài"
+    ],
+    "explanation": "这里读作 bǎi，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-cd7a70cf1c1de2df",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“柳”的正确读音是？",
+    "answer": "liǔ",
+    "choices": [
+      "liǔ",
+      "liū",
+      "liú",
+      "liù"
+    ],
+    "explanation": "这里读作 liǔ，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-e5f10df3c7c4ed4a",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“荷”的正确读音是？",
+    "answer": "hé",
+    "choices": [
+      "hé",
+      "hē",
+      "hě",
+      "hè"
+    ],
+    "explanation": "这里读作 hé，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-113e233ee428f273",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“菊”的正确读音是？",
+    "answer": "jú",
+    "choices": [
+      "jú",
+      "jū",
+      "jǔ",
+      "jù"
+    ],
+    "explanation": "这里读作 jú，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-72354c584cff55e1",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“兰”的正确读音是？",
+    "answer": "lán",
+    "choices": [
+      "lán",
+      "lān",
+      "lǎn",
+      "làn"
+    ],
+    "explanation": "这里读作 lán，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-a6039bc2b58260df",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“莲”的正确读音是？",
+    "answer": "lián",
+    "choices": [
+      "lián",
+      "liān",
+      "liǎn",
+      "liàn"
+    ],
+    "explanation": "这里读作 lián，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-5f5bcb1335ce1e31",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“芽”的正确读音是？",
+    "answer": "yá",
+    "choices": [
+      "yá",
+      "yā",
+      "yǎ",
+      "yà"
+    ],
+    "explanation": "这里读作 yá，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-d98711eb309b2d36",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“叶”的正确读音是？",
+    "answer": "yè",
+    "choices": [
+      "yè",
+      "yē",
+      "yé",
+      "yě"
+    ],
+    "explanation": "这里读作 yè，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-d1045b483930f38e",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“根”的正确读音是？",
+    "answer": "gēn",
+    "choices": [
+      "gēn",
+      "gén",
+      "gěn",
+      "gèn"
+    ],
+    "explanation": "这里读作 gēn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-b543fbd3ecefd842",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“茎”的正确读音是？",
+    "answer": "jīng",
+    "choices": [
+      "jīng",
+      "jíng",
+      "jǐng",
+      "jìng"
+    ],
+    "explanation": "这里读作 jīng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-9798f9da70223f84",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“枝”的正确读音是？",
+    "answer": "zhī",
+    "choices": [
+      "zhī",
+      "zhí",
+      "zhǐ",
+      "zhì"
+    ],
+    "explanation": "这里读作 zhī，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-34d0490b8a04571b",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“露”的正确读音是？",
+    "answer": "lù",
+    "choices": [
+      "lù",
+      "lū",
+      "lú",
+      "lǔ"
+    ],
+    "explanation": "这里读作 lù，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-85030b411be89e06",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“雾”的正确读音是？",
+    "answer": "wù",
+    "choices": [
+      "wù",
+      "wū",
+      "wú",
+      "wǔ"
+    ],
+    "explanation": "这里读作 wù，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-4f24e99eef991f36",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“雷”的正确读音是？",
+    "answer": "léi",
+    "choices": [
+      "léi",
+      "lēi",
+      "lěi",
+      "lèi"
+    ],
+    "explanation": "这里读作 léi，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-1041752d85fdcfd8",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“电”的正确读音是？",
+    "answer": "diàn",
+    "choices": [
+      "diàn",
+      "diān",
+      "dián",
+      "diǎn"
+    ],
+    "explanation": "这里读作 diàn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-630ebf3457502e3a",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“晴”的正确读音是？",
+    "answer": "qíng",
+    "choices": [
+      "qíng",
+      "qīng",
+      "qǐng",
+      "qìng"
+    ],
+    "explanation": "这里读作 qíng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-d7f1d0eed358c769",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“阴”的正确读音是？",
+    "answer": "yīn",
+    "choices": [
+      "yīn",
+      "yín",
+      "yǐn",
+      "yìn"
+    ],
+    "explanation": "这里读作 yīn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-8c273aec5dd7f71f",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“冷”的正确读音是？",
+    "answer": "lěng",
+    "choices": [
+      "lěng",
+      "lēng",
+      "léng",
+      "lèng"
+    ],
+    "explanation": "这里读作 lěng，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-d261d4f30966accb",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“暖”的正确读音是？",
+    "answer": "nuǎn",
+    "choices": [
+      "nuǎn",
+      "nuān",
+      "nuán",
+      "nuàn"
+    ],
+    "explanation": "这里读作 nuǎn，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-680f8cebbcd972b4",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "“热”的正确读音是？",
+    "answer": "rè",
+    "choices": [
+      "rè",
+      "rē",
+      "ré",
+      "rě"
+    ],
+    "explanation": "这里读作 rè，注意声调。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "拼音"
+  },
+  {
+    "id": "chinese-9d87c9ea44bbdf86",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“大”意思相反的是哪个词？",
+    "answer": "小",
+    "choices": [
+      "小",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“大”和“小”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-55ecdc4e5ffe3916",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“多”意思相反的是哪个词？",
+    "answer": "少",
+    "choices": [
+      "少",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“多”和“少”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-fa411e1e391c2789",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“高”意思相反的是哪个词？",
+    "answer": "低",
+    "choices": [
+      "低",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“高”和“低”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-5b168d866b02a01d",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“长”意思相反的是哪个词？",
+    "answer": "短",
+    "choices": [
+      "短",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“长”和“短”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-1ca82aa70355abe5",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“上”意思相反的是哪个词？",
+    "answer": "下",
+    "choices": [
+      "下",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“上”和“下”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-2fab1d7daa47abcb",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“左”意思相反的是哪个词？",
+    "answer": "右",
+    "choices": [
+      "右",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“左”和“右”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-4ece26b36251e130",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“前”意思相反的是哪个词？",
+    "answer": "后",
+    "choices": [
+      "后",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“前”和“后”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-e0ae8cf5110d9d3a",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“东”意思相反的是哪个词？",
+    "answer": "西",
+    "choices": [
+      "西",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“东”和“西”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-8719c1682dd48691",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“南”意思相反的是哪个词？",
+    "answer": "北",
+    "choices": [
+      "北",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“南”和“北”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-998a11f9f011709b",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“早”意思相反的是哪个词？",
+    "answer": "晚",
+    "choices": [
+      "晚",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“早”和“晚”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-5feaf635ecbf3680",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“远”意思相反的是哪个词？",
+    "answer": "近",
+    "choices": [
+      "近",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“远”和“近”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-4af2bab12bc5ed07",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“深”意思相反的是哪个词？",
+    "answer": "浅",
+    "choices": [
+      "浅",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“深”和“浅”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-96d5ede9992d92c4",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“粗”意思相反的是哪个词？",
+    "answer": "细",
+    "choices": [
+      "细",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“粗”和“细”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-eb5ff87741201bde",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“厚”意思相反的是哪个词？",
+    "answer": "薄",
+    "choices": [
+      "薄",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“厚”和“薄”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-19b12a63a7bc681a",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“轻”意思相反的是哪个词？",
+    "answer": "重",
+    "choices": [
+      "重",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“轻”和“重”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-d62e1fb04b3638fe",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“冷”意思相反的是哪个词？",
+    "answer": "热",
+    "choices": [
+      "热",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“冷”和“热”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-37694e7d8bf15746",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“快”意思相反的是哪个词？",
+    "answer": "慢",
+    "choices": [
+      "慢",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“快”和“慢”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-6026e0eea87a5cd9",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“新”意思相反的是哪个词？",
+    "answer": "旧",
+    "choices": [
+      "旧",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“新”和“旧”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-b70f13b7b711133a",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“黑”意思相反的是哪个词？",
+    "answer": "白",
+    "choices": [
+      "白",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“黑”和“白”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-02419ebfd4b6c1ec",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“开”意思相反的是哪个词？",
+    "answer": "关",
+    "choices": [
+      "关",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“开”和“关”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-f96d43925b50d15a",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“进”意思相反的是哪个词？",
+    "answer": "退",
+    "choices": [
+      "退",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“进”和“退”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-9dc8832599b23cd5",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“来”意思相反的是哪个词？",
+    "answer": "去",
+    "choices": [
+      "去",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“来”和“去”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-05a5e22b46a09bad",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“升”意思相反的是哪个词？",
+    "answer": "降",
+    "choices": [
+      "降",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“升”和“降”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-3eca1b2fb85799e5",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“买”意思相反的是哪个词？",
+    "answer": "卖",
+    "choices": [
+      "卖",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“买”和“卖”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-cb2d360d36f2c002",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“输”意思相反的是哪个词？",
+    "answer": "赢",
+    "choices": [
+      "赢",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“输”和“赢”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-fdda249a3ed0ba8d",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“对”意思相反的是哪个词？",
+    "answer": "错",
+    "choices": [
+      "错",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“对”和“错”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-786096fd71caf18c",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“真”意思相反的是哪个词？",
+    "answer": "假",
+    "choices": [
+      "假",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“真”和“假”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-bcc890028013cef8",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“动”意思相反的是哪个词？",
+    "answer": "静",
+    "choices": [
+      "静",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“动”和“静”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-badc618f646c059c",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“松”意思相反的是哪个词？",
+    "answer": "紧",
+    "choices": [
+      "紧",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“松”和“紧”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-89dadc0115739eb7",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“软”意思相反的是哪个词？",
+    "answer": "硬",
+    "choices": [
+      "硬",
+      "宽",
+      "圆",
+      "香"
+    ],
+    "explanation": "“软”和“硬”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-62f8d5e099ca18a7",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“宽”意思相反的是哪个词？",
+    "answer": "窄",
+    "choices": [
+      "窄",
+      "圆",
+      "香",
+      "苹果"
+    ],
+    "explanation": "“宽”和“窄”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-9c815f4cc6787896",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“干燥”意思相反的是哪个词？",
+    "answer": "潮湿",
+    "choices": [
+      "潮湿",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“干燥”和“潮湿”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-441ff5a8f8b2f2d5",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“明亮”意思相反的是哪个词？",
+    "answer": "黑暗",
+    "choices": [
+      "黑暗",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“明亮”和“黑暗”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-0e0c029c669034b1",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“整齐”意思相反的是哪个词？",
+    "answer": "凌乱",
+    "choices": [
+      "凌乱",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“整齐”和“凌乱”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-972d8e9bb14273b5",
+    "subject": "chinese",
+    "minGrade": 1,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“认真”意思相反的是哪个词？",
+    "answer": "马虎",
+    "choices": [
+      "马虎",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“认真”和“马虎”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-101bd78575093954",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“勇敢”意思相反的是哪个词？",
+    "answer": "胆怯",
+    "choices": [
+      "胆怯",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“勇敢”和“胆怯”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-2ab646a0190d32f8",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“勤劳”意思相反的是哪个词？",
+    "answer": "懒惰",
+    "choices": [
+      "懒惰",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“勤劳”和“懒惰”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-0cff5d20e6a8e3ab",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“诚实”意思相反的是哪个词？",
+    "answer": "虚伪",
+    "choices": [
+      "虚伪",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“诚实”和“虚伪”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-3a7074b422373d6e",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“成功”意思相反的是哪个词？",
+    "answer": "失败",
+    "choices": [
+      "失败",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“成功”和“失败”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-863d894d70fa28e7",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“安全”意思相反的是哪个词？",
+    "answer": "危险",
+    "choices": [
+      "危险",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“安全”和“危险”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-d68b14db4802c15f",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“简单”意思相反的是哪个词？",
+    "answer": "复杂",
+    "choices": [
+      "复杂",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“简单”和“复杂”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-ea7fa870b2a4c596",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“容易”意思相反的是哪个词？",
+    "answer": "困难",
+    "choices": [
+      "困难",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“容易”和“困难”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-799fb98bb2637103",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“清楚”意思相反的是哪个词？",
+    "answer": "模糊",
+    "choices": [
+      "模糊",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“清楚”和“模糊”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-80df8572a0ea009b",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“热闹”意思相反的是哪个词？",
+    "answer": "冷清",
+    "choices": [
+      "冷清",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“热闹”和“冷清”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-da416c6c8402a52f",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“安静”意思相反的是哪个词？",
+    "answer": "喧闹",
+    "choices": [
+      "喧闹",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“安静”和“喧闹”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-adb613be7074af72",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“温暖”意思相反的是哪个词？",
+    "answer": "寒冷",
+    "choices": [
+      "寒冷",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“温暖”和“寒冷”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-572c0f3f079c2b60",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“坚强”意思相反的是哪个词？",
+    "answer": "软弱",
+    "choices": [
+      "软弱",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“坚强”和“软弱”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-98c36834f7b65191",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“谦虚”意思相反的是哪个词？",
+    "answer": "骄傲",
+    "choices": [
+      "骄傲",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“谦虚”和“骄傲”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-c8aee94abda33b2b",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“节约”意思相反的是哪个词？",
+    "answer": "浪费",
+    "choices": [
+      "浪费",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“节约”和“浪费”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-51973affd1f92db5",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“保护”意思相反的是哪个词？",
+    "answer": "破坏",
+    "choices": [
+      "破坏",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“保护”和“破坏”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-ea061b32143eac92",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“赞扬”意思相反的是哪个词？",
+    "answer": "批评",
+    "choices": [
+      "批评",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“赞扬”和“批评”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-7cd5d9cfb0dc7fb5",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“希望”意思相反的是哪个词？",
+    "answer": "失望",
+    "choices": [
+      "失望",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“希望”和“失望”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-17e404fb15d61992",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“进步”意思相反的是哪个词？",
+    "answer": "退步",
+    "choices": [
+      "退步",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“进步”和“退步”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-fffa5fbd7298dfbb",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“增加”意思相反的是哪个词？",
+    "answer": "减少",
+    "choices": [
+      "减少",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“增加”和“减少”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-4c8f7e6df26a3e8a",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“完整”意思相反的是哪个词？",
+    "answer": "残缺",
+    "choices": [
+      "残缺",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“完整”和“残缺”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-a2738e1374f4264e",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“清洁”意思相反的是哪个词？",
+    "answer": "肮脏",
+    "choices": [
+      "肮脏",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“清洁”和“肮脏”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-30aabe2b76c07d36",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“美丽”意思相反的是哪个词？",
+    "answer": "丑陋",
+    "choices": [
+      "丑陋",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“美丽”和“丑陋”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-bfed223d7151d9a7",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“熟悉”意思相反的是哪个词？",
+    "answer": "陌生",
+    "choices": [
+      "陌生",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“熟悉”和“陌生”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-6ab6fbed0a69cc07",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“紧张”意思相反的是哪个词？",
+    "answer": "放松",
+    "choices": [
+      "放松",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“紧张”和“放松”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-06bd6d48f01b50e2",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "与“公开”意思相反的是哪个词？",
+    "answer": "秘密",
+    "choices": [
+      "秘密",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“公开”和“秘密”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-cfe54515231d3c61",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“富裕”意思相反的是哪个词？",
+    "answer": "贫困",
+    "choices": [
+      "贫困",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“富裕”和“贫困”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-76de2fd610c0385a",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“团结”意思相反的是哪个词？",
+    "answer": "分裂",
+    "choices": [
+      "分裂",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“团结”和“分裂”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-55131254e0f47354",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“开始”意思相反的是哪个词？",
+    "answer": "结束",
+    "choices": [
+      "结束",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“开始”和“结束”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-b268873703ff78ac",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“喜欢”意思相反的是哪个词？",
+    "answer": "讨厌",
+    "choices": [
+      "讨厌",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“喜欢”和“讨厌”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-1565ea080023a20b",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“光荣”意思相反的是哪个词？",
+    "answer": "耻辱",
+    "choices": [
+      "耻辱",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“光荣”和“耻辱”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-2e57c71eef6fb62a",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“肯定”意思相反的是哪个词？",
+    "answer": "否定",
+    "choices": [
+      "否定",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“肯定”和“否定”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-ccba7de9a95170ee",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“坚硬”意思相反的是哪个词？",
+    "answer": "柔软",
+    "choices": [
+      "柔软",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“坚硬”和“柔软”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-801888e13e612179",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“宽敞”意思相反的是哪个词？",
+    "answer": "狭窄",
+    "choices": [
+      "狭窄",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“宽敞”和“狭窄”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-ba3203a0c73e1275",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“仔细”意思相反的是哪个词？",
+    "answer": "粗心",
+    "choices": [
+      "粗心",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“仔细”和“粗心”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-306746010602de2a",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“清醒”意思相反的是哪个词？",
+    "answer": "糊涂",
+    "choices": [
+      "糊涂",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“清醒”和“糊涂”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-0fb3d26dce46d592",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“积极”意思相反的是哪个词？",
+    "answer": "消极",
+    "choices": [
+      "消极",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“积极”和“消极”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-cfd6e0df44a2bde2",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“繁荣”意思相反的是哪个词？",
+    "answer": "萧条",
+    "choices": [
+      "萧条",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“繁荣”和“萧条”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-9256ae2ddbbc6805",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“平坦”意思相反的是哪个词？",
+    "answer": "崎岖",
+    "choices": [
+      "崎岖",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“平坦”和“崎岖”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-3571243cc7988a39",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“慷慨”意思相反的是哪个词？",
+    "answer": "吝啬",
+    "choices": [
+      "吝啬",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“慷慨”和“吝啬”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-4fc524b5263adf99",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“稠密”意思相反的是哪个词？",
+    "answer": "稀疏",
+    "choices": [
+      "稀疏",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“稠密”和“稀疏”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-de278df322f88227",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“锋利”意思相反的是哪个词？",
+    "answer": "迟钝",
+    "choices": [
+      "迟钝",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“锋利”和“迟钝”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-7b67e8d2286eba60",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“珍惜”意思相反的是哪个词？",
+    "answer": "糟蹋",
+    "choices": [
+      "糟蹋",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“珍惜”和“糟蹋”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-454ef573df7f63e1",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“清澈”意思相反的是哪个词？",
+    "answer": "浑浊",
+    "choices": [
+      "浑浊",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“清澈”和“浑浊”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-6c1f446020e6dbd1",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“灵活”意思相反的是哪个词？",
+    "answer": "呆板",
+    "choices": [
+      "呆板",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“灵活”和“呆板”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-a6c72d3827019b13",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "与“果断”意思相反的是哪个词？",
+    "answer": "犹豫",
+    "choices": [
+      "犹豫",
+      "鲜艳",
+      "整洁",
+      "温柔"
+    ],
+    "explanation": "“果断”和“犹豫”是一组反义词。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "反义词"
+  },
+  {
+    "id": "chinese-296321611622eaef",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：一心一（　）。",
+    "answer": "心",
+    "choices": [
+      "心",
+      "水",
+      "人",
+      "风"
+    ],
+    "explanation": "完整成语是“一心一意”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-b6f909b9c3d49bb1",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：三心二（　）。",
+    "answer": "意",
+    "choices": [
+      "意",
+      "人",
+      "云",
+      "地"
+    ],
+    "explanation": "完整成语是“三心二意”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-d812ea7dabc83339",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：五颜六（　）。",
+    "answer": "色",
+    "choices": [
+      "色",
+      "花",
+      "云",
+      "风"
+    ],
+    "explanation": "完整成语是“五颜六色”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-da939736a4e51df5",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：七上八（　）。",
+    "answer": "下",
+    "choices": [
+      "下",
+      "水",
+      "地",
+      "山"
+    ],
+    "explanation": "完整成语是“七上八下”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-154651af86fdf35a",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：九牛一（　）。",
+    "answer": "毛",
+    "choices": [
+      "毛",
+      "花",
+      "山",
+      "木"
+    ],
+    "explanation": "完整成语是“九牛一毛”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-121fbbc041010a5f",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：十全十（　）。",
+    "answer": "美",
+    "choices": [
+      "美",
+      "山",
+      "地",
+      "风"
+    ],
+    "explanation": "完整成语是“十全十美”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-1a2872eae48ea335",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：百发百（　）。",
+    "answer": "中",
+    "choices": [
+      "中",
+      "目",
+      "水",
+      "心"
+    ],
+    "explanation": "完整成语是“百发百中”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-7496d3fccf1c83a3",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：千变万（　）。",
+    "answer": "化",
+    "choices": [
+      "化",
+      "水",
+      "人",
+      "天"
+    ],
+    "explanation": "完整成语是“千变万化”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-319ee0460774b829",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：万众一（　）。",
+    "answer": "心",
+    "choices": [
+      "心",
+      "水",
+      "人",
+      "花"
+    ],
+    "explanation": "完整成语是“万众一心”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-a21ccd58e201442b",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：大公无（　）。",
+    "answer": "私",
+    "choices": [
+      "私",
+      "天",
+      "花",
+      "水"
+    ],
+    "explanation": "完整成语是“大公无私”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-6bf150987bc423b9",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：自言自（　）。",
+    "answer": "语",
+    "choices": [
+      "语",
+      "目",
+      "木",
+      "手"
+    ],
+    "explanation": "完整成语是“自言自语”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-ab61cd9559c59955",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：鸟语花（　）。",
+    "answer": "香",
+    "choices": [
+      "香",
+      "山",
+      "天",
+      "木"
+    ],
+    "explanation": "完整成语是“鸟语花香”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-d4edf609894223c0",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：山清水（　）。",
+    "answer": "秀",
+    "choices": [
+      "秀",
+      "心",
+      "风",
+      "云"
+    ],
+    "explanation": "完整成语是“山清水秀”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-d494e53ec5b2cb05",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：风和日（　）。",
+    "answer": "丽",
+    "choices": [
+      "丽",
+      "水",
+      "风",
+      "人"
+    ],
+    "explanation": "完整成语是“风和日丽”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-d24b52619ae36b84",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：春暖花（　）。",
+    "answer": "开",
+    "choices": [
+      "开",
+      "花",
+      "目",
+      "水"
+    ],
+    "explanation": "完整成语是“春暖花开”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-2a1524360640c498",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：天高云（　）。",
+    "answer": "淡",
+    "choices": [
+      "淡",
+      "人",
+      "目",
+      "风"
+    ],
+    "explanation": "完整成语是“天高云淡”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-f049b5ca3c1daaf2",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：秋高气（　）。",
+    "answer": "爽",
+    "choices": [
+      "爽",
+      "地",
+      "木",
+      "风"
+    ],
+    "explanation": "完整成语是“秋高气爽”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-3cc64c9211b1692e",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：冰天雪（　）。",
+    "answer": "地",
+    "choices": [
+      "地",
+      "山",
+      "手",
+      "云"
+    ],
+    "explanation": "完整成语是“冰天雪地”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-5c85f76018b79e28",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：白雪皑（　）。",
+    "answer": "皑",
+    "choices": [
+      "皑",
+      "水",
+      "目",
+      "风"
+    ],
+    "explanation": "完整成语是“白雪皑皑”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-8b64d22c9f7ce013",
+    "subject": "chinese",
+    "minGrade": 2,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 1,
+    "prompt": "把成语补充完整：绿树成（　）。",
+    "answer": "荫",
+    "choices": [
+      "荫",
+      "地",
+      "目",
+      "云"
+    ],
+    "explanation": "完整成语是“绿树成荫”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-673a05618d6220ea",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：金碧辉（　）。",
+    "answer": "煌",
+    "choices": [
+      "煌",
+      "木",
+      "目",
+      "山"
+    ],
+    "explanation": "完整成语是“金碧辉煌”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-812f165bc6a1fc14",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：欢天喜（　）。",
+    "answer": "地",
+    "choices": [
+      "地",
+      "目",
+      "手",
+      "山"
+    ],
+    "explanation": "完整成语是“欢天喜地”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-809e48524712ed6d",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：兴高采（　）。",
+    "answer": "烈",
+    "choices": [
+      "烈",
+      "地",
+      "花",
+      "目"
+    ],
+    "explanation": "完整成语是“兴高采烈”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-f967bed9d1c7d450",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：眉开眼（　）。",
+    "answer": "笑",
+    "choices": [
+      "笑",
+      "花",
+      "风",
+      "心"
+    ],
+    "explanation": "完整成语是“眉开眼笑”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-91ace704e5d12e58",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：垂头丧（　）。",
+    "answer": "气",
+    "choices": [
+      "气",
+      "地",
+      "云",
+      "人"
+    ],
+    "explanation": "完整成语是“垂头丧气”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-874a40046c0fef73",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：目不转（　）。",
+    "answer": "睛",
+    "choices": [
+      "睛",
+      "水",
+      "人",
+      "花"
+    ],
+    "explanation": "完整成语是“目不转睛”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-6b2ed78920fe0392",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：聚精会（　）。",
+    "answer": "神",
+    "choices": [
+      "神",
+      "山",
+      "人",
+      "云"
+    ],
+    "explanation": "完整成语是“聚精会神”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-ac71aa3e127f2a6e",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：全神贯（　）。",
+    "answer": "注",
+    "choices": [
+      "注",
+      "风",
+      "天",
+      "山"
+    ],
+    "explanation": "完整成语是“全神贯注”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-cef4b831cf288a0b",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：专心致（　）。",
+    "answer": "志",
+    "choices": [
+      "志",
+      "目",
+      "手",
+      "水"
+    ],
+    "explanation": "完整成语是“专心致志”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-e837b5f8873eb95e",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：一丝不（　）。",
+    "answer": "苟",
+    "choices": [
+      "苟",
+      "心",
+      "山",
+      "风"
+    ],
+    "explanation": "完整成语是“一丝不苟”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-2c7bb1f6c7d07738",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：勤学苦（　）。",
+    "answer": "练",
+    "choices": [
+      "练",
+      "目",
+      "地",
+      "天"
+    ],
+    "explanation": "完整成语是“勤学苦练”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-3eb60678932b7501",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：废寝忘（　）。",
+    "answer": "食",
+    "choices": [
+      "食",
+      "花",
+      "天",
+      "手"
+    ],
+    "explanation": "完整成语是“废寝忘食”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-be9641d437d0cb34",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：闻鸡起（　）。",
+    "answer": "舞",
+    "choices": [
+      "舞",
+      "地",
+      "风",
+      "云"
+    ],
+    "explanation": "完整成语是“闻鸡起舞”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-6c7ed552880e058e",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：悬梁刺（　）。",
+    "answer": "股",
+    "choices": [
+      "股",
+      "木",
+      "云",
+      "山"
+    ],
+    "explanation": "完整成语是“悬梁刺股”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-51b5272f7f2d2847",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：凿壁偷（　）。",
+    "answer": "光",
+    "choices": [
+      "光",
+      "山",
+      "人",
+      "水"
+    ],
+    "explanation": "完整成语是“凿壁偷光”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-a47cf43cffd37da6",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：囊萤映（　）。",
+    "answer": "雪",
+    "choices": [
+      "雪",
+      "木",
+      "人",
+      "目"
+    ],
+    "explanation": "完整成语是“囊萤映雪”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-428c1f6315fe9f3a",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：程门立（　）。",
+    "answer": "雪",
+    "choices": [
+      "雪",
+      "木",
+      "风",
+      "目"
+    ],
+    "explanation": "完整成语是“程门立雪”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-1d4411d26aad5a4d",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：温故知（　）。",
+    "answer": "新",
+    "choices": [
+      "新",
+      "手",
+      "目",
+      "人"
+    ],
+    "explanation": "完整成语是“温故知新”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-59b546c3879cb421",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：学以致（　）。",
+    "answer": "用",
+    "choices": [
+      "用",
+      "风",
+      "山",
+      "目"
+    ],
+    "explanation": "完整成语是“学以致用”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-9cdb95757ec7a3a5",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：举一反（　）。",
+    "answer": "三",
+    "choices": [
+      "三",
+      "天",
+      "山",
+      "人"
+    ],
+    "explanation": "完整成语是“举一反三”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-c0bf8c3fde9bcabb",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：画蛇添（　）。",
+    "answer": "足",
+    "choices": [
+      "足",
+      "风",
+      "心",
+      "花"
+    ],
+    "explanation": "完整成语是“画蛇添足”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-35c977a5f2a4af82",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：守株待（　）。",
+    "answer": "兔",
+    "choices": [
+      "兔",
+      "手",
+      "水",
+      "花"
+    ],
+    "explanation": "完整成语是“守株待兔”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-184d786b1b8999d6",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：亡羊补（　）。",
+    "answer": "牢",
+    "choices": [
+      "牢",
+      "云",
+      "手",
+      "目"
+    ],
+    "explanation": "完整成语是“亡羊补牢”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-fd3349c03b51bc19",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：掩耳盗（　）。",
+    "answer": "铃",
+    "choices": [
+      "铃",
+      "水",
+      "天",
+      "心"
+    ],
+    "explanation": "完整成语是“掩耳盗铃”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-5ba38deb527fedc3",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：刻舟求（　）。",
+    "answer": "剑",
+    "choices": [
+      "剑",
+      "山",
+      "目",
+      "手"
+    ],
+    "explanation": "完整成语是“刻舟求剑”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-0a854004aea36566",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：叶公好（　）。",
+    "answer": "龙",
+    "choices": [
+      "龙",
+      "天",
+      "花",
+      "手"
+    ],
+    "explanation": "完整成语是“叶公好龙”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-fe86ded3a3f530dc",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：狐假虎（　）。",
+    "answer": "威",
+    "choices": [
+      "威",
+      "水",
+      "手",
+      "山"
+    ],
+    "explanation": "完整成语是“狐假虎威”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-cbc48b3a46b9a838",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：井底之（　）。",
+    "answer": "蛙",
+    "choices": [
+      "蛙",
+      "风",
+      "山",
+      "花"
+    ],
+    "explanation": "完整成语是“井底之蛙”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-db6ce827539dd1cc",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：拔苗助（　）。",
+    "answer": "长",
+    "choices": [
+      "长",
+      "天",
+      "人",
+      "地"
+    ],
+    "explanation": "完整成语是“拔苗助长”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-d8d2cf01bec6b39d",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：对牛弹（　）。",
+    "answer": "琴",
+    "choices": [
+      "琴",
+      "风",
+      "人",
+      "手"
+    ],
+    "explanation": "完整成语是“对牛弹琴”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-56c40cdea5204337",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：自相矛（　）。",
+    "answer": "盾",
+    "choices": [
+      "盾",
+      "天",
+      "目",
+      "心"
+    ],
+    "explanation": "完整成语是“自相矛盾”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-e500e7425bbef59d",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：滥竽充（　）。",
+    "answer": "数",
+    "choices": [
+      "数",
+      "花",
+      "山",
+      "人"
+    ],
+    "explanation": "完整成语是“滥竽充数”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-d0d44af6d8e655a3",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：买椟还（　）。",
+    "answer": "珠",
+    "choices": [
+      "珠",
+      "花",
+      "目",
+      "地"
+    ],
+    "explanation": "完整成语是“买椟还珠”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-c09c678c6456adc0",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：画龙点（　）。",
+    "answer": "睛",
+    "choices": [
+      "睛",
+      "手",
+      "人",
+      "天"
+    ],
+    "explanation": "完整成语是“画龙点睛”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-af4268863690d52f",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：杯弓蛇（　）。",
+    "answer": "影",
+    "choices": [
+      "影",
+      "风",
+      "云",
+      "地"
+    ],
+    "explanation": "完整成语是“杯弓蛇影”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-6615c968db277303",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：惊弓之（　）。",
+    "answer": "鸟",
+    "choices": [
+      "鸟",
+      "天",
+      "云",
+      "地"
+    ],
+    "explanation": "完整成语是“惊弓之鸟”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-a985a81424011bc9",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：鹬蚌相（　）。",
+    "answer": "争",
+    "choices": [
+      "争",
+      "天",
+      "山",
+      "水"
+    ],
+    "explanation": "完整成语是“鹬蚌相争”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-3d743c77cc921607",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：螳螂捕（　）。",
+    "answer": "蝉",
+    "choices": [
+      "蝉",
+      "云",
+      "人",
+      "目"
+    ],
+    "explanation": "完整成语是“螳螂捕蝉”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-12f6431c28784ebf",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：盲人摸（　）。",
+    "answer": "象",
+    "choices": [
+      "象",
+      "心",
+      "花",
+      "目"
+    ],
+    "explanation": "完整成语是“盲人摸象”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-28cc2faf5adfe54b",
+    "subject": "chinese",
+    "minGrade": 3,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：水滴石（　）。",
+    "answer": "穿",
+    "choices": [
+      "穿",
+      "地",
+      "目",
+      "天"
+    ],
+    "explanation": "完整成语是“水滴石穿”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-90a848679312eb29",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：绳锯木（　）。",
+    "answer": "断",
+    "choices": [
+      "断",
+      "天",
+      "手",
+      "木"
+    ],
+    "explanation": "完整成语是“绳锯木断”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-b2696ae1f9e496bc",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：坚持不（　）。",
+    "answer": "懈",
+    "choices": [
+      "懈",
+      "水",
+      "花",
+      "心"
+    ],
+    "explanation": "完整成语是“坚持不懈”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-345297dbac500318",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：持之以（　）。",
+    "answer": "恒",
+    "choices": [
+      "恒",
+      "水",
+      "目",
+      "木"
+    ],
+    "explanation": "完整成语是“持之以恒”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-123defcc2d6895bd",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：百折不（　）。",
+    "answer": "挠",
+    "choices": [
+      "挠",
+      "水",
+      "木",
+      "云"
+    ],
+    "explanation": "完整成语是“百折不挠”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-df929c4475846aad",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：锲而不（　）。",
+    "answer": "舍",
+    "choices": [
+      "舍",
+      "水",
+      "云",
+      "花"
+    ],
+    "explanation": "完整成语是“锲而不舍”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-aa0dc38ef13c4896",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：迎难而（　）。",
+    "answer": "上",
+    "choices": [
+      "上",
+      "心",
+      "山",
+      "云"
+    ],
+    "explanation": "完整成语是“迎难而上”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-67dca5d45842f3fc",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：众志成（　）。",
+    "answer": "城",
+    "choices": [
+      "城",
+      "山",
+      "目",
+      "木"
+    ],
+    "explanation": "完整成语是“众志成城”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-16c9d7c1f27c5f9d",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：同舟共（　）。",
+    "answer": "济",
+    "choices": [
+      "济",
+      "山",
+      "水",
+      "人"
+    ],
+    "explanation": "完整成语是“同舟共济”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-d5bff8934271e0e6",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：齐心协（　）。",
+    "answer": "力",
+    "choices": [
+      "力",
+      "水",
+      "心",
+      "云"
+    ],
+    "explanation": "完整成语是“齐心协力”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-bc183fe1dcc636e5",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：团结一（　）。",
+    "answer": "致",
+    "choices": [
+      "致",
+      "目",
+      "云",
+      "人"
+    ],
+    "explanation": "完整成语是“团结一致”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-ce95863cc98af405",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：助人为（　）。",
+    "answer": "乐",
+    "choices": [
+      "乐",
+      "手",
+      "地",
+      "花"
+    ],
+    "explanation": "完整成语是“助人为乐”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-cdca6c0f1d0ec9b6",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：舍己为（　）。",
+    "answer": "人",
+    "choices": [
+      "人",
+      "目",
+      "山",
+      "云"
+    ],
+    "explanation": "完整成语是“舍己为人”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-fb117c602318db6e",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：拾金不（　）。",
+    "answer": "昧",
+    "choices": [
+      "昧",
+      "天",
+      "目",
+      "山"
+    ],
+    "explanation": "完整成语是“拾金不昧”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-5a0e1bf83e99d386",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：见义勇（　）。",
+    "answer": "为",
+    "choices": [
+      "为",
+      "云",
+      "花",
+      "木"
+    ],
+    "explanation": "完整成语是“见义勇为”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-6238a278a1de3a60",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：雪中送（　）。",
+    "answer": "炭",
+    "choices": [
+      "炭",
+      "云",
+      "风",
+      "目"
+    ],
+    "explanation": "完整成语是“雪中送炭”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-48b0fb421095dbcc",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：锦上添（　）。",
+    "answer": "花",
+    "choices": [
+      "花",
+      "木",
+      "水",
+      "目"
+    ],
+    "explanation": "完整成语是“锦上添花”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-8d93354890f3c615",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：饮水思（　）。",
+    "answer": "源",
+    "choices": [
+      "源",
+      "地",
+      "心",
+      "目"
+    ],
+    "explanation": "完整成语是“饮水思源”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-289183584e3a1315",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：知恩图（　）。",
+    "answer": "报",
+    "choices": [
+      "报",
+      "心",
+      "花",
+      "云"
+    ],
+    "explanation": "完整成语是“知恩图报”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-df314e8dd8fddd92",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：尊老爱（　）。",
+    "answer": "幼",
+    "choices": [
+      "幼",
+      "山",
+      "天",
+      "云"
+    ],
+    "explanation": "完整成语是“尊老爱幼”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-ef2f6c69b2dba0b7",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：平易近（　）。",
+    "answer": "人",
+    "choices": [
+      "人",
+      "木",
+      "云",
+      "手"
+    ],
+    "explanation": "完整成语是“平易近人”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-f03d9391e7631e25",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：和蔼可（　）。",
+    "answer": "亲",
+    "choices": [
+      "亲",
+      "目",
+      "人",
+      "手"
+    ],
+    "explanation": "完整成语是“和蔼可亲”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-f197425d1209f18f",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：诚心诚（　）。",
+    "answer": "意",
+    "choices": [
+      "意",
+      "天",
+      "山",
+      "手"
+    ],
+    "explanation": "完整成语是“诚心诚意”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-ebe625a2e0327338",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：言而有（　）。",
+    "answer": "信",
+    "choices": [
+      "信",
+      "目",
+      "心",
+      "云"
+    ],
+    "explanation": "完整成语是“言而有信”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-cbd78741edb164dc",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：一诺千（　）。",
+    "answer": "金",
+    "choices": [
+      "金",
+      "山",
+      "木",
+      "心"
+    ],
+    "explanation": "完整成语是“一诺千金”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-c3256d75f2fd89b0",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：实事求（　）。",
+    "answer": "是",
+    "choices": [
+      "是",
+      "地",
+      "天",
+      "水"
+    ],
+    "explanation": "完整成语是“实事求是”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-fb7dca681b94d671",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：脚踏实（　）。",
+    "answer": "地",
+    "choices": [
+      "地",
+      "山",
+      "目",
+      "木"
+    ],
+    "explanation": "完整成语是“脚踏实地”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-9dc727f81d47fb6f",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：胸有成（　）。",
+    "answer": "竹",
+    "choices": [
+      "竹",
+      "云",
+      "山",
+      "手"
+    ],
+    "explanation": "完整成语是“胸有成竹”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-55de53c3c94182bd",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：得心应（　）。",
+    "answer": "手",
+    "choices": [
+      "手",
+      "目",
+      "花",
+      "天"
+    ],
+    "explanation": "完整成语是“得心应手”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-7f42cfd3396392b9",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：妙笔生（　）。",
+    "answer": "花",
+    "choices": [
+      "花",
+      "心",
+      "风",
+      "手"
+    ],
+    "explanation": "完整成语是“妙笔生花”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-b987c8d698ee97b5",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：栩栩如（　）。",
+    "answer": "生",
+    "choices": [
+      "生",
+      "人",
+      "手",
+      "目"
+    ],
+    "explanation": "完整成语是“栩栩如生”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-d6b91e6f9be94943",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：惟妙惟（　）。",
+    "answer": "肖",
+    "choices": [
+      "肖",
+      "目",
+      "木",
+      "人"
+    ],
+    "explanation": "完整成语是“惟妙惟肖”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-d94a62c34dd86260",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：如鱼得（　）。",
+    "answer": "水",
+    "choices": [
+      "水",
+      "地",
+      "山",
+      "目"
+    ],
+    "explanation": "完整成语是“如鱼得水”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-b37dec4cdd5cb37b",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：如虎添（　）。",
+    "answer": "翼",
+    "choices": [
+      "翼",
+      "水",
+      "目",
+      "天"
+    ],
+    "explanation": "完整成语是“如虎添翼”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-d899b2a1b3c3c18b",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：望梅止（　）。",
+    "answer": "渴",
+    "choices": [
+      "渴",
+      "目",
+      "木",
+      "山"
+    ],
+    "explanation": "完整成语是“望梅止渴”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-80494e258197103c",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：愚公移（　）。",
+    "answer": "山",
+    "choices": [
+      "山",
+      "地",
+      "天",
+      "目"
+    ],
+    "explanation": "完整成语是“愚公移山”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-3d5977774d964be5",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：精卫填（　）。",
+    "answer": "海",
+    "choices": [
+      "海",
+      "目",
+      "手",
+      "天"
+    ],
+    "explanation": "完整成语是“精卫填海”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-d90178cba5f8bb3f",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：夸父逐（　）。",
+    "answer": "日",
+    "choices": [
+      "日",
+      "手",
+      "云",
+      "山"
+    ],
+    "explanation": "完整成语是“夸父逐日”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-70b9874257ef4f48",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：女娲补（　）。",
+    "answer": "天",
+    "choices": [
+      "天",
+      "水",
+      "山",
+      "木"
+    ],
+    "explanation": "完整成语是“女娲补天”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-548b8665d1cf8e2a",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：开天辟（　）。",
+    "answer": "地",
+    "choices": [
+      "地",
+      "天",
+      "山",
+      "水"
+    ],
+    "explanation": "完整成语是“开天辟地”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  },
+  {
+    "id": "chinese-71a40e7163237986",
+    "subject": "chinese",
+    "minGrade": 4,
+    "maxGrade": 6,
+    "semester": 0,
+    "difficulty": 2,
+    "prompt": "把成语补充完整：叶落归（　）。",
+    "answer": "根",
+    "choices": [
+      "根",
+      "花",
+      "山",
+      "风"
+    ],
+    "explanation": "完整成语是“叶落归根”。",
+    "reference": "原创练习；按小学适龄知识点编写",
+    "topic": "成语"
+  }
+]
